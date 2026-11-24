@@ -1,7 +1,7 @@
 # 여신 사수 — 규정 막힐 때 바로 묻는 대출 규제 사수
 
 > 은행 지점 창구 직원을 위한 **대출 규제 판정 에이전트** · Liner .EXE-THON 출품작(장재영 1인 참가)
-> 배포: https://loandesk-copilot-rosy.vercel.app/?view=judge (심사위원 설명을 켠 화면, 왼쪽 아래 스위치를 끄면 창구 직원 화면) · 기획서: [`docs/submission/여신사수_기획서.pdf`](docs/submission/여신사수_기획서.pdf)(제출용 2쪽, 상세판 [`docs/PROPOSAL.md`](docs/PROPOSAL.md)) · 영상 나레이션: [`docs/submission/VOICE_SCRIPT.md`](docs/submission/VOICE_SCRIPT.md)(장면 기획 초안은 [`docs/VIDEO.md`](docs/VIDEO.md))
+> 배포: https://loandesk-copilot-rosy.vercel.app/?view=judge (심사위원 설명을 켠 화면, 왼쪽 아래 스위치를 끄면 창구 직원 화면) · 데모 영상(4분 52초): https://youtu.be/A9RcN8LelMg · 기획서: [`docs/submission/여신사수_기획서.pdf`](docs/submission/여신사수_기획서.pdf)(제출용 2쪽, 상세판 [`docs/PROPOSAL.md`](docs/PROPOSAL.md)) · 영상 나레이션: [`docs/submission/VOICE_SCRIPT.md`](docs/submission/VOICE_SCRIPT.md)(장면 기획 초안은 [`docs/VIDEO.md`](docs/VIDEO.md))
 > **심사위원께**: 위 배포 링크(`?view=judge`)로 열어 **왼쪽 아래 「심사위원 설명 보기」를 켠 채** 보시기를 권합니다. Liner가 쓰인 곳, 처리 시간, 근거 번호, 평가 수치가 화면마다 함께 보입니다. 끄면 창구 직원이 실제로 보는 화면입니다.
 > 저장소·주소의 `loandesk-copilot`은 이전 이름(여신 창구 코파일럿)입니다.
 
