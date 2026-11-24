@@ -1,0 +1,559 @@
+{
+ "id": "Q2",
+ "question": "2026년 4월 1일 금융위원회 「'26년도 가계부채 관리방안」(다주택자 수도권·규제지역 아파트 주담대 만기연장 제한, 4.17 시행)의 임대차계약종료일 정의 중 '대책 시행일 전일(4.2~4.16)까지 체결되는 묵시적 갱신'에서 묵시적 갱신이 이루어지는 날은 계약 종료일인가요, 갱신거절 통지 기한(종료 2개월 전)이 지난 날인가요? 4.1 이전에 이미 묵시적 갱신이 성립한 계약은 어떻게 보나요? 금융위원회·금융감독원·은행연합회·HUG·HF·SGI 등 공식 자료(보도자료, FAQ, 행정지도, 질의회신, 금융규제·법령해석포털 회신사례)에서 근거 문장을 찾아 문서명·날짜와 함께 인용해 주세요. 공식 근거가 없으면 '공식 근거 없음'이라고 분명히 답하고 추측하지 마세요.",
+ "agent": {
+  "text": "금융위원회 공식 자료는 2026년 4월 1일을 기준으로 **이미 유효하게 체결된 임대차계약은 그 계약의 종료일까지** 만기연장을 허용하고, 2026년 4월 2일부터 4월 16일까지 이루어지는 묵시적 갱신은 예외적으로 **갱신계약의 종료일까지** 허용한다고 안내합니다. 다만, 묵시적 갱신이 이루어지는 날을 계약 종료일로 볼지, 갱신거절 통지기간이 지난 날로 볼지에 관한 명시적 정의는 확인되지 않습니다.\n\n### 1. 금융위원회 방안에서 확인되는 기준\n\n금융위원회 「주요정책문답」은 원칙으로 “발표일(’26.4.1일) 기준 유효하게 체결된 임대차계약의 종료일까지 만기연장 허용”이라고 안내합니다. 문서명은 「주요정책문답」이고, 관련 방안의 발표일은 2026년 4월 1일입니다 ((47)).\n\n같은 문서는 예외로, 주택 매도가 곤란한 불가피한 경우에는 2026년 4월 2일 이후 임대차계약이 갱신되어도 “갱신계약의 종료일까지” 만기연장을 허용한다고 설명합니다 ((47)).\n\n또한 예외 대상 중 하나를 “대책 시행일 전일(’26.4.16일)까지 이루어지는 묵시적 갱신”이라고 표현하고, 2026년 4월 2일부터 4월 16일까지를 유예기간으로 제시합니다 ((47)).\n\n### 2. 묵시적 갱신이 이루어지는 날에 관한 공식 근거\n\n금융위원회 문답에는 “4.17일에 묵시적 갱신이 이루어지는 경우”라는 사례가 기재되어 있고, 이 경우 유예기간 중 세입자에게 계약갱신 거절 의사를 표시하면 임대차계약 종료일인 6월 16일까지 주택 매도가 가능하다고 설명합니다 ((47)).\n\n그러나 이 문답은 묵시적 갱신의 성립일을 다음 중 어느 날로 확정한다고 명시하지 않습니다.\n\n- 기존 임대차계약의 계약 종료일\n- 갱신거절 통지기한이 지난 날\n- 그 밖의 별도 기준일\n\n따라서 2026년 4월 1일 금융위원회 「'26년도 가계부채 관리방안」과 그 공식 문답에서 **묵시적 갱신이 이루어지는 날의 법적·행정적 정의를 직접 밝힌 공식 근거는 없습니다. 공식 근거 없음.**\n\n금융위원회 FAQ도 유예기간 중 묵시적 갱신이 이루어지는 경우를 설명하지만, 묵시적 갱신의 성립일을 계약 종료일 또는 통지기간 만료일 중 하나로 정의하는 문장은 확인되지 않습니다. 문서명은 「'26년도 가계부채 관리방안 관련 FAQ」이고, 날짜는 2026년 4월 1일입니다 ((3)).\n\n### 3. 2026년 4월 1일 이전에 이미 묵시적 갱신이 성립한 계약\n\n금융위원회 문답의 원칙은 2026년 4월 1일 현재 “유효하게 체결된 임대차계약”의 종료일까지 만기연장을 허용하는 것입니다 ((47)).\n\n따라서 공식 문언상 2026년 4월 1일 이전에 이미 묵시적 갱신이 성립하여 2026년 4월 1일 현재 유효한 임대차계약이라면, 우선 적용되는 기준은 **2026년 4월 1일 현재 유효한 계약의 종료일**입니다 ((47)).\n\n다만 금융위원회 자료는 다음 사항을 별도로 명시하지 않습니다.\n\n- 2026년 4월 1일 전에 성립한 묵시적 갱신을 기존 계약으로 볼지\n- 이미 갱신된 계약을 2026년 4월 2일부터 4월 16일까지 새로 이루어진 묵시적 갱신과 동일하게 볼지\n- 2026년 4월 1일 이전에 묵시적 갱신이 성립한 경우의 정확한 증빙방법이나 금융회사 심사기준\n\n그러므로 이 부분에 관해서도 해당 방안의 적용을 직접 확정하는 별도 공식 질의회신은 제공된 공식 자료에서 확인되지 않습니다. **공식 근거 없음.**\n\n### 4. 다른 공식 기관 자료에서 확인되는 일반적 의미\n\nHUG는 묵시적 갱신에 관하여 계약 종료 전 일정 기간 동안 당사자가 계약 해지 의사를 통지하지 않으면 묵시적 갱신이 이루어진다고 안내합니다. 문서명은 「계약 갱신 시 < 계약 종료 및 갱신 시_유의사항」이며, 제공된 자료에는 발행일이 표시되어 있지 않습니다 ((11)).\n\nHUG의 보증 관련 서식은 갱신거절 통지가 임대차기간 종료 2개월 전까지 도달해야 임대차계약이 종료되고, 묵시적으로 갱신된 경우에는 계약해지 통지가 도달한 후 3개월이 지나야 한다고 설명합니다. 문서명은 「전세보증금반환보증 관련 별지서식」이며, 제공된 자료에는 발행일이 표시되어 있지 않습니다 ((21)).\n\nHUG의 다른 안내문도 묵시적 갱신이나 갱신청구권 행사로 계약이 갱신된 경우에는 갱신계약이 종료된 때를 계약 종료로 본다고 안내합니다. 문서명은 「임대보증금보증서 발급 안내문」이며, 제공된 자료에는 발행일이 표시되어 있지 않습니다 ((25)).\n\n이 HUG 자료들은 임대차 및 보증 업무에서의 일반적인 계약 종료·갱신 기준을 설명할 뿐, 2026년 4월 1일 금융위원회 가계부채 관리방안에서 사용하는 “대책 시행일 전일까지 체결되는 묵시적 갱신”의 기준일을 직접 해석한 자료는 아닙니다 ((11)) ((21)) ((25)).\n\n### 결론\n\n- 금융위원회 방안의 원칙은 **2026년 4월 1일 현재 유효한 임대차계약의 종료일**입니다 ((47)).\n- 2026년 4월 2일부터 4월 16일까지 이루어지는 묵시적 갱신은 예외적으로 **갱신계약의 종료일**까지 고려한다고 되어 있습니다 ((47)).\n- 그러나 묵시적 갱신이 이루어지는 날을 **계약 종료일**로 볼지, **갱신거절 통지기한이 지난 날**로 볼지에 대한 금융위원회의 명시적 정의는 확인되지 않습니다. **공식 근거 없음.**\n- 2026년 4월 1일 이전에 이미 묵시적 갱신이 성립한 계약은, 제공된 금융위원회 문언상 2026년 4월 1일 현재 유효한 계약이라면 그 계약의 종료일을 기준으로 보는 내용만 확인됩니다 ((47)).\n- 다만 그 계약을 2026년 4월 2일부터 4월 16일까지 새로 이루어진 묵시적 갱신과 동일하게 취급하는지에 관한 별도 공식 기준은 확인되지 않습니다. **공식 근거 없음.**\n\n**중요 고지**\n\n이 정보는 일반적인 정보 제공을 위한 것이며 법률·금융 전문가의 자문을 대신하지 않습니다. 개인의 계약 및 대출 상황에 맞는 정확한 안내는 자격을 갖춘 변호사, 법무사 또는 금융기관 담당자에게 상담하시기 바랍니다.",
+  "references": [
+   {
+    "title": "주요정책문답",
+    "url": "https://www.fsc.go.kr/po020201/87058?srchCtgry=&curPage=1&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "｢'26년도 가계부채 관리방안 ｣ 발표",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=86606&fileTy=ATTACH&fileNo=2",
+    "hostname": "fsc.go.kr",
+    "date": "2026-04-01",
+    "tier": 1
+   },
+   {
+    "title": "260401[별첨3] '26년도 가계부채 관리방안 관련 FAQ.hwp",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=86606&fileTy=ATTACH&fileNo=5",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "부동산 시장과 금융의 절연을 위한 - ｢'26년도 가계부채 관리방안｣ 발표",
+    "url": "https://www.fsc.go.kr/no010101/86606?srchCtgry=&curPage=1&srchKey=sj&srchText=%EA%B0%80%EA%B3%84%EB%B6%80%EC%B1%84&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "'26년도 가계부채 관리방안 관련 FAQ",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87058&fileTy=ATTACH&fileNo=2",
+    "hostname": "fsc.go.kr",
+    "date": "2026-04-01",
+    "tier": 1
+   },
+   {
+    "title": "보험정책",
+    "url": "https://www.fsc.go.kr/po010103/86606?srchCtgry=3&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": "2026-11-13",
+    "tier": 1
+   },
+   {
+    "title": "주택담보대출에 대한 리스크 관리 기준",
+    "url": "https://better.fsc.go.kr/fsc_new/file/displayFile.do?filePath=/2026/08/28&orgFileName=260813_%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%A6%AC%EC%8A%A4%ED%81%AC%20%EA%B4%80%EB%A6%AC%20%EA%B8%B0%EC%A4%80%20%ED%96%89%EC%A0%95%EC%A7%80%EB%8F%84.pdf&sysFileName=9150b4d6f5564462ab5cf218254697e9.pdf",
+    "hostname": "better.fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보도자료(상세) | 보도자료 | 보도·알림 |",
+    "url": "https://fss.or.kr/fss/bbs/B0000188/view.do?nttId=217055&menuNo=200218&pageIndex=1",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "은행권 가계 주택담보대출 심사 선진화 방안 셀프 상담 코너",
+    "url": "http://banker.kfb.or.kr/self_check",
+    "hostname": "banker.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "조건변경 안내 | 전세/월세자금보증",
+    "url": "https://www.hf.go.kr/ko/sub02/sub02_01_08.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "계약 갱신 시 < 계약 종료 및 갱신 시_유의사항 < 전세사기 피해 예방 < 전세 ...",
+    "url": "https://www.khug.or.kr/jeonse/web/s03/s030402.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "금융위원회 2026년도 가계부채 관리방안 보도자료",
+    "url": "https://www.fsc.go.kr/no010101/86606",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "금융위원회",
+    "url": "https://www.fsc.go.kr/",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "공개Q&A 조회 | Q&A | 민원·신고 |",
+    "url": "https://www.fss.or.kr/fss/cvpl/inquiRecpEc/view.do?menuNo=200094&recpNo=2026Q2081&pubYn=Y",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "잠깐! 주택담보대출에 대해서 얼마나 알고 계신가요? ",
+    "url": "https://www.hf.go.kr/cms/etcResourceDown.do?site=$cms$NYeyA&key=$cms$AwRg+sBsEExjkSgJwDoAOATAZkA",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "계약 종료 및 갱신 시_유의사항",
+    "url": "https://www.khug.or.kr/jeonse/web/s03/s030401.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2026년 4월 가계대출 동향(잠정) 및 ｢가계부채 점검회의｣ 개최",
+    "url": "https://www.fsc.go.kr/no010101/86914?srchCtgry=&curPage=&srchKey=sj&srchText=%EB%8C%80%EC%B6%9C&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "개인사업자 신용회복 / 정책금융 / 대출규제 / 상환방식 근거보고서 | nicekcb ...",
+    "url": "https://nicekcb.com/reports/kr-personal-selfemployed-credit-recovery-policy-finance",
+    "hostname": "nicekcb.com",
+    "date": "2026-08-02",
+    "tier": 3
+   },
+   {
+    "title": "공개제안 보기 | 국민제안 | 고객의 소리 | 참여·소통 |",
+    "url": "https://fss.or.kr/fss/cvpl/mrfnPropse/publicView.do?menuNo=200776&rcptNo=2026-00041",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "문서뷰어",
+    "url": "https://www.hf.go.kr/ko/viewer.do?fileName=ko/etc/01_06_02_260414.hwp",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "전세보증금반환보증 관련 별지서식",
+    "url": "https://www.khug.or.kr/khugcms/common/downLoad.jsp?fid=cms&snm=JTJGa2h1Z2NtcyUyRmNvbnRlbnQlMkY3MCUyRjE2ODcwX2F0dGFjaGZpbGUyXzEucGRm&onm=17.2.1_%C0%FC%BC%BC%BA%B8%C1%F5%B1%DD%B9%DD%C8%AF%BA%B8%C1%F5%BC%AD%BD%C4.pdf",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2026년도 가계부채 관리방안 - 정책뉴스",
+    "url": "https://m.korea.kr/news/policyNewsView.do?newsId=148961929",
+    "hostname": "m.korea.kr",
+    "date": "2026-04-02",
+    "tier": 1
+   },
+   {
+    "title": "2025년도 국정감사 결과보고서",
+    "url": "https://www.mpva.go.kr/mpva/downloadBbsFile.do?atchmnflNo=172028",
+    "hostname": "mpva.go.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "대출 가입전 주요 체크사항 | 금융감독원 금융상품",
+    "url": "https://fine.fss.or.kr/main/prc/lo/sub/lo003.jsp?menuNo=9000293",
+    "hostname": "fine.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "임대보증금보증서 발급 안내문",
+    "url": "https://www.khug.or.kr/khugcms/board/skin/download.jsp?id=1033&fileId=26753",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "금융위원회 국민생각함 기관홈",
+    "url": "https://www.epeople.go.kr/idea/fsc/1AE-2605-0000227/detail.npaid",
+    "hostname": "epeople.go.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "2025년 하반기부터 이렇게 달라집니다",
+    "url": "https://jincci.korcham.net/file/dext5uploaddata/2025/2025%EB%85%84%20%ED%95%98%EB%B0%98%EA%B8%B0%EB%B6%80%ED%84%B0%20%EC%9D%B4%EB%A0%87%EA%B2%8C%20%EB%8B%AC%EB%9D%BC%EC%A7%91%EB%8B%88%EB%8B%A4.pdf",
+    "hostname": "jincci.korcham.net",
+    "date": "2025-07-26",
+    "tier": 3
+   },
+   {
+    "title": "주택구입자금보증 업무매뉴얼 개정",
+    "url": "https://www.khug.or.kr/hug/homepage_file_upload/1_form_jeonse_tr__251031.hwp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "법인임대사업자 임대보증금보증약관(사용검사 후)",
+    "url": "https://m.khug.or.kr/khugcms/board/skin/download.jsp?id=37&fileId=21846",
+    "hostname": "m.khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2026년도 가계부채 관리방안 - 네이버 블로그",
+    "url": "https://m.blog.naver.com/blogfsc/224237016719",
+    "hostname": "m.blog.naver.com",
+    "date": "2026-04-01",
+    "tier": 1
+   },
+   {
+    "title": "100대 국정과제 추 진 실 적 - ::: Webzine :::",
+    "url": "https://webzine.mynewsletter.co.kr/newsletter/kcplaa/202105-3/issue1.pdf",
+    "hostname": "webzine.mynewsletter.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "(목록) |",
+    "url": "https://www.fss.or.kr/fss/bbs/B0000120/list.do?menuNo=200608",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "전세(사기)피해 예방 종합 안내 책자",
+    "url": "https://m.khug.or.kr/khugcms/board/skin_jeonse/download.jsp?id=1226&fileId=26631",
+    "hostname": "m.khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2026년도 가계부채 관리방안 - 경제정책 시계열서비스",
+    "url": "https://epts.kdi.re.kr/polcTmsesSrvc/them?SEARCH_CTE_SEQ=82606&BIG_CD=RELT_THEM00002&MID_CD=RELT_THEM00034&SML_CD=RELT_THEM00044",
+    "hostname": "epts.kdi.re.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "히스토리 북 - money.daishin.com - 대신증권",
+    "url": "https://money2.daishin.com/group/pdf/history.pdf",
+    "hostname": "money2.daishin.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "자료실(상세) | 인허가 사전협의(S.T.A.R.T) | 인허가 / 등록ㆍ신고 | 민원·신고 |",
+    "url": "http://www.fss.or.kr/fss/bbs/B0000394/view.do?nttId=135828&menuNo=201116&pageIndex=1",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "임대보증금보증 이행청구",
+    "url": "https://onestop.khug.or.kr/webView/webBiz/excu/leasExcu001",
+    "hostname": "onestop.khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보도자료 - 위원회 소식 - 알림마당",
+    "url": "https://www.fsc.go.kr/no010101?srchCtgry=&curPage=&srchKey=sj&srchText=%EA%B0%80%EA%B3%84&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "인기 해시태그 - 위드동아",
+    "url": "https://with.donga.co.kr/kr/search/searchResult?searchText=%EB%8F%99%EC%95%84%EC%8F%98%EC%8B%9C%EC%98%A4%ED%99%80%EB%94%A9%EC%8A%A4",
+    "hostname": "with.donga.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전세금안심대출보증 관련 별지서식",
+    "url": "https://www.khug.or.kr/khugcms/common/downLoad.jsp?fid=cms&snm=JTJGa2h1Z2NtcyUyRmNvbnRlbnQlMkY1NyUyRjMzNzU3X2F0dGFjaGZpbGUyXzEucGRm&onm=%C0%FC%BC%BC%B1%DD%BE%C8%BD%C9%B4%EB%C3%E2%BA%B8%C1%F5%C1%A6%C3%E2%BC%AD%B7%F9.pdf",
+    "hostname": "khug.or.kr",
+    "date": "2019-10-01",
+    "tier": 1
+   },
+   {
+    "title": "'26년도 가계부채 관리방안",
+    "url": "https://krema.ai/webadmin/down3.php?dates=datas&no=388",
+    "hostname": "krema.ai",
+    "date": "2026-04-01",
+    "tier": 3
+   },
+   {
+    "title": "https://huggingface.co/deliciouscat/kf-deberta-bas...",
+    "url": "https://huggingface.co/deliciouscat/kf-deberta-base-cross-nli/commit/9415c42742d3030adb1b3653c4c17c815f00b064.diff?file=vocab.txt",
+    "hostname": "huggingface.co",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "재무상담 사례(상세) | 콘텐츠 한 눈에 | 금융감독원 e-금융교육센터",
+    "url": "https://www.fss.or.kr/edu/bbs/B0000418/view.do?nttId=217576&menuNo=300210&pageIndex=1",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "전세금안심대출보증약관",
+    "url": "https://www.khug.or.kr/khugcms/common/downLoad.jsp?fid=cms&snm=JTJGa2h1Z2NtcyUyRmNvbnRlbnQlMkY1NyUyRjMzNzU3X2F0dGFjaGZpbGUxXzEucGRm&onm=%C0%FC%BC%BC%B1%DD%BE%C8%BD%C9%B4%EB%C3%E2%BA%B8%C1%F5%BE%E0%B0%FC(2020.07.24%B0%B3%C1%A4).pdf",
+    "hostname": "khug.or.kr",
+    "date": "2020-09-07",
+    "tier": 1
+   },
+   {
+    "title": "2026년 9월 가계대출 동향(잠정) 및 ｢가계부채 점검회의｣ 개최",
+    "url": "https://www.fsc.go.kr/no010101/87939",
+    "hostname": "fsc.go.kr",
+    "date": "2026-10-15",
+    "tier": 1
+   },
+   {
+    "title": "멍석깔린주총시즌 행동주의역습개시",
+    "url": "https://pdf.etoday.co.kr/daily/pdf/detoday03319.pdf",
+    "hostname": "pdf.etoday.co.kr",
+    "date": "2024-02-13",
+    "tier": 3
+   },
+   {
+    "title": "주요정책문답 - 정책자료 - 정책마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/po020201/87058?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "금융복합기업집단 감독규정(안)",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=RULENOTICE&upperNo=3689&fileTy=ATTACH&fileNo=6",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주요정책문답 - \r\n\t\t\t정책자료 - \r\n\t\t\t정책마당 - \r\n\t\t\t금융위원회",
+    "url": "https://www.fsc.go.kr/po020201/87058",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "금융복합기업집단 감독규정",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=RULENOTICE&upperNo=3689&fileTy=ATTACH&fileNo=4",
+    "hostname": "fsc.go.kr",
+    "date": "2021-04-01",
+    "tier": 1
+   },
+   {
+    "title": "보도자료 - 위원회 소식 - 알림마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/no010101/71047?srchCtgry=&curPage=642&srchKey=sj&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   }
+  ],
+  "requestId": "265bcb90-1fd2-4fa4-bb80-9b46092e9ac1"
+ },
+ "searches": [
+  {
+   "query": "만기연장 제한 묵시적 갱신 4.16 유예기간 임대차계약종료일",
+   "results": [
+    {
+     "title": "임대차계약의 갱신",
+     "url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=629&ccfNo=4&cciNo=4&cnpClsNo=1",
+     "hostname": "easylaw.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=easylaw.go.kr&sz=128",
+     "description": "주택임대차계약이 묵시적으로 갱신된 경우, 임차인은 언제든지 갱신된 임대차계약을 해지할 수 있고, 2년의 임대차기간을 주장할 수도 있습니다(「주택임대차보호법」 제4 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "계약 만기 후 연장, 집주인과 임차인이 꼭 알아야 하는 것! (묵시적갱신)",
+     "url": "https://www.youtube.com/watch?v=I9GISwbv008",
+     "hostname": "youtube.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
+     "description": "0:00 시작 ; 0:26 묵시적 갱신이란? ; 1:27 묵시적 갱신이 불가능한 경우는 언제인가요? ; 2:57 묵시적 갱신에 대한 오해 3가지 ; 4:47 묵시적 갱신과 재계약 ...",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "주택 임대차계약 연장 시 - 계약갱신청구권, 묵시적갱신, 재계약의 차이",
+     "url": "https://m.blog.naver.com/byongsu/223791061866",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "2020년 개정된 [주택임대차보호법]에 따라 임차인이 한 번에 한해 계약을 연장할 수 있는 법적 권리이며, 임차인의 안심 거주기간이 2년 더 늘어나며, ...",
+     "date": "2025-03-10",
+     "tier": 3
+    },
+    {
+     "title": "주택임대차보호법 제6조(계약의 갱신)",
+     "url": "https://casenote.kr/%EB%B2%95%EB%A0%B9/%EC%A3%BC%ED%83%9D%EC%9E%84%EB%8C%80%EC%B0%A8%EB%B3%B4%ED%98%B8%EB%B2%95/%EC%A0%9C6%EC%A1%B0",
+     "hostname": "casenote.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=casenote.kr&sz=128",
+     "description": "제6조(계약의 갱신) ① 임대인이 임대차기간이 끝나기 6개월 전부터 2개월 전까지의 기간에 임차인에게 갱신거절(更新拒絶)의 통지를 하지 아니하거나 ...",
+     "date": "2020-12-10",
+     "tier": 3
+    },
+    {
+     "title": "2년 미만 계약(ex. 1년 계약) 관련 문제 : ①1년 기준으로 묵시 갱신 가능한지 ...",
+     "url": "https://lameans.tistory.com/878",
+     "hostname": "lameans.tistory.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=lameans.tistory.com&sz=128",
+     "description": "한편 임대인이 임대차기간이 끝나기 6개월 전부터 1개월 전까지의 기간에 임차인에게 갱신거절의 통지를 하지 아니하거나 계약조건을 변경하지 아니하면 ...",
+     "date": "2025-10-30",
+     "tier": 3
+    },
+    {
+     "title": "[임대차계약 갱신] 이 집에 더 살고 싶어요. 제가 먼저 임대인에게 ...",
+     "url": "https://minsnailunion.net/consultlist/?bmode=view&idx=5514226",
+     "hostname": "minsnailunion.net",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=minsnailunion.net&sz=128",
+     "description": "A. 주택임대차 계약 갱신을 위해서는 계약만기 1개월 전 갱신을 요구해야 합니다. ... 이를 묵시적 갱신이라고 합니다. 이렇게 임대차 계약이 갱신될 경우 2 ...",
+     "date": "2020-12-17",
+     "tier": 3
+    },
+    {
+     "title": "임대차 3법",
+     "url": "https://namu.wiki/w/%EC%9E%84%EB%8C%80%EC%B0%A8%203%EB%B2%95",
+     "hostname": "namu.wiki",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=namu.wiki&sz=128",
+     "description": "기존 2년이었던 임대차기간을 2+2년으로 연장한다. 세입자는 2년간 거주한 후 1회에 한해 계약갱신청구권을 사용하여서 임대차 계약을 2년 연장할 수 있다 ...",
+     "date": "2026-09-06",
+     "tier": 3
+    },
+    {
+     "title": "주택임대차계약갱신청구",
+     "url": "https://www.youtube.com/shorts/Gy_GWlHZG14",
+     "hostname": "youtube.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
+     "description": "",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "“더 살 것 같아요” 말했다면 묵시적 갱신 해당 안 돼 [부동산 빨간펜]",
+     "url": "https://www.donga.com/news/Economy/article/all/20240926/130107977/1",
+     "hostname": "donga.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=donga.com&sz=128",
+     "description": "“주택임대차보호법에 따르면 계약 갱신 거절이나 계약 조건 변경은 계약 종료 6개월 전부터 2개월 전까지 통지해야 합니다. 이 기간이 지났다면 효력이 ...",
+     "date": "2024-09-26",
+     "tier": 2
+    },
+    {
+     "title": "묵시적 갱신과 개인갱신청구권 차이는? 대전법률상담 전 알아보는 주택 ...",
+     "url": "https://www.daeryunlaw-compensation.com/info/406",
+     "hostname": "daeryunlaw-compensation.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=daeryunlaw-compensation.com&sz=128",
+     "description": "① 임대인이 임대차기간이 끝나기 6개월 전부터 2개월 전까지의 기간에 임차인에게 갱신거절)의 통지를 하지 아니하거나 계약조건을 변경하지 아니하면 ...",
+     "date": "2022-10-06",
+     "tier": 3
+    }
+   ]
+  },
+  {
+   "query": "주택임대차보호법 묵시적 갱신 성립 시점 계약 종료 2개월 전",
+   "results": [
+    {
+     "title": "임대차계약의 갱신",
+     "url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=629&ccfNo=4&cciNo=4&cnpClsNo=1",
+     "hostname": "easylaw.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=easylaw.go.kr&sz=128",
+     "description": "주택임대차계약이 묵시적으로 갱신되면, 임대차의 존속기간은 2년으로 ... 종료 2개월전)에 임대인 乙에 대한 계약갱신요구권 행사 가능. ⑥ 계약갱신요구권 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "주택임대차계약 종료 2개월 전에도 가만히 있으면 묵시적 갱신됨",
+     "url": "https://www.lawtalk.co.kr/posts/101497",
+     "hostname": "lawtalk.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=lawtalk.co.kr&sz=128",
+     "description": "기존에는 '2개월 전 통지'가 일반적이었으나, 2021년 개정법 이후로는 계약 만료 6개월 전부터 2개월 전 사이에 임대인 또는 임차인이 계약 해지(또는 조건 변경) 의사를 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "계약 만기 후 연장, 집주인과 임차인이 꼭 알아야 하는 것! (묵시적갱신)",
+     "url": "https://www.youtube.com/watch?v=I9GISwbv008",
+     "hostname": "youtube.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
+     "description": "묵시적 갱신이란? 1:27 묵시적 갱신이 불가능한 경우는 언제인가요? 2:57 묵시적 갱신에 대한 오해 3가지 … 문의: 010-****-****",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "2년 미만 계약(ex. 1년 계약) 관련 문제 : ①1년 기준으로 묵시 갱신 가능한지 ...",
+     "url": "https://lameans.tistory.com/878",
+     "hostname": "lameans.tistory.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=lameans.tistory.com&sz=128",
+     "description": "주택임대차법 제4조(임대차기간 등) ① 기간을 정하지 아니하거나 2년 미만으로 정한 임대차는 그 기간을 2년으로 본다. 다만, 임차인은 2년 미만으로 ...",
+     "date": "2025-10-30",
+     "tier": 3
+    },
+    {
+     "title": "민법 제639조 (묵시의 갱신)",
+     "url": "https://casenote.kr/%EB%B2%95%EB%A0%B9/%EB%AF%BC%EB%B2%95/%EC%A0%9C639%EC%A1%B0",
+     "hostname": "casenote.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=casenote.kr&sz=128",
+     "description": "임대차계약이 묵시의 갱신이 되었다고 하더라도 임대인은 언제든지 계약해지의 통고를 할 수 있고, 임차인이 위 통고를 받은 날로부터 토지 임대차의 경우 6개월이 경과 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "임차인에게 유리한 전세 월세 묵시적 갱신 l 3개월 갱신 해지 - 네이버 블로그",
+     "url": "https://m.blog.naver.com/cha_teacher/223322158068",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "계약기간의 종료일이 다가오면 임대인, 임차인은 계약을 갱신하여 임대차계약을 2년 연장할 것인지 협의하게 됩니다.",
+     "date": "2024-01-14",
+     "tier": 3
+    },
+    {
+     "title": "묵시적 갱신 뜻, 묵시적 갱신 해지 방법 | 임대차 계약 만료시기 다가온다면 ...",
+     "url": "https://zippoom.com/%EB%B8%94%EB%A1%9C%EA%B7%B8/%EB%AC%B5%EC%8B%9C%EC%A0%81-%EA%B0%B1%EC%8B%A0-%EB%9C%BB-%ED%95%B4%EC%A7%80-%EB%B0%A9%EB%B2%95/337",
+     "hostname": "zippoom.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=zippoom.com&sz=128",
+     "description": "계약 만료 6개월에서 2개월 전까지 임대인의 갱신거절 또는 계약조건변경 의사 미통지. ... 임차인은 갱신기간 중 해지를 통지할 수 있음. 해지 통지는 3 ...",
+     "date": "2026-04-01",
+     "tier": 3
+    },
+    {
+     "title": "2년 거주 후 묵시적 계약 갱신시 계약갱신청구권 사용하면 기간이 최대 6 ...",
+     "url": "https://kin.eduwill.net/board/qustnView?qustnIdx=192296",
+     "hostname": "kin.eduwill.net",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=kin.eduwill.net&sz=128",
+     "description": "최초 2년 계약이 만료된 후 묵시적 갱신으로 추가 2년이 연장되었고,. 임차인이 이 추가 2년 계약의 만료 2개월 전에 계약갱신요구권을 행사하면 다시 2년 ...",
+     "date": "2025-05-26",
+     "tier": 3
+    },
+    {
+     "title": "주택 임대차기간을 1년으로 약정한 경우 묵시적 갱신에 따른 임대차 종료 ...",
+     "url": "https://www.smart-law.co.kr/view/useful-legal-info/86",
+     "hostname": "smart-law.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=smart-law.co.kr&sz=128",
+     "description": "요컨대, 주택 임대차기간을 1년으로 약정했더라도 (2년이 경과될 무렵에) 임대차 계약이 묵시적 갱신되면 임대차는 최초 임대차 시점으로부터 4년(2년+2년) ...",
+     "date": "2020-10-04",
+     "tier": 3
+    },
+    {
+     "title": "5 Things to Keep in Mind After Automatic Lease Renewal (Do You ...",
+     "url": "https://www.youtube.com/watch?v=9wcFCg2pzT4",
+     "hostname": "youtube.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
+     "description": "변호사님, 임대인의 늦은 통지로 묵시적 갱신이 이미 된 상태에서, 임대인이 계속 전세금 인상을 요구하며 압박을 합니다. 법대로 하자고 하니, ...",
+     "date": null,
+     "tier": 0
+    }
+   ]
+  }
+ ]
+}

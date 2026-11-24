@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fafaf9;
+  --foreground: #18181b;
+}
+
+/* 브랜드 색: 청록(금융권에서 흔한 계열, 특정 은행 색 값은 쓰지 않음).
+   코드 곳곳의 indigo-* = 주색(청록), violet-* = 보조색(짙은 남색 회색, 본점·심사위). */
+@theme {
+  --color-indigo-50: #eefaf7;
+  --color-indigo-100: #d3f1ea;
+  --color-indigo-200: #a9e2d6;
+  --color-indigo-300: #74cbbb;
+  --color-indigo-400: #3eae9c;
+  --color-indigo-500: #179483;
+  --color-indigo-600: #0b7c6e;
+  --color-indigo-700: #0a655a;
+  --color-indigo-800: #0c514a;
+  --color-indigo-900: #0d433d;
+  --color-indigo-950: #032824;
+  --color-violet-50: #f3f4f8;
+  --color-violet-100: #e6e8f0;
+  --color-violet-200: #cdd1df;
+  --color-violet-300: #a9afc5;
+  --color-violet-400: #7c84a1;
+  --color-violet-500: #5b6382;
+  --color-violet-600: #444b68;
+  --color-violet-700: #363c55;
+  --color-violet-800: #2c3146;
+  --color-violet-900: #22263a;
+  --color-violet-950: #151826;
+
+  /* 가독성: 보조 글씨 회색을 한 단계 진하게(흰 배경 대비 2.6 → 4.5 이상) */
+  --color-zinc-400: #71717b;
+  --color-zinc-500: #595963;
+  --color-slate-400: #697386;
+  --color-slate-500: #525d70;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+/* 창구 업무 화면은 밝은 테마 하나로 고정한다(카드 색 대비를 한 가지로 관리) */
+:root {
+  color-scheme: light;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-size: 16px;
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  /* 한국어는 단어(어절) 단위로 줄바꿈("재 / 계약"처럼 끊기지 않게). 아주 긴 토큰만 강제로 나눈다 */
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+
+/* 문단 마지막 줄에 한두 단어만 남지 않게, 제목은 줄 길이를 고르게 */
+p, li, dd, dt, td, th, summary, label {
+  text-wrap: pretty;
+}
+h1, h2, h3, h4 {
+  text-wrap: balance;
+}
+
+/* 조건 칩이 하나씩 나타날 때(스트리밍) */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(2px); }
+  to { opacity: 1; transform: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .animate-\[fadeIn_\.3s_ease-out\] { animation: none; }
+}

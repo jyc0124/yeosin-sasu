@@ -1,0 +1,608 @@
+{
+ "id": "R4",
+ "question": "상속으로 받은 주택이 2026년 4월 1일 금융위원회 「'26년도 가계부채 관리방안」(다주택자 수도권·규제지역 아파트 주담대 만기연장 제한)의 만기연장 제한에서 주택 수 산정 제외라면, 전세대출보증 심사(8.13 비거주 1주택자 제한 포함)나 주택 구입 목적 주담대(다주택자 LTV 등)에서도 주택 수에서 제외되나요? 금융위원회·금융감독원·은행연합회·HUG(주택도시보증공사)·HF(한국주택금융공사)·SGI서울보증 등 공식 자료(보도자료, FAQ, 행정지도, 상품설명서, 보증규정, 질의회신, 금융규제·법령해석포털 회신사례)에서 근거 문장을 찾아 문서명·날짜와 함께 인용해 주세요. 보증기관별로 다르면 기관별로 나눠 주세요. 공식 근거가 없으면 '공식 근거 없음'이라고 분명히 답하고 추측하지 마세요.",
+ "agent": {
+  "text": "### 기관별 분석 결과\n\n**결론:** 상속으로 받은 주택이 2026년 4월 1일 「’26년도 가계부채 관리방안」의 **다주택자 수도권·규제지역 아파트 주택담보대출 만기연장 제한**에서 주택 수 산정 제외로 인정되더라도, 그 제외가 전세대출보증 심사나 주택 구입 목적 주택담보대출의 주택 수 산정에 자동으로 확대 적용된다는 공식 근거는 확인되지 않습니다. 금융위원회는 해당 예외가 “금번 다주택자 주택담보대출 만기연장 제한 방안에 한정하여 적용”된다고 명시했습니다 ((45)).\n\n- **금융위원회**\n  - 문서명: 「’26년도 가계부채 관리방안 관련 FAQ」, 2026년 4월 1일.\n  - 금융위원회 FAQ는 다주택자 보유 주택 수 산정의 예외 사유가 세제나 다른 대출규제에도 적용되는 것이 아니라, “금번 다주택자 주택담보대출 만기연장 제한 방안에 한정하여 적용”된다고 명시합니다 ((45)).\n  - 따라서 해당 예외만으로는 전세대출보증 심사에서 상속 주택을 주택 수에서 제외한다고 볼 수 없으며, 주택 구입 목적 주담대의 다주택자 여부나 LTV 적용에서도 제외된다고 볼 수 없습니다 ((45)).\n  - **전세대출보증 심사:** 상속 주택을 주택 수에서 제외한다는 금융위원회의 공식 근거 없음.\n  - **주택 구입 목적 주담대:** 상속 주택을 주택 수에서 제외한다는 금융위원회의 공식 근거 없음.\n\n- **금융감독원**\n  - 문서명: 「주택담보대출에 대한 리스크 관리 기준」 행정지도, 2026년 8월 28일.\n  - 행정지도는 주택 구입 목적 대출에서 생애최초주택구매자 여부를 심사할 때 세대 구성원 전원의 주택소유 이력을 확인하도록 하며, 예외로 청년미래보금자리론으로 취득한 주택과 금융회사 여신심사위원회가 인정하는 불가피한 사유를 규정합니다 ((49)).\n  - 같은 자료는 불가피한 사유의 예시로 “미성년 당시 주택 지분 상속”을 제시하지만, 이는 금융회사 여신심사위원회 심사를 거쳐 주택소유 이력의 예외를 인정할 수 있다는 내용이지, 모든 상속 주택을 주택 수에서 일률적으로 제외한다는 규정은 아닙니다 ((49)).\n  - 따라서 성년 이후 상속받은 주택이나 상속 주택 전체에 대해 주택 구입 목적 주담대의 다주택자 판정 및 LTV 산정에서 제외된다는 공식 근거 없음.\n  - **전세대출보증 심사:** 상속 주택의 주택 수 제외에 관한 금융감독원의 공식 근거 없음.\n  - **주택 구입 목적 주담대:** 미성년 당시 주택 지분 상속 등 개별 예외 가능성은 확인되지만, 상속 주택 일반의 일률적 제외 근거는 공식 근거 없음 ((49)).\n\n- **은행연합회**\n  - 문서명: 「은행권 가계 주택담보대출 심사 선진화 방안 셀프 상담 코너」, 게시일 확인 불가.\n  - 해당 자료는 가계 주택담보대출의 개념과 상환능력 중심의 여신심사 원칙을 설명하지만, 상속 주택을 전세대출보증 심사 또는 주택 구입 목적 주담대의 주택 수에서 제외한다는 기준은 제시하지 않습니다 ((5)).\n  - **전세대출보증 심사:** 공식 근거 없음.\n  - **주택 구입 목적 주담대:** 공식 근거 없음.\n\n- **HUG(주택도시보증공사)**\n  - 문서명: 「보증업무 자주하는 질문」, 게시일 확인 불가.\n  - HUG의 주택구입자금보증 FAQ는 보증 건수와 한도를 세대 또는 개인 기준으로 설명하고, 1주택 보유 시 대출 제한 등이 있을 수 있으며 구체적인 대출 가능 여부와 금액은 대출 금융기관에 문의해야 한다고 안내합니다 ((41)).\n  - 해당 FAQ에는 상속으로 취득한 주택을 HUG 주택구입자금보증의 주택 수에서 제외한다는 문장이 없습니다 ((41)).\n  - HUG의 전세 관련 공개 상품자료는 보증 대상 주택, 신청기한, 보증한도 등은 설명하지만 상속 주택 보유자의 전세대출보증 심사에서 상속 주택을 주택 수에서 제외한다는 기준은 확인되지 않습니다 ((7)).\n  - **전세대출보증 심사:** 상속 주택 주택 수 제외에 관한 공식 근거 없음.\n  - **주택 구입 목적 주담대 또는 구입자금보증:** 상속 주택 주택 수 제외에 관한 공식 근거 없음.\n\n- **HF(한국주택금융공사)**\n  - 제공된 HF 공식 자료 중 「주택연금이란」은 주택연금의 대상과 제도를 설명할 뿐, 전세자금보증이나 주택 구입 목적 주담대에서 상속 주택을 주택 수에서 제외하는 기준을 제시하지 않습니다 ((9)).\n  - 따라서 제공된 공식 자료 범위에서는 HF 전세자금보증 심사 또는 주택 구입 목적 주담대와 관련하여 상속 주택을 주택 수에서 제외한다는 근거를 확인할 수 없습니다.\n  - **전세대출보증 심사:** 공식 근거 없음.\n  - **주택 구입 목적 주담대:** 공식 근거 없음.\n\n- **SGI서울보증**\n  - 문서명: 「전세금반환보증보험」, 게시일 확인 불가.\n  - SGI서울보증의 공개 상품자료는 보증 대상과 주택가격 산정, LTV 기준, 보증금 반환 관련 보장범위 등을 설명하지만, 상속 주택 보유자를 전세 관련 보증 심사에서 주택 수가 없는 사람으로 본다는 기준은 제시하지 않습니다 ((10)).\n  - 해당 자료는 전세금반환보증보험 상품자료이므로, 전세자금대출보증의 주택 수 산정기준을 직접 확인할 수 있는 근거로도 사용할 수 없습니다 ((10)).\n  - **전세대출보증 심사:** 상속 주택 주택 수 제외에 관한 공식 근거 없음.\n  - **주택 구입 목적 주담대:** SGI서울보증의 주택담보대출 주택 수 산정기준에 관한 공식 근거 없음.\n\n- **8월 13일 비거주 1주택자 제한 관련**\n  - 제공된 2026년 8월 13일 금융 종합대책 관련 자료에는 비거주 사유나 상속 지분 등 불가피한 사유가 있는 경우 금융회사 여신심사위원회 심사를 거칠 수 있다는 내용이 확인됩니다 ((33)).\n  - 그러나 이 자료만으로 상속 주택을 전세대출보증 심사에서 주택 수에서 제외하거나, 비거주 1주택자 제한의 적용 대상에서 일률적으로 제외한다고 판단할 수 있는 공식 문장은 확인되지 않습니다 ((33)).\n  - 따라서 8월 13일 비거주 1주택자 제한에 대해서도 상속 주택의 자동적인 주택 수 제외는 **공식 근거 없음**입니다.\n\n- **구분해서 정리하면**\n  - **만기연장 제한:** 상속 등 예외가 인정되더라도 해당 만기연장 제한에 한정됩니다 ((45)).\n  - **전세대출보증 심사:** 상속 주택을 주택 수에서 제외한다는 기관별 공식 근거 없음.\n  - **주택 구입 목적 주담대 및 다주택자 LTV:** 미성년 당시 주택 지분 상속처럼 금융회사 여신심사위원회가 개별적으로 인정할 수 있는 예시는 있으나, 상속 주택 일반을 일률적으로 제외한다는 공식 근거 없음 ((49)).\n  - 실제 적용 여부는 해당 대출의 금융회사와 보증기관이 적용하는 상품별 심사기준, 보증규정, 금융회사 여신심사위원회 판단에 따라 확인해야 하며, 제공된 자료만으로는 상속 주택의 포괄적인 주택 수 제외를 인정할 수 없습니다 ((41)) ((49)).\n\n**중요한 면책사항:** 제공된 내용은 일반적인 정보 제공을 위한 것이며 전문적인 금융·법률 자문을 대신하지 않습니다. 개인의 상속관계, 주택 지분, 대출 목적 및 보증상품에 관한 구체적인 판단은 자격을 갖춘 금융·법률 전문가와 상담하시기 바랍니다.",
+  "references": [
+   {
+    "title": "260813%20%EB%B6%80%EB%8F%99%EC%82%B0%20%EC%8B%9C%EC%9E%A5%20%EC%95%88%EC%A0%95%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B8%88%EC%9C%B5%20%EC%A2%85%ED%95%A9%EB%8C%80%EC%B1%85%28%EA%B8%88%EC%9C%B5%EC%9C%84%EC%9B%90%ED%9A%8C%29.pdf",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87517&fileTy=ATTACH&fileNo=3",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "'26년도 가계부채 관리방안 관련 FAQ",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87058&fileTy=ATTACH&fileNo=2",
+    "hostname": "fsc.go.kr",
+    "date": "2026-04-01",
+    "tier": 1
+   },
+   {
+    "title": "카드뉴스 - 홍보자료 - 알림마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/no040000?cnId=3150",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "공개Q&A 조회 | Q&A | 민원·신고 |",
+    "url": "https://www.fss.or.kr/fss/cvpl/inquiRecpEc/view.do?menuNo=200094&recpNo=2026Q3167&pubYn=Y",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "은행권 가계 주택담보대출 심사 선진화 방안 셀프 상담 코너",
+    "url": "http://banker.kfb.or.kr/self_check",
+    "hostname": "banker.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "주택담보대출에 대한 리스크 관리 기준",
+    "url": "https://better.fsc.go.kr/fsc_new/file/displayFile.do?filePath=/2026/08/28&orgFileName=260813_%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%A6%AC%EC%8A%A4%ED%81%AC%20%EA%B4%80%EB%A6%AC%20%EA%B8%B0%EC%A4%80%20%ED%96%89%EC%A0%95%EC%A7%80%EB%8F%84.pdf&sysFileName=9150b4d6f5564462ab5cf218254697e9.pdf",
+    "hostname": "better.fsc.go.kr",
+    "date": "2026-08-28",
+    "tier": 1
+   },
+   {
+    "title": "상품개요 < 전세반환보증 < 개인보증 <  주택도시보증공사",
+    "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000001.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "대출 가입전 주요 체크사항 | 금융감독원 금융상품",
+    "url": "https://fine.fss.or.kr/main/prc/lo/sub/lo003.jsp?menuNo=9000293",
+    "hostname": "fine.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주택연금이란",
+    "url": "http://www.hf.go.kr/ko/sub03/sub03_01_01_01.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "전세금반환보증보험 | 주거/임대/생활 | 상품 | SGI서울보증",
+    "url": "https://m.sgic.co.kr/biz/cmw/index.html?p=CMWPRD030301F01",
+    "hostname": "m.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "주택담보대출 | 대출 | 금융감독원 금융상품통합비교공시 금융상품한눈에",
+    "url": "https://finlife.fss.or.kr/finlife/ldng/houseMrtg/list.do?menuNo=700007",
+    "hostname": "finlife.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2026년 세제개편안 문답자료",
+    "url": "https://mofe.go.kr/com/cmm/fms/FileDown.do?atchFileId=ATCH_000000000032335&fileSn=8",
+    "hostname": "mofe.go.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "금융위원회 주요정책문답: 전세대출 DSR 적용",
+    "url": "https://www.fsc.go.kr/po020201/85518",
+    "hostname": "fsc.go.kr",
+    "date": "2025-10-15",
+    "tier": 1
+   },
+   {
+    "title": "행정지도 예고 | 금융행정지도 | 금융감독법규정보 | 업무자료 |",
+    "url": "https://www.fss.or.kr/fss/job/admnPrvntc/view.do?seqno=262&menuNo=200491&pageIndex=1",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보도자료 - 위원회 소식 - 알림마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/no010101/86606?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "전국은행연합회 소비자포털",
+    "url": "https://portal.kfb.or.kr",
+    "hostname": "portal.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "유용한 주택담보대출 정보 | 주택담보대출가이드 | 금융생활안내 | 금융생활 길라잡이 | 금융소비자보호 |",
+    "url": "https://www.fss.or.kr/fss/main/contents.do?menuNo=200641",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "제출서류 안내 | 보상서비스 안내 | 보상 | SGI서울보증",
+    "url": "https://m.sgic.co.kr/biz/cmw/index.html?p=CMWCLM010102F01",
+    "hostname": "m.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "주요정책문답",
+    "url": "https://www.google.com/goto?url=CAESoAEBxCJF1-TA5pxpOhGqmAKAPd0wlteHpVJyRPaiR45ZzyHZwILreOzuZe3n8qvEuzbEjAE3ZzU9cYYS1nVkHjAPyutj2u_cH_mzV8ErNqnU3kHf__A6pVL3V9NuQot7tflbqdPzVG4vtjYD1wt7CiEaozNGLk6fZ0SEyV0V4QpJ7SNnI7L3UXgjjixQVtFrpZRm2rtiUZ9vvz2Tv-PHz6Rg&gsessionid=9YcwEv_9_ruVAQ2sGAUpxALlQ6uqKXpV6S7I2WIy72o3E9BREXucMA",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "2026년 지방세제 개편안",
+    "url": "https://www.google.com/goto?url=CAESkAEBxCJF1wruvp-TVAwroJMvOvCpMRUhPYYwOhZG8rI4FQqEfowezhy1MSPoXiqomlRDXZeXj9isFewYBmoR1ZrBjZM-Rlyxw1oVe8d7QaVSNeTOMsSFO4ex_khcNGyzKa6Cr-hzGFxYQS8-dQTlk-0AkN1jOxoF1yHyy9QP1fpkyciCQHiGy0hOCrtLVQ7zaN4&gsessionid=XH8f6hwstJFlyLz5jlkRNUKTCWLnChi1J7TwRxe2NFeseZpB8VIp9Q",
+    "hostname": "google.com",
+    "date": "2026-08-26",
+    "tier": 3
+   },
+   {
+    "title": "장기주택저당차입금 이자상환액 소득공제",
+    "url": "https://www.google.com/goto?url=CAEShwEBxCJF1_QPKTF4-kpbScnEM-4kzNs1TejQ6iZAjs7EdD-Y3kcT1BwOIj4udRjJjOOKisT7FySS8sxS0hq34KAqWBTTAU-8y738d2TLQ_ZyRMPw5ZRlbrK0984P-a5Gi5ehbSDDlOt5OHcbUIKrg8pzTatOPp23u40_jUoUSga0vKZX3HwRvK0&gsessionid=mf593GlY4K0DJt-m2G9E6Kg7p3APAzkJqq0HgvxISlOKh9t_Kq9YkQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "[PDF] Vol. 722 - 금융웹진 - The Banker - 전국은행연합회",
+    "url": "http://banker.kfb.or.kr/201405/201405_webzinepdf.pdf",
+    "hostname": "banker.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "HUG 든든전세주택 12차 입주자 모집 공고 [2026.9.30]",
+    "url": "https://www.khug.or.kr/hug/homepage_file_upload/jeonse_notice_260929.pdf",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "선금보증보험 | 일반계약/공사 | 상품 | SGI서울보증",
+    "url": "https://m.sgic.co.kr/biz/cmw/index.html?p=CMWPRD010301F01",
+    "hostname": "m.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "2026년 세제개편안 II: 자산과세 분야",
+    "url": "https://www.google.com/goto?url=CAESbgHEIkXXlfxsgymLxfxAUYhGUeF92abL1neSoGDMKC7B5NOF2HfDxf_yTXYJHOPU1UadJhn_zYXeTNSk8HIxvmpKXKgWY_fRZCGaM1QC23qxHxvHSApQ_5dnc8rS4SRjPPBcbaQdsSPpkoHUPSDq&gsessionid=XH8f6hwstJFlyLz5jlkRNUKTCWLnChi1J7TwRxe2NFeseZpB8VIp9Q",
+    "hostname": "google.com",
+    "date": "2026-08-07",
+    "tier": 3
+   },
+   {
+    "title": "조사 - 주택금융연구원",
+    "url": "https://www.google.com/goto?url=CAESnQEBxCJF19cjsMj1HgnhmwoJkPHlbILs9p9yJGy_Cp9QKYkTiRfCu9u5SllOB566WKu1_n3Fz3tDaAl5QDo2YbDq4Tjp1GYcIvXFbZwRcn_Ku8VZQQWlHNBPOJESbMLxc-FB8SqbWBVTffdXlnzcq_Ws-OpUIucejbdq3saDkKigoP0njrbbCSVohvk8ie5Hj_KNyl4z4U6a_Se-Ha7b&gsessionid=mf593GlY4K0DJt-m2G9E6Kg7p3APAzkJqq0HgvxISlOKh9t_Kq9YkQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "[PDF] 전세피해지원센터 안내 - 주택도시보증공사",
+    "url": "https://www.khug.or.kr/hug/homepage_file_upload/Info_notice_download.pdf.pdf",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "채무 종합안내 | 채무 안내 | 고객지원 | SGI서울보증",
+    "url": "https://www.sgic.co.kr?p=CMWCST020101F01",
+    "hostname": "sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전체 제정·개정이유",
+    "url": "https://www.google.com/goto?url=CAESkgEBxCJF1w3SLH_Qys1ZPhJy5HOSbayCU8EqC8UhrZHUEBU8dVhgaLw4R-9fEfx2iOrhvfCWMlFzTDsOpDR2vxPR0tQtWS9rCpAMldZyUgs-hO6o7ydyovqWCq-ZPwC-cF-0XXEYqV3i3wmZIG1fHhAEH6EJJoq4cM-olf6JJM4O4-1L6W-Iq7dmzBvLDUqRLdJpPw&gsessionid=mf593GlY4K0DJt-m2G9E6Kg7p3APAzkJqq0HgvxISlOKh9t_Kq9YkQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "ePapyrus PDF Document",
+    "url": "https://banker.kfb.or.kr:441/section_pdf.php?sub_idx=856&pdf=%2F201509%2Fpdf%2Fsection302.pdf",
+    "hostname": "banker.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "주택도시보증공사 - 모바일HUG",
+    "url": "https://onestop.khug.or.kr",
+    "hostname": "onestop.khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주요 상담전화번호 | 고객 상담 | 고객지원 | SGI서울보증",
+    "url": "https://www.sgic.co.kr?p=CMWCST060201F01",
+    "hostname": "sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "부동산 시장 안정을 위한 금융 종합대책",
+    "url": "https://www.google.com/goto?url=CAESkgEBxCJF13aUefP27H8oillYGuZHwC1sQJ_U4heAlDAJ_zSVT44bg8crb89jF3sk4Z6NkCw4qLcQD7OsCeYkqVgpt4AlZ0t3LQxGObPEb6EXUEG3sPqO5ZF5OZd1FoIERPlgS2iIoTP_xmiHVXyGGO2LrOlZF26cP_kePLnka6TdSfHz_c8flg7RzUjZeIfQCSbpQg&gsessionid=9YcwEv_9_ruVAQ2sGAUpxALlQ6uqKXpV6S7I2WIy72o3E9BREXucMA",
+    "hostname": "google.com",
+    "date": "2026-08-13",
+    "tier": 3
+   },
+   {
+    "title": "2026년 세제개편안 주요 내용",
+    "url": "https://www.google.com/goto?url=CAESjQEBxCJF156f209Aue47_hwhflqOU-SXOYqbvZRHIWAm4Zbr8Uq0dicdbFG9yq7QL1B7LHcDaHsQBx_Lz_spnlGFbjCpVC0QiDJXnxigsVvSmf_qd4f8RCRhtikdCjrN42gN7jmUZhALIb8IarJWZk4ANoK7MvWyieHNi5tYDFotN492wI54Pd1tmokkOZg&gsessionid=XH8f6hwstJFlyLz5jlkRNUKTCWLnChi1J7TwRxe2NFeseZpB8VIp9Q",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "주택공급 확대를 위한 정책 방향",
+    "url": "https://www.google.com/goto?url=CAESewHEIkXXDXtPt7-0TZZqQmZ0m_7ojhSbXt1aDUgUbGFkVbSQWzM84QNay7MjcCYFpaE4YKqvH6WE4bED5ERaxKDnU2rzKYZ7djhbD7hh6azSw6UnC6W4-BWrro1sHIhzFsGJj4dxP9BV1uETT0MfkxTrgwF9y8frxrgx_A&gsessionid=mf593GlY4K0DJt-m2G9E6Kg7p3APAzkJqq0HgvxISlOKh9t_Kq9YkQ",
+    "hostname": "google.com",
+    "date": "2026-09-30",
+    "tier": 3
+   },
+   {
+    "title": "모집공고 및 입주신청 < 든든전세주택 < 전세사기예방센터 < 주택도시보증공사",
+    "url": "https://www.khug.or.kr/jeonse/web/s07/s070102.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "SGI서울보증",
+    "url": "https://m.sgic.co.kr/biz/cmw/index.html?p=CMWCLM010101F01",
+    "hostname": "m.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "2026년 지방세제 개편안 문답자료",
+    "url": "https://www.google.com/goto?url=CAESlAEBxCJF1-ID62BLiEQrgLWce4M9Blfbr80MIu3pNEtDpdRYwrztyXsa--gzfjcWVE9HoV0a0AMOL-h8TQkV3k2rUa2YjKYNwJNmF7WpzLNJLdh-33jiUhNeHokJP3ylWGvwNBUXDItuTDTGAyysuNpE-LxAaPW2ccWI5_9Hyicb_FoLXeBNWoBfJqXR_biuEmPMfgbE&gsessionid=XH8f6hwstJFlyLz5jlkRNUKTCWLnChi1J7TwRxe2NFeseZpB8VIp9Q",
+    "hostname": "google.com",
+    "date": "2026-08-26",
+    "tier": 3
+   },
+   {
+    "title": "주택청약 FAQ",
+    "url": "https://www.google.com/goto?url=CAESegHEIkXXOG9_wNvRK1ah5GdIbrKq8V7Ub_yOfhDbBLyO4tzWBS4v-d_CS8WNBzoJZuKGVE4lt8uaB1itbzdtEfUrwZgoh0Ym1aMQlkFziUCJciMlAt5AGTso9fKyrHqyMw48gqY9yY5YN_8-NFhanWnbX-kuC2LUbD6z&gsessionid=mf593GlY4K0DJt-m2G9E6Kg7p3APAzkJqq0HgvxISlOKh9t_Kq9YkQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "국제협력 - 정책일반 - 정책마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/po010107/86606?srchCtgry=&curPage=8&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보증업무 < 자주하는 질문 < 전자민원/FAQ < 고객지원센터 <  주택도시보증공사",
+    "url": "https://www.khug.or.kr/hug/web/cs/el/csel000017.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주택담보대출 규제 관련 주요 정책문답",
+    "url": "https://www.google.com/goto?url=CAESYQHEIkXXeUrMmOC0zauVgyFr55jJcMpANGx78Q42pVs7X7Q1lywvWAtG2a7NBMC53JrTjRMcsZEizmzfmf6n2ZB4WiPQSInVySpwhIGZ6jxtUDPVXwuesGpMegydg4j6c7g&gsessionid=9YcwEv_9_ruVAQ2sGAUpxALlQ6uqKXpV6S7I2WIy72o3E9BREXucMA",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "함께 살던 가족에게 상속받은 집, 공동상속주택 특례로 ...",
+    "url": "https://www.google.com/goto?url=CAESYwHEIkXXqlgOCkpCS3Z0r-VNv2VMzXaZGTYzGo32IOPmXDavbQzAkq-pasoJYclKuC5W22PRhe3eKzFtmYzqs84F7DUw91LIucOjytmcvOFlul9fTywauqEkr5CMgX-WXl9J2Q&gsessionid=XH8f6hwstJFlyLz5jlkRNUKTCWLnChi1J7TwRxe2NFeseZpB8VIp9Q",
+    "hostname": "google.com",
+    "date": "2026-11-12",
+    "tier": 3
+   },
+   {
+    "title": "주택과 도시, 시장과 정책의 재탄생 전략",
+    "url": "https://www.google.com/goto?url=CAESigIBxCJF1_7ezeRBaCBasASByHz2W32-Z8ZOuCt5_Ys5ncdvZ2l_vmuJBLb5tvekNMbKVP3AVv9g7S_2lbdnY-jO-Txx86GHdJaUHg7L5w6smshdvZcw8MVcDZ5pCkI8AiNsvnw_FR4q7s23kZYCFf3JrdV2B-BuKFvclrUI7dgeITROeXgqEPD9lzNaB7XFsXZxhzIxQw6b-JZI4BOBTDSTwXFC_Pa7O195UlB8qhqU9cDKh8z-S8uVO9B5NLVLaQ4Y6ngU_Cj64vl20glEeu1l9yrW1RtHirTDjKdYT6gUY--CV8dQqUtt4npYZV5y36rUR2hdfpGrbm5oEBeNKH3hH8Pm6pK71CpI4Q&gsessionid=mf593GlY4K0DJt-m2G9E6Kg7p3APAzkJqq0HgvxISlOKh9t_Kq9YkQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "주요정책문답 - 정책자료 - 정책마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/po020201/87058?srchCtgry=&curPage=1&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "계약내용 확인 < 계약 체결_유의사항 < 전세사기 피해 예방 < 전세사기예방센터 < 주택도시보증공사",
+    "url": "https://www.khug.or.kr/jeonse/web/s03/s030205.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "Sheet1 - 금융규제·법령해석포털",
+    "url": "https://www.google.com/goto?url=CAESgQEBxCJF1x6F6zfjJqDtKQjDdqr5DpRc8XhT3NEXgAjG2dUjTjUX4gLeNDpaQjexicfIJZUzUnGdZGq7djeVpHVzZsMsh2A5unLu8ODjViDLtfY4zzd2ozNepNfXJKuVnlwewqZkrlPEV8llnNFOy2YBI-Avw0mFAOILMh9u1pujg4U&gsessionid=9YcwEv_9_ruVAQ2sGAUpxALlQ6uqKXpV6S7I2WIy72o3E9BREXucMA",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "2026년도 가계부채 관리방안 - 전체 | 카드/한컷 | 멀티미디어",
+    "url": "https://www.google.com/goto?url=CAESegHEIkXX6x2t8yqHCuxU3WvnM1v9zeeL2ho_hPpLlTIZOD9_5__vWaH4-h0wEDcz1pb9dXYEda4ln9_8s4RnKU6S4tDTx0KuVewLZ92A2hxGKlS1oVnjxLGa0Ro0-k2r698bvhIGRLMK2BP1PMh2vrM7c7ghLp40zRG6&gsessionid=XH8f6hwstJFlyLz5jlkRNUKTCWLnChi1J7TwRxe2NFeseZpB8VIp9Q",
+    "hostname": "google.com",
+    "date": "2026-04-02",
+    "tier": 3
+   },
+   {
+    "title": "금융감독원",
+    "url": "https://www.fss.or.kr/",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "260813_주택담보대출에 대한 리스크 관리 기준 행정지도.pdf",
+    "url": "https://better.fsc.go.kr/fsc_new/file/displayFile.do?filePath=%2F2026%2F08%2F28&orgFileName=260813_%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%EC%97%90+%EB%8C%80%ED%95%9C+%EB%A6%AC%EC%8A%A4%ED%81%AC+%EA%B4%80%EB%A6%AC+%EA%B8%B0%EC%A4%80+%ED%96%89%EC%A0%95%EC%A7%80%EB%8F%84.pdf&sysFileName=9150b4d6f5564462ab5cf218254697e9.pdf",
+    "hostname": "better.fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "압류예금의 정확한 업무처리 방법",
+    "url": "http://banker.kfb.or.kr/201604/pdf/section302.pdf",
+    "hostname": "banker.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "대리인 확인 < 계약 체결_유의사항 < 전세사기 피해 예방 < 전세사기예방센터 < 주택도시보증공사",
+    "url": "https://www.khug.or.kr/jeonse/web/s03/s030203.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "합산배제 및 과세특례 신고",
+    "url": "https://www.google.com/goto?url=CAEShQEBxCJF186t4bnq_5MQkwRdgiPUbtBL98yb3JysJrqnJ3SFLsZ1rZLEjiXaTRBwSSN8xihF4EUKAX3XAdvvxMU5Z702321u1J4dsli_HssMcNonPdD6d8LKnkCHZ2J9p5BI5ESGbfatt1yCfFPKiWLu63vlGdPJtX3med6FJ6eBAG3grCNi&gsessionid=XH8f6hwstJFlyLz5jlkRNUKTCWLnChi1J7TwRxe2NFeseZpB8VIp9Q",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "21년 6월부터 시행되는 전월세 신고, 임대차계약 신고",
+    "url": "https://www.google.com/goto?url=CAESlQIBxCJF11xU6HP9FleU3ZZglH0-YAbQ8UwGPUgcNAw7j97Ri_EKyHV0A63YjLnZFkf3Xv-vZ8JAkIqF_NV7p8-_gU6i7SDShpJiGQDAu01nPLEs4VOeFiu7Q7QONa3iefX9ja8_mOojQb_NfGSFU66FOx8taGHDUAaJFVN5-VluMf40cwRy6UHyiKvTSnrOViOL2WcPuPF0P4YhRqqvShqb40noMeDjF6n1KROMkES03ajJg_1TeiU2YPuh3OqPC42YiGLj-VbtZdW5WsKrL5Bl45-tChWbeSlyBoGzL32I3jOi4GN09lDQJweEZVsMXLw7AjkNlyx02kr5MdhPFdXQRfkvjQs-lutaSLLFEPaNB8BObcjP&gsessionid=mf593GlY4K0DJt-m2G9E6Kg7p3APAzkJqq0HgvxISlOKh9t_Kq9YkQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "ǰ < ȯ < κ < õú",
+    "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000001.jsp?tab_id=1",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "법인회원(탭)인증서 로그인 | 로그인 | 유틸 | SGI서울보증",
+    "url": "https://www.sgic.co.kr/biz/ccp/index.html?p=CCPUTL010015F01",
+    "hostname": "sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "(보도자료) 가계부채 관리 강화 방안",
+    "url": "https://www.google.com/goto?url=CAESoAEBxCJF15yAJJDu1uEXr_qP_Yvf3kzqY1Mp6Y4YkJMlNk0cxVvCOZap-F3QhKr7vaDL5FouOESGcuCmdFqIyHRBIXH34MTMe_4rn6wkudyAv1eAmF7yQ0vn1nSROFyPVJBqHaoPoIl6thKFlfp7AyVf9YyglE1VQUF9girZPUkpWTgkosrnpBjG0lCRWR91ijH9nijCYNfWtfDFAjrSUhTq&gsessionid=XH8f6hwstJFlyLz5jlkRNUKTCWLnChi1J7TwRxe2NFeseZpB8VIp9Q",
+    "hostname": "google.com",
+    "date": "2025-06-27",
+    "tier": 3
+   },
+   {
+    "title": "2025 국토교통부 정보시스템 가이드북",
+    "url": "https://www.google.com/goto?url=CAES7gEBxCJF1wFPqmndFaaixIRPBrkYB9sGyNqTo5R9nZdDXKyigSf42vaIjHF1ITcB8J6GJPtZsCb88vBFpU3Fgj9bcG3YLtnGCBuiWjEPjBXhcOuzTNizs2CA0vZe41Hif_rMsFhlyvLUie5QDS9QaexWsnPLK-21qLjkJt_bDMEu2xL5FGWpdVuWV_sBn3juNkxZVzucZhu4HSu_aygOE3ov3NFnoP4jLwq-gSBO4U-YfpqCvzUKr89rLioXDjVs7eGRqh2FyWXp47HRDKTVzWGkT1NoQpfqoTW4WRVnS__S8YiQj7AjKM1b67e19YtV&gsessionid=mf593GlY4K0DJt-m2G9E6Kg7p3APAzkJqq0HgvxISlOKh9t_Kq9YkQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   }
+  ],
+  "requestId": "2d170be5-6fc2-48ab-bc9c-1243cac97d6f"
+ },
+ "searches": [
+  {
+   "query": "상속주택 주택수 산정 제외 전세대출보증 다주택자 주담대 LTV",
+   "results": [
+    {
+     "title": "1세대 1주택자 판단 시 주택 수 산정 제외 특례",
+     "url": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=40604&cntntsId=239014",
+     "hostname": "nts.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=nts.go.kr&sz=128",
+     "description": "2)상속주택 : 상속을 원인으로 취득한 주택*으로서 과세기준일(6.1.) 현재 상속개시일부터 5년이 경과하지 않은 주택(5년이 경과한 주택 중 지분율이 100분의 40% 이하 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "상속세 시리즈3- 주택 상속 후 2주택자가 됐다면?",
+     "url": "https://blog.naver.com/ntscafe/223135878625",
+     "hostname": "blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=blog.naver.com&sz=128",
+     "description": "상속받은 부분이 40% 이하이거나 상속받은 부분의 가액이 6억원(수도권 밖 주택의 경우 3억원) 이하일 경우에는 1주택으로 보지 않기 때문에 기존 1주택자 ...",
+     "date": "2023-06-22",
+     "tier": 3
+    },
+    {
+     "title": "재산제세 (Ⅰ) (주식, 양도) - 양도소득세",
+     "url": "https://www.taxoffice.co.kr/sub/index.php?cat_no=308&boardid=taxInfo_stock&mode=view&idx=513&category=",
+     "hostname": "taxoffice.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=taxoffice.co.kr&sz=128",
+     "description": "상속받은 주택이 아래 조건에 해당한다면, 무기한으로 주택 수 산정에서 제외됩니다. ... 상속개시일로부터 5년 이내는 상속주택을 주택수 산정에서 제외 ...",
+     "date": "2025-09-03",
+     "tier": 3
+    },
+    {
+     "title": "상속받은 종전주택을 재건축으로 분양받은 경우 주택수 산정에 포함할 수 ...",
+     "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=420960&mode=0",
+     "hostname": "law.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=law.go.kr&sz=128",
+     "description": "구 지방세법 시행령 제28조의4제4항은'상속으로 여러 사람이 공동으로1개의 주택,조합원입주권,주택분양권 또는 오피스텔을 소유하는 경우' 1세대의 주택 수 산정과 관련한 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "상속받은 집이 아니라 '지분'인데도 대출이 막힌다? 세법과 금융제도의 다른 ...",
+     "url": "https://thegamtax.tistory.com/3120",
+     "hostname": "thegamtax.tistory.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=thegamtax.tistory.com&sz=128",
+     "description": "상속으로 취득한 주택은 일정 기간 주택 수 산정에서 제외되는 제도를 운영하고 있습니다. 즉, 세법은 상속이라는 특수성을 일정 부분 고려하고 있는 ...",
+     "date": "2026-08-18",
+     "tier": 3
+    },
+    {
+     "title": "상속주택은 주택 수에 포함될까? 양도세·종부세 달라 - 내 손안에 서울",
+     "url": "https://mediahub.seoul.go.kr/archives/2001477",
+     "hostname": "mediahub.seoul.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=mediahub.seoul.go.kr&sz=128",
+     "description": "상속인이 여러 명이면 지분으로 상속을 받을 수가 있습니다. 이런 경우 양도소득세법에서는 상속 주택 소수 지분은 주택 수에 포함되지 않습니다. 다만, ...",
+     "date": "2021-04-30",
+     "tier": 3
+    },
+    {
+     "title": "상속받은 주택 소수지분, 내 주택 수에 포함되나요?",
+     "url": "https://www.taxjang.com/column/sangsok-sosujibun-jutaeksu",
+     "hostname": "taxjang.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=taxjang.com&sz=128",
+     "description": "공동상속주택 소수지분은 취득세·양도소득세에서 기간 제한 없이 주택 수에서 제외됩니다. 종합부동산세만 상속 5년이 지나면 지분 40%·공시가격 6억 ...",
+     "date": "2026-10-05",
+     "tier": 3
+    },
+    {
+     "title": "'상속주택의 두 얼굴', 상속주택 가지고 있다고 무조건 안심해선 안 되는 이유",
+     "url": "https://www.dasoltax.com/column/77",
+     "hostname": "dasoltax.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=dasoltax.com&sz=128",
+     "description": "... 주택 수에서 제외해 준다. 지분율이 40%를 초과하고 가액 요건도 넘겨버린 상속인이라면, 5년 경과 시점부터 다주택자로 편입되어 세금 부담이 급증 ...",
+     "date": "2026-08-06",
+     "tier": 3
+    },
+    {
+     "title": "Criteria for Excluding from Housing Count",
+     "url": "https://www.youtube.com/watch?v=RusV6HUIWdM",
+     "hostname": "youtube.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
+     "description": "... 주택 수 계산의 핵심은 '선순위 상속 주택 1채' 규정: 여러 주택을 상속받아도 양도소득세 비과세 판단 시 주택 수에서 제외되는 주택은 단 1채에 한정",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "[세법톡톡] 상속주택의 주택수 계산은 어떻게 할까?",
+     "url": "https://www.karnews.or.kr/news/articleView.html?idxno=11773",
+     "hostname": "karnews.or.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=karnews.or.kr&sz=128",
+     "description": "... 상속주택 및 소액지분상속주택은 기간 제한없이 주택수에서 제외한다”. 종합부동산세의 경우 3주택이상 보유자로서 과세표준이 12억원 초과되는 경우 ...",
+     "date": "2023-05-31",
+     "tier": 3
+    }
+   ]
+  },
+  {
+   "query": "가계부채 관리방안 FAQ 주택 수 산정 예외 다른 대출규제 적용",
+   "results": [
+    {
+     "title": "'26년도 가계부채 관리방안 관련 FAQ",
+     "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87058&fileTy=ATTACH&fileNo=2",
+     "hostname": "fsc.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=fsc.go.kr&sz=128",
+     "description": "다주택자 보유 주택 수 산정시 예외사유는 세제, 대출규제 등. 기존 다주택자 규제에도 적용되는지? □ 다주택자 보유 주택수 산정시 예외 사유는 금번 ...",
+     "date": "2026-04-01",
+     "tier": 1
+    },
+    {
+     "title": "2026년도 가계부채 관리방안 - 네이버 블로그",
+     "url": "https://m.blog.naver.com/blogfsc/224237016719",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "다주택자 보유 주택 수 산정시 예외사유는 기존 다주택자 규제에도 적용되나요? 아닙니다. 예외 사유는 금번 다주택자 주택담보대출 만기연장 제한 ...",
+     "date": "2026-04-01",
+     "tier": 1
+    },
+    {
+     "title": "[Q&A] 2026년도 '가계부채 관리방안' 관련 FAQ",
+     "url": "https://m.joseilbo.com/news/view.htm?newsid=565717",
+     "hostname": "m.joseilbo.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.joseilbo.com&sz=128",
+     "description": "A) 다주택자 보유 주택수 산정시 예외 사유는 금번 다주택자 주택담보대출 만기연장 제한 방안에 한정하여 적용한다. Q) 임대사업자가 비주택 임대사업(예 ...",
+     "date": "2026-04-01",
+     "tier": 2
+    },
+    {
+     "title": "'26년도 가계부채 관리방안 관련 FAQ",
+     "url": "https://krema.ai/webadmin/down5.php?dates=datas&no=388&types=2",
+     "hostname": "krema.ai",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=krema.ai&sz=128",
+     "description": "다주택자 보유 주택 수 산정시 예외사유는 세제, 대출규제 등. 기존 ... ※ 투기적 목적의 비거주 1주택자 대출규제방안도 추후 발표 추진. Page 5 ...",
+     "date": "2026-04-01",
+     "tier": 3
+    },
+    {
+     "title": "주요정책문답",
+     "url": "https://www.fsc.go.kr/po020201/87058?srchCtgry=&curPage=1&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+     "hostname": "fsc.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=fsc.go.kr&sz=128",
+     "description": "다주택자 보유 주택 수 산정시 예외사유는 세제, 대출규제 등 기존 다주택자 규제에도 적용되는지? □다주택자 보유 주택수 산정시 예외 사유는 금번 다주택자 주택담보 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "가계부채 관리 강화 방안, 보강 추가대책 발표!",
+     "url": "https://m.korea.kr/news/policyNewsView.do?newsId=148954140",
+     "hostname": "m.korea.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.korea.kr&sz=128",
+     "description": "· 규제지역(현 강남3구, 용산구)에 적용되는 가계대출 주택담보 대출의 담보 인정비율(LTV) 상한을 기존 50%에서 40%로 강화합니다. ... · 수도권·규제지역 내 주택을 담보로 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "[FAQ] 대출수요 추가 관리 방안(2025.9.7.)",
+     "url": "https://m.blog.naver.com/blogfsc/223998700089",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "6.27대책 발표 이후 둔화되었던 가계부채 증가세가 8월에 다소 확대*되고 있으며, 일부 지역의 주택가격 상승세도 지속.",
+     "date": "2025-09-07",
+     "tier": 1
+    },
+    {
+     "title": "대출수요 관리 방안 FAQ",
+     "url": "https://hillstate.co.kr/cmm/fms/apt/FileDown?atchFileId=FILE_000000002228289",
+     "hostname": "hillstate.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=hillstate.co.kr&sz=128",
+     "description": "중도금·이주비대출을 받을 경우, 추가 주택구입이 제한 '18.9.13~. * 재건축·재개발 주택의 관리처분인가일을 기준으로 규제지역 해당 여부를 판단. 규제지역 소재 주택 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "1세대 1주택자 판단 시 주택 수 산정 제외 특례",
+     "url": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=40621&cntntsId=239014",
+     "hostname": "nts.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=nts.go.kr&sz=128",
+     "description": "1세대 1주택자의 적용을 신청하려는 납세의무자는 해당 연도 9월 16일부터 9월 30일까지 「1세대 1주택자 판단 시 주택 수 산정 제외 신청서(종합부동산세법 시행규칙 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "'다주택자 주택담보대출 만기연장 제한'…금융당국, 가계부채 대응 방안",
+     "url": "https://www.nongmin.com/article/20260401500410",
+     "hostname": "nongmin.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=nongmin.com&sz=128",
+     "description": "... 주택 등 규제 적용이 곤란한 경우는 주택 보유수에서 제외한다. 주택을 즉시 매도하기 어려운 사유가 있는 경우 예외적으로 만기연장을 허용한다.",
+     "date": "2026-04-01",
+     "tier": 3
+    }
+   ]
+  }
+ ]
+}

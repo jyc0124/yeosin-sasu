@@ -1,0 +1,39 @@
+{
+  "name": "loandesk-copilot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "test": "vitest run",
+    "liner:smoke": "tsx --env-file=.env scripts/liner-smoke.ts",
+    "data:build": "python3 -I scripts/md2json.py",
+    "eval:extract": "tsx --env-file=.env scripts/eval-extract.ts",
+    "watch:run": "tsx --env-file=.env scripts/watch-run.ts",
+    "eval:baseline": "tsx --env-file=.env scripts/eval-baseline.ts",
+    "eval:report": "tsx scripts/eval-report.ts",
+    "eval:explain": "tsx --env-file=.env scripts/eval-explain.ts",
+    "feedback:export": "tsx --env-file=.env scripts/feedback-export.ts",
+    "guarantor:check": "tsx scripts/guarantor-check.ts"
+  },
+  "dependencies": {
+    "next": "15.5.29",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.29",
+    "tailwindcss": "^4",
+    "tsx": "^4.20.3",
+    "typescript": "^5",
+    "vitest": "^3.2.4"
+  }
+}

@@ -1,0 +1,96 @@
+{
+ "_note": "해석 쟁점(원문 공백 G-ID)별 Liner 사전 조사. queries는 본점 '지금 다시 조사'(Search API)에 쓰고, runs는 원문 대조까지 마친 조사 이력이다. 근거: data/liner_spike/interpret_1119/REPORT.md",
+ "gaps": {
+  "G-09": {
+   "queries": [
+    "비거주 1주택자 전세대출 분양권 입주권 주택 수 포함 여부",
+    "전세대출보증 주택 수 산정 주거용 오피스텔 분양권 HUG 기준"
+   ],
+   "runs": [
+    {
+     "date": "2026-11-19",
+     "method": "Search Agent + Search API",
+     "sources": 66,
+     "official": 31,
+     "result": "공식 근거 없음",
+     "files": [
+      "data/liner_spike/interpret_1119/Q5.json"
+     ]
+    }
+   ]
+  },
+  "G-10": {
+   "queries": [
+    "다주택자 만기연장 예외 임차인이 있는 경우 담보주택 임대차계약 종료일",
+    "가계부채 관리방안 FAQ 임차인이 있는 경우 만기연장 허용범위"
+   ],
+   "runs": [
+    {
+     "date": "2026-11-19",
+     "method": "Search Agent + Search API",
+     "sources": 62,
+     "official": 30,
+     "result": "공식 근거 없음",
+     "files": [
+      "data/liner_spike/interpret_1119/Q1.json"
+     ]
+    }
+   ]
+  },
+  "G-11": {
+   "queries": [
+    "만기연장 제한 묵시적 갱신 4.16 유예기간 임대차계약종료일",
+    "다주택자 만기연장 임대차계약 종료 후 계속 거주 묵시적 갱신 종료일"
+   ],
+   "runs": [
+    {
+     "date": "2026-11-19",
+     "method": "Search Agent + Search API",
+     "sources": 112,
+     "official": 58,
+     "result": "공식 근거 없음",
+     "files": [
+      "data/liner_spike/interpret_1119/Q2.json",
+      "data/liner_spike/interpret_1119/Q6.json"
+     ]
+    }
+   ]
+  },
+  "G-12": {
+   "queries": [
+    "비거주 1주택자 전세대출 만기연장 증액 변경된 규정 적용 경과조치",
+    "주택담보대출에 대한 리스크관리 기준 행정지도 전세대출 증액 경과조치"
+   ],
+   "runs": [
+    {
+     "date": "2026-11-19",
+     "method": "Search Agent + Search API",
+     "sources": 46,
+     "official": 20,
+     "result": "공식 근거 없음",
+     "files": [
+      "data/liner_spike/interpret_1119/Q3.json"
+     ]
+    }
+   ]
+  },
+  "G-13": {
+   "queries": [
+    "다주택자 만기연장 제한 세대 기준 주택 수 세대원 범위 배우자",
+    "가계부채 관리방안 FAQ 개인 임대사업자 세대 기준 판단"
+   ],
+   "runs": [
+    {
+     "date": "2026-11-19",
+     "method": "Search Agent + Search API",
+     "sources": 54,
+     "official": 23,
+     "result": "공식 근거 없음",
+     "files": [
+      "data/liner_spike/interpret_1119/Q4.json"
+     ]
+    }
+   ]
+  }
+ }
+}

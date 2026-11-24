@@ -1,0 +1,36 @@
+{
+ "at": 1795075345507,
+ "value": {
+  "id": "chatcmpl-e4365c94acb24940ace83f63a262ddea",
+  "object": "chat.completion",
+  "created": 1795075345,
+  "model": "gpt-6.1-sol",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "{\"sentences\":[{\"text\":\"불가피하게 거주하지 못한 사정은 여신심사위원회의 인정을 받아야 합니다.\",\"facts\":[\"F813-07\"]},{\"text\":\"매매계약 후 갑작스러운 근무지 변경은 인정 예시지만, 심사를 거쳐야 합니다.\",\"facts\":[\"F813-08\",\"F813-07\"]},{\"text\":\"심사 상정을 위해 발령 공문·재직증명과 매매계약일·발령일의 선후 확인 자료를 준비해 주세요.\",\"facts\":[\"F813-07\",\"F813-08\"]}]}"
+    },
+    "finish_reason": "stop"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1236,
+   "completion_tokens": 316,
+   "total_tokens": 1552,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 1233,
+    "cache_write_tokens_details": {
+     "ttl_5m_tokens": 0,
+     "ttl_1h_tokens": 0,
+     "ttl_30m_tokens": 1233
+    }
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 175
+   }
+  }
+ }
+}

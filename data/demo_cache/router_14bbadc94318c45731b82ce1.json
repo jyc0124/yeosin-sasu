@@ -1,0 +1,13 @@
+{
+ "at": 1795403220010,
+ "value": {
+  "model": "gpt-6.2-sol",
+  "choices": [
+   {
+    "message": {
+     "content": "{\"module\":\"M2\",\"alsoModule\":null,\"basis\":{\"subQuestions\":[],\"regs\":[],\"concepts\":[]},\"topic\":null,\"region\":null,\"m1\":{\"action\":null,\"increase\":null,\"maturityDate\":null,\"plannedRenewalDate\":null,\"applicationDate\":null,\"contractAndDepositBy1231\":null,\"bankIntakeBy1231\":null,\"houses\":[],\"houseCount\":null,\"leasedOut\":null,\"tenantIsFamily\":null,\"everLived\":null,\"livedEvidence\":null,\"exception\":null,\"targetAsserted\":null,\"depositIncrease\":null,\"loanAmount\":null,\"newLoanAmount\":null,\"rentalRegion\":null,\"rentalRegulated\":null,\"sameHome\":null,\"firstLeaseBy0907\":null,\"refinance\":null,\"dsrRatio\":null,\"lenderSector\":null,\"otherHouseholdHouses\":null,\"leaseDepositDate\":null,\"intakeDate\":null,\"policyLoan\":null,\"countClaims\":[]},\"m2\":{\"borrowerType\":null,\"houses\":[],\"houseCount\":2,\"houseCountIsMinimum\":true,\"conditionalDisposal\":null,\"loanPurpose\":null,\"collateral\":{\"region\":null,\"sigungu\":null,\"isApt\":null,\"regulated\":null,\"tags\":[]},\"maturityDate\":\"2026-12-15\",\"asksNextMaturity\":null,\"tenant\":{\"mentioned\":true,\"absent\":null,\"contractValidAt0401\":true,\"originalEnd\":\"2026-06-30\",\"renewal\":null,\"renewalDate\":\"2026-05-10\",\"renewedEnd\":\"2028-06-30\",\"provisional\":null,\"successorSignedDate\":null,\"successorEnd\":null,\"successorProvisional\":null},\"registeredRental\":{\"mentioned\":false,\"mandatoryEnd\":null,\"voluntaryCancel\":null,\"voluntaryCancelDate\":null},\"legalObligation\":null,\"legalObligationEnd\":null,\"notifiedBy0401\":null,\"notifiedProof\":null,\"publicInterest\":null,\"otherException\":null,\"homsAvailable\":null,\"consentRefused\":null,\"landlordMainBusiness\":null,\"countClaims\":[]},\"relatedTopics\":[],\"asksCriteria\":false,\"avoidanceAsked\":false,\"unmodeledFacts\":[],\"assumptions\":[\"만기 12월 → 2026-12-15로 가정\",\"재계약일 5/10 → 2026-05-10으로 가정\",\"가계약 언급 없어 4.1 기준 유효 계약으로 가정\",\"기존 계약 종료일 2026-06-30에 재계약 기간 2년을 더해 2028-06-30으로 가정\"]}"
+    }
+   }
+  ]
+ }
+}

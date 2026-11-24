@@ -1,0 +1,29 @@
+# deps / build
+/node_modules
+/.next/
+/out/
+/build
+/coverage
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+
+# secrets — API 키는 절대 커밋하지 않음
+.env
+.env.*
+!.env.example
+
+# 개인 기획 자료·내부 설문 (공개 저장소 제외)
+/Raw data/
+/data/survey_*.md
+# 베타 테스터 의견(실제 직원 의견)
+/data/feedback/
+
+# local cache / tooling
+/.cache/
+.omc/
+**/.omc/
+.DS_Store
+*.pem
+npm-debug.log*
+.playwright-mcp/

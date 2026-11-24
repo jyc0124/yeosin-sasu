@@ -1,0 +1,36 @@
+{
+ "at": 1795075269801,
+ "value": {
+  "id": "chatcmpl-70b4e80283e54f639ad2941b190fb4f3",
+  "object": "chat.completion",
+  "created": 1795075269,
+  "model": "gpt-6.1-sol",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"module\": \"M1\",\n  \"topic\": null,\n  \"region\": null,\n  \"m1\": {\n    \"action\": \"renewal\",\n    \"increase\": null,\n    \"maturityDate\": \"2027-01-05\",\n    \"plannedRenewalDate\": \"2026-12-15\",\n    \"applicationDate\": null,\n    \"contractAndDepositBy1231\": null,\n    \"bankIntakeBy1231\": null,\n    \"houses\": [],\n    \"houseCount\": null,\n    \"leasedOut\": null,\n    \"tenantIsFamily\": null,\n    \"everLived\": null,\n    \"livedEvidence\": null,\n    \"exception\": null,\n    \"targetAsserted\": true\n  },\n  \"m2\": {\n    \"borrowerType\": null,\n    \"houses\": [],\n    \"houseCount\": null,\n    \"houseCountIsMinimum\": null,\n    \"conditionalDisposal\": null,\n    \"loanPurpose\": null,\n    \"collateral\": {\n      \"region\": null,\n      \"sigungu\": null,\n      \"isApt\": null,\n      \"regulated\": null\n    },\n    \"maturityDate\": null,\n    \"asksNextMaturity\": null,\n    \"tenant\": {\n      \"mentioned\": false,\n      \"absent\": null,\n      \"contractValidAt0401\": null,\n      \"originalEnd\": null,\n      \"renewal\": null,\n      \"renewalDate\": null,\n      \"renewedEnd\": null,\n      \"provisional\": null\n    },\n    \"registeredRental\": {\n      \"mentioned\": false,\n      \"mandatoryEnd\": null,\n      \"voluntaryCancel\": null,\n      \"voluntaryCancelDate\": null\n    },\n    \"legalObligation\": null,\n    \"legalObligationEnd\": null,\n    \"notifiedBy0401\": null,\n    \"notifiedProof\": null,\n    \"publicInterest\": null,\n    \"otherException\": null,\n    \"homsAvailable\": null,\n    \"landlordMainBusiness\": null\n  },\n  \"unmodeledFacts\": [],\n  \"assumptions\": [\n    \"12월에 미리 연장 → 2026-12-15로 가정\"\n  ]\n}"
+    },
+    "finish_reason": "stop"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 9351,
+   "completion_tokens": 521,
+   "total_tokens": 9872,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 9348,
+    "cache_write_tokens_details": {
+     "ttl_5m_tokens": 0,
+     "ttl_1h_tokens": 0,
+     "ttl_30m_tokens": 9348
+    }
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 37
+   }
+  }
+ }
+}

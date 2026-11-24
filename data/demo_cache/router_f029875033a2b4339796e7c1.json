@@ -1,0 +1,36 @@
+{
+ "at": 1795075324132,
+ "value": {
+  "id": "chatcmpl-7341ec54d38d4e19a69ea468eda7fa98",
+  "object": "chat.completion",
+  "created": 1795075324,
+  "model": "gpt-6.1-sol",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "{\"sentences\":[{\"text\":\"어머니께 임대한 경우는 가족 임대 예외에 해당해 규제 대상에서 제외됩니다.\",\"facts\":[\"F813-02\"]},{\"text\":\"확인을 위해 가족관계증명서와 임대차계약서를 제출해 주세요.\",\"facts\":[\"F813-02\"]}]}"
+    },
+    "finish_reason": "stop"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 691,
+   "completion_tokens": 183,
+   "total_tokens": 874,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "cache_write_tokens_details": {
+     "ttl_5m_tokens": 0,
+     "ttl_1h_tokens": 0,
+     "ttl_30m_tokens": 0
+    }
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 104
+   }
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "at": 1795075279871,
+ "value": {
+  "id": "chatcmpl-477ec05fe5dc4f5a9d74a9218ae8132e",
+  "object": "chat.completion",
+  "created": 1795075279,
+  "model": "gpt-6.1-sol",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "{\"sentences\":[{\"text\":\"비거주 1주택자는 원칙적으로 전세대출 신규·연장이 제한되며, 예외 사유 확인이 필요합니다.\",\"facts\":[\"F813-06\",\"F813-07\"]},{\"text\":\"경과조치는 2026년 12월 31일까지 만기가 도래하는 건에만 적용됩니다.\",\"facts\":[\"F828-01\"]},{\"text\":\"고객님 전세 만기는 2027년 1월 5일로, 경과조치 적용 대상에서 제외됩니다.\",\"facts\":[\"F828-01\",\"F813-09\"]},{\"text\":\"임대인의 보증금 미반환이나 불가피한 비거주 등 예외 사유가 있으신지 확인해 주시겠습니까?\",\"facts\":[\"F813-07\"]}]}"
+    },
+    "finish_reason": "stop"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1076,
+   "completion_tokens": 433,
+   "total_tokens": 1509,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 1073,
+    "cache_write_tokens_details": {
+     "ttl_5m_tokens": 0,
+     "ttl_1h_tokens": 0,
+     "ttl_30m_tokens": 1073
+    }
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 246
+   }
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "at": 1795075317453,
+ "value": {
+  "id": "chatcmpl-b53452a7e4ae48238587ebdd1d860ef7",
+  "object": "chat.completion",
+  "created": 1795075317,
+  "model": "gpt-6.1-sol",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"module\": \"M1\",\n  \"topic\": null,\n  \"region\": null,\n  \"m1\": {\n    \"action\": \"renewal\",\n    \"increase\": null,\n    \"maturityDate\": \"2027-02-15\",\n    \"plannedRenewalDate\": null,\n    \"applicationDate\": null,\n    \"contractAndDepositBy1231\": null,\n    \"bankIntakeBy1231\": null,\n    \"houses\": [\n      {\n        \"label\": \"서울 아파트\",\n        \"region\": \"서울\",\n        \"sigungu\": null,\n        \"isApt\": true,\n        \"kind\": null,\n        \"regulated\": null,\n        \"baseValueAtAcq\": null,\n        \"tags\": [],\n        \"claimsDepopulation\": null\n      }\n    ],\n    \"houseCount\": null,\n    \"leasedOut\": true,\n    \"tenantIsFamily\": true,\n    \"everLived\": null,\n    \"livedEvidence\": null,\n    \"exception\": null,\n    \"targetAsserted\": null\n  },\n  \"m2\": {\n    \"borrowerType\": null,\n    \"houses\": [],\n    \"houseCount\": null,\n    \"houseCountIsMinimum\": null,\n    \"conditionalDisposal\": null,\n    \"loanPurpose\": null,\n    \"collateral\": {\n      \"region\": null,\n      \"sigungu\": null,\n      \"isApt\": null,\n      \"regulated\": null\n    },\n    \"maturityDate\": null,\n    \"asksNextMaturity\": null,\n    \"tenant\": {\n      \"mentioned\": false,\n      \"absent\": null,\n      \"contractValidAt0401\": null,\n      \"originalEnd\": null,\n      \"renewal\": null,\n      \"renewalDate\": null,\n      \"renewedEnd\": null,\n      \"provisional\": null\n    },\n    \"registeredRental\": {\n      \"mentioned\": false,\n      \"mandatoryEnd\": null,\n      \"voluntaryCancel\": null,\n      \"voluntaryCancelDate\": null\n    },\n    \"legalObligation\": null,\n    \"legalObligationEnd\": null,\n    \"notifiedBy0401\": null,\n    \"notifiedProof\": null,\n    \"publicInterest\": null,\n    \"otherException\": null,\n    \"homsAvailable\": null,\n    \"landlordMainBusiness\": null\n  },\n  \"unmodeledFacts\": [],\n  \"assumptions\": [\n    \"내년 2월 전세 만기 → 2027-02-15로 가정\"\n  ]\n}"
+    },
+    "finish_reason": "stop"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 9386,
+   "completion_tokens": 620,
+   "total_tokens": 10006,
+   "prompt_tokens_details": {
+    "cached_tokens": 9315,
+    "cache_write_tokens": 68,
+    "cache_write_tokens_details": {
+     "ttl_5m_tokens": 0,
+     "ttl_1h_tokens": 0,
+     "ttl_30m_tokens": 68
+    }
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 67
+   }
+  }
+ }
+}

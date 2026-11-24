@@ -1,0 +1,622 @@
+{
+ "id": "R2",
+ "question": "전세대출보증 심사에서 주택 수는 누구까지 합산하나요(차주 본인, 배우자, 세대원, 동거하는 부모)? 1주택자가 주택을 가진 부모와 같은 전셋집에 함께 살면 2주택으로 보나요? 2026년 8월 13일 금융위원회 「부동산 시장 안정을 위한 금융 종합대책」(비거주 1주택자 전세대출 제한, 2027.1.1 시행)과 2026.8.28 행정지도 「주택담보대출에 대한 리스크관리 기준」의 '부부합산' 기준과 보증기관 내규 기준이 어떻게 다른지도 알려주세요. 금융위원회·금융감독원·은행연합회·HUG(주택도시보증공사)·HF(한국주택금융공사)·SGI서울보증 등 공식 자료(보도자료, FAQ, 행정지도, 상품설명서, 보증규정, 질의회신, 금융규제·법령해석포털 회신사례)에서 근거 문장을 찾아 문서명·날짜와 함께 인용해 주세요. 보증기관별로 다르면 기관별로 나눠 주세요. 공식 근거가 없으면 '공식 근거 없음'이라고 분명히 답하고 추측하지 마세요.",
+ "agent": {
+  "text": "현재 확인되는 공식 자료만으로는 전세대출보증 심사에서 차주 본인·배우자·세대원·동거 부모 중 누구의 주택을 합산하는지, 또는 주택 소유 부모와 동거하는 1주택자를 2주택자로 보는지 확정할 수 없습니다. 해당 세부 기준은 보증기관별 내규나 상품별 심사기준에 있을 가능성이 있으나, 제공된 공식 자료에는 구체적인 합산 범위가 제시되어 있지 않습니다.\n\n### 1. 공식 자료에서 확인되는 범위\n\n금융위원회는 2026년 8월 13일 대책에서 전세대출 관리를 강화한다고 발표했고, 관련 자료에는 전세대출 신규취급·만기연장을 원칙적으로 금지하고 예외적으로 허용하는 내용이 포함되어 있습니다 ((1)) ((6)). 또한 금융위원회 자료에는 전세대출보증 제한 대상 확대가 언급되어 있습니다 ((14)) ((19)).\n\n금융위원회 별첨 자료에는 전세대출 보증기관 내규에 따라 주택보유 수를 산정한다는 취지가 기재되어 있지만, 차주 본인·배우자·세대원·동거 부모 중 누구를 포함하는지에 관한 구체적인 문장은 제공된 자료에서 확인되지 않습니다 ((42)).\n\n따라서 다음 사항은 현재 자료 기준으로 모두 **공식 근거 없음**입니다.\n\n- 차주 본인만 합산하는지 여부\n- 차주와 배우자의 주택을 합산하는지 여부\n- 동일 세대의 모든 세대원 주택을 합산하는지 여부\n- 주민등록상 동거하는 부모의 주택을 합산하는지 여부\n- 주민등록상 세대가 분리된 부모의 주택을 합산하는지 여부\n- 주택 소유 부모와 같은 전셋집에 거주하는 1주택자를 2주택자로 보는지 여부\n\n### 2. 1주택자와 주택 소유 부모가 같은 전셋집에 거주하는 경우\n\n제공된 공식 자료만으로는 이 사례의 주택 수 산정 결과를 판단할 수 없습니다. 즉, 부모가 주택을 소유하고 있다는 사실과 부모가 차주와 같은 전셋집에 거주한다는 사실만으로 2주택자로 산정된다고 단정할 공식 근거는 없습니다.\n\n반대로 부모의 주택을 합산하지 않는다고 단정할 공식 근거도 없습니다. 금융위원회 자료가 주택보유 수 산정의 구체적 범위를 보증기관 내규에 맡기고 있으므로, 이 사안은 이용하려는 보증기관과 전세대출 상품의 실제 내규를 확인해야 합니다 ((42)).\n\n따라서 현재 답변은 다음과 같습니다.\n\n> **1주택자가 주택을 가진 부모와 같은 전셋집에 사는 경우 2주택으로 보는지: 공식 근거 없음.**\n\n### 3. 금융위원회 대책의 ‘부부합산’ 기준\n\n2026년 8월 13일 금융위원회 대책 관련 자료는 비거주 1주택자의 전세대출 신규취급·만기연장 제한을 포함하고 있습니다 ((24)) ((25)). 다만 제공된 자료의 해당 부분에는 ‘부부합산’의 정의, 즉 배우자의 주택만 합산하는지, 배우자 외 세대원의 주택도 포함하는지, 부모의 주택까지 포함하는지에 관한 문장이 없습니다.\n\n따라서 금융위원회 대책에서 말하는 주택 수 산정의 구체적인 가족 범위는 **공식 근거 없음**입니다. 특히 ‘부부합산’이라는 표현이 전세대출보증 심사의 주택 수 산정에도 그대로 적용된다고 볼 근거는 제공된 자료에서 확인되지 않습니다.\n\n### 4. 2026년 8월 28일 행정지도와의 비교\n\n「주택담보대출에 대한 리스크 관리 기준」 자료에는 수도권·규제지역 아파트를 보유한 1주택자를 ‘부부합산 기준’으로 규정한 문구가 확인됩니다 ((2)).\n\n그러나 이 자료는 주택담보대출에 관한 행정지도이며, 제공된 발췌문에는 다음 내용이 없습니다.\n\n- 부부합산에 포함되는 배우자의 범위\n- 세대원 주택을 포함하는지 여부\n- 동거 부모의 주택을 포함하는지 여부\n- 전세대출보증 심사에도 같은 기준을 적용한다는 규정\n- 보증기관별 주택 수 산정 기준\n\n따라서 주택담보대출 행정지도의 ‘부부합산’ 기준과 전세대출보증의 보증기관별 주택 수 산정 기준은 동일하다고 단정할 수 없습니다.\n\n| 구분 | 확인되는 내용 | 확인되지 않는 내용 |\n|---|---|---|\n| 금융위원회 2026.8.13 대책 | 전세대출 관리 강화, 비거주 1주택자에 대한 제한 내용 ((6)) ((24)) | 본인·배우자·세대원·부모의 구체적 합산 범위 |\n| 2026.8.28 주택담보대출 행정지도 | 일부 주택담보대출 규제에서 ‘부부합산 기준’ 사용 ((2)) | 동거 부모 포함 여부, 전세대출보증에의 직접 적용 여부 |\n| 전세대출보증 | 보증기관 내규에 따라 주택보유 수를 산정한다는 취지 ((42)) | 기관별 내규의 구체적인 가족 범위와 산정 방식 |\n\n### 5. 보증기관별 확인 결과\n\n#### HUG, 주택도시보증공사\n\nHUG 관련 자료에는 전세자금대출 대상자의 세대주 및 세대원 관련 요건이 일부 제시되어 있지만, 제공된 발췌문에는 주택을 소유한 동거 부모를 전세대출보증의 주택 수에 포함한다는 내용이 없습니다 ((16)).\n\n따라서 HUG의 경우 다음은 **공식 근거 없음**입니다.\n\n- 배우자의 주택을 반드시 합산한다는 구체적 근거\n- 모든 세대원의 주택을 합산한다는 구체적 근거\n- 동거 부모의 주택을 합산한다는 구체적 근거\n- 부모와 동거하는 1주택자를 2주택자로 본다는 구체적 근거\n\n#### HF, 한국주택금융공사\n\nHF의 제공 자료에는 일부 주택금융상품에서 세대원 전원의 무주택 요건이나 부부합산 소득 요건이 사용된다는 내용이 있습니다 ((8)). 그러나 이 자료는 디딤돌대출 상품소개 자료이며, 일반적인 전세자금보증에서 동거 부모의 주택을 포함하는지에 관한 근거로 볼 수 없습니다.\n\nHF 관련 자료에는 배우자가 동일 물건지로 공사 전세자금보증을 이용 중이거나 보증 채무관계자인 경우에도 취급 가능하다는 문구가 있으나, 이는 특정 보증 이용관계에 관한 내용일 뿐 부모의 주택을 주택 수에 포함하는 기준을 제시한 문장은 아닙니다 ((43)).\n\n따라서 HF의 경우에도 다음은 **공식 근거 없음**입니다.\n\n- 전세자금보증에서 세대원 전원의 주택을 일률적으로 합산한다는 근거\n- 동거 부모의 주택을 합산한다는 근거\n- 주택 소유 부모와 동거하는 1주택자를 2주택자로 본다는 근거\n\n#### SGI서울보증\n\n제공된 SGI서울보증 공식 자료는 종합보증회사 및 상품 일반사항을 설명하거나 선금보증보험을 설명하는 자료이며, 전세자금대출보증의 주택 수 산정 기준을 제시하지 않습니다 ((10)) ((29)) ((34)).\n\n따라서 SGI서울보증에 대해서는 본인·배우자·세대원·동거 부모의 주택 합산 범위와 부모 동거 시 2주택자 해당 여부 모두 **공식 근거 없음**입니다.\n\n#### 은행연합회\n\n제공된 은행연합회 자료에는 전세대출보증의 주택 수 산정 기준이나 보증기관별 내규가 확인되지 않습니다 ((5)) ((32)) ((57)). 따라서 은행연합회 자료를 근거로 합산 범위를 판단할 수 없으며, 해당 내용은 **공식 근거 없음**입니다.\n\n#### 금융감독원\n\n금융감독원 자료는 전세자금대출 만기연장 시 보증서 발급기관의 승인과 상품별 자격요건 확인이 필요하다고 안내하지만, 차주·배우자·세대원·부모의 주택 수 합산 범위를 규정하지 않습니다 ((4)).\n\n따라서 금융감독원 자료에서도 부모 동거 시 2주택자 해당 여부에 관한 구체적인 공식 근거는 확인되지 않습니다.\n\n### 6. 결론\n\n현재 제공된 공식 자료만으로 확정할 수 있는 결론은 다음과 같습니다.\n\n1. 금융위원회는 전세대출 관리 강화와 보증기관 내규에 따른 주택보유 수 산정을 제시했지만, 가족 구성원별 합산 범위는 공개된 발췌문에서 확인되지 않습니다 ((42)).\n2. 2026년 8월 28일 주택담보대출 행정지도에는 ‘부부합산 기준’이 언급되지만, 이를 전세대출보증의 주택 수 산정에 그대로 적용할 공식 근거는 없습니다 ((2)).\n3. 차주 본인, 배우자, 세대원, 동거 부모 중 누구까지 합산하는지는 기관별 공식 내규 원문이 없으므로 **공식 근거 없음**입니다.\n4. 1주택자가 주택을 소유한 부모와 같은 전셋집에 거주하는 경우 2주택자로 보는지는 HUG·HF·SGI별 공개 자료에서 확인되지 않으므로 **공식 근거 없음**입니다.\n5. 보증기관별로 기준이 다르다고 단정할 수 있는 구체적인 공식 자료도 현재 제공된 검색 결과에는 없습니다. 따라서 기관별 차이 역시 **공식 근거 없음**입니다.\n\n정확한 판단을 위해서는 각 기관에 “전세자금대출보증 주택보유 수 산정 시 차주 본인, 배우자, 동일 세대 세대원, 주민등록상 동거 부모 및 세대분리 부모를 각각 포함하는지”를 서면으로 질의하고, 해당 답변과 적용 상품명을 함께 확인해야 합니다.\n\n**중요한 고지**\n\n이 정보는 일반적인 정보 제공을 위한 것이며, 금융기관의 최종 심사나 전문적인 금융·법률 자문을 대신하지 않습니다. 개인의 세대 구성, 보유 주택, 대출 상품 및 보증기관에 따른 구체적인 판단은 해당 보증기관이나 자격을 갖춘 금융·법률 전문가에게 상담하시기 바랍니다.",
+  "references": [
+   {
+    "title": "부동산 시장 안정을 위한 금융 종합대책",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87517&fileTy=ATTACH&fileNo=3",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주택담보대출에 대한 리스크 관리 기준",
+    "url": "https://better.fsc.go.kr/fsc_new/file/displayFile.do?filePath=/2026/08/28&orgFileName=260813_%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%A6%AC%EC%8A%A4%ED%81%AC%20%EA%B4%80%EB%A6%AC%20%EA%B8%B0%EC%A4%80%20%ED%96%89%EC%A0%95%EC%A7%80%EB%8F%84.pdf&sysFileName=9150b4d6f5564462ab5cf218254697e9.pdf",
+    "hostname": "better.fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보도자료(상세) | 보도자료 | 보도·알림 |",
+    "url": "https://fss.or.kr/fss/bbs/B0000188/view.do?nttId=241690&menuNo=200218",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "만기 시 이렇게 하세요 | 금융감독원 금융상품",
+    "url": "https://fine.fss.or.kr/main/prc/lo/sub/lo018.jsp?menuNo=900323",
+    "hostname": "fine.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "࿬ȸ",
+    "url": "https://m.kfb.or.kr",
+    "hostname": "m.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "수도권 23만호+α 추가 공급 및 청년 등 실수요자 금융지원 강화",
+    "url": "https://www.fsc.go.kr/no010101/87517?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": "2026-08-13",
+    "tier": 1
+   },
+   {
+    "title": "든든전세주택 소개",
+    "url": "https://www.khug.or.kr/jeonse/web/s07/s070101.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "상품소개 | 디딤돌대출 | 주택담보대출",
+    "url": "http://www.hf.go.kr/ko/sub01/sub01_02_01.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2026년 9월 가계대출 동향(잠정) 및 ｢가계부채 점검회의｣ 개최",
+    "url": "https://www.google.com/goto?url=CAESYQHEIkXX_zta-0MCqtCiDFD4oo97JmpHnoNiMf1hTsTxiwydhkR2Wpg--7OEzY_gqy-EjGN2I5X6qnUiJ1sZUhvAIDgpuEEb-ewmHLF2Z6hlLGMZkP2sK_0aPiXw8C3Yu2Q&gsessionid=tQnfvMfqjHpO_H33lI5rMbDckTjLvkCoyJSqBUsbainL4gqmwp1oZw",
+    "hostname": "google.com",
+    "date": "2026-10-15",
+    "tier": 3
+   },
+   {
+    "title": "선금보증보험 | 일반계약/공사 | 상품 | SGI서울보증",
+    "url": "https://m.sgic.co.kr/biz/cmw/index.html?p=CMWPRD010301F01",
+    "hostname": "m.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "제도비교 | 퇴직연금 제도안내 | 퇴직연금 안내 | 통합연금포털 | 금융소비자보호 |",
+    "url": "https://www.fss.or.kr/fss/main/contents.do?menuNo=200987",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "건축물의 피난ㆍ방화구조 등의 기준에 관한 규칙 > 법령 > 본문",
+    "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B1%B4%EC%B6%95%EB%AC%BC%EC%9D%98%ED%94%BC%EB%82%9C%E3%86%8D%EB%B0%A9%ED%99%94%EA%B5%AC%EC%A1%B0%EB%93%B1%EC%9D%98%EA%B8%B0%EC%A4%80%EC%97%90%EA%B4%80%ED%95%9C%EA%B7%9C%EC%B9%99",
+    "hostname": "law.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2025년 신혼부부 전세자금대출 자격 및 한도 총정리 - Hanilhouse",
+    "url": "https://www.google.com/goto?url=CAESvgEBxCJF1_KwegWPie-PGsyfeFgOIibu4yddnLbogyv10WURn5u6fkD9qQY9ZFNgrt8EQWtoXHtumGP_FH9Ly2-Y-fqZ7zUwLl69HmBfDEheSeGiCfdmHFKn7ybBaDt5J1XMJVpECbV9jgnBnHqka8xhtQ1kG_JPIzc3TSbuHt6CnC3Ks82HuhRbpz0IRcGlbyF0-PqpvvvXa1tvVOfJLyiWRwOXrYDFkxF8oxqNflMEzV_9ZMZOIucwixVR6vYZ&gsessionid=1YLR0OEFzNidpoSSkbU3MTrKTSlGiEpRIhApNhh0g_6fvw_4V1eyEQ",
+    "hostname": "google.com",
+    "date": "2025-08-09",
+    "tier": 3
+   },
+   {
+    "title": "2026년 7월 가계대출 동향(잠정) 및 ｢확대 가계부채 점검회의 ...",
+    "url": "https://www.google.com/goto?url=CAEStAEBxCJF1z7MgWHxki8rzSWvCMkEfnxMG7vLxkvGL3KCxjkEZhOmZqStP6NabR_XsoQv_MbEsKY94OIy7vc9H2akGM8wayasZ1pRpD9UBjDTdeiEBYPZDh9k-2TyqrUB9HarU9vSB1nxq9RiB1AqgsQy0Hoa5QxLT2e_VK3W4wmK7QpJ2dsoktWllqrLMr7sVWF54DqgIB-U5R9RBoAUx7DSajgy-KsD8hl1XNsBeQj4porzhto&gsessionid=tQnfvMfqjHpO_H33lI5rMbDckTjLvkCoyJSqBUsbainL4gqmwp1oZw",
+    "hostname": "google.com",
+    "date": "2026-08-14",
+    "tier": 3
+   },
+   {
+    "title": "수도권 23만호+α 추가 공급, 주택 공급 촉진 및 청년 등 ...",
+    "url": "https://www.google.com/goto?url=CAESkgEBxCJF12Xfn1YaPbCHoSGcyXwDhu_cslaZ3PyNEOGgPMDxHypJ3bCxsWzEj6r-5H9TNRLugRaBNh-j807FMPY2Yesb9FWxZeaLpoXqTw-RmKfkdl_8OTwePWgcaZTnbS-xOAAmYH2srERJU7pRneoGqPwuH14f76TmYwXCuNWcC1NFWBq7AXlPTNhVhXk_xE0CrQ&gsessionid=tQnfvMfqjHpO_H33lI5rMbDckTjLvkCoyJSqBUsbainL4gqmwp1oZw",
+    "hostname": "google.com",
+    "date": "2026-08-13",
+    "tier": 3
+   },
+   {
+    "title": "HUG 주택도시보증공사 - 주택전세자금대출",
+    "url": "https://www.google.com/goto?url=CAEScQHEIkXXX_-wXZtRTWm5g2hoqNpNdXInvz5x--kuz8VBJGCOGCT5xt3L9l7_g9aDY834wFj0LmniiucZkQPtR8HOzAZHC0hpH2n0XDQZaLizJ3MBTFFhPkHy7QXcT4_4szig58bdZIdALUuB2yGJ39Pl&gsessionid=rGZWs0qXqBzUq7vR55PGAhVkG8iMPZR18nNFDDIrZWNkrx3KOw1Ypw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "금융 FAQ(상세) | 금융생활 길라잡이 | 금융소비자보호 |",
+    "url": "https://fss.or.kr/fss/bbs/B0000172/view.do?nttId=48329&menuNo=200202&viewType=&pageIndex=1",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "(일반) 상품소개 | 보금자리론 | 주택담보대출",
+    "url": "http://www.hf.go.kr/ko/sub01/sub01_01_01.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2026년 7월 가계대출 동향 ｢확대 가계부채 점검회의｣ 개최",
+    "url": "https://www.google.com/goto?url=CAESkgEBxCJF11N_Grny4VxBGlLTozg62mOquOPsMhqPG1xlLtxtPGKnngUvX5JYlU1CylVDinir-O-hk1iUoKPJeIXfWYpJ31TvUzgXU_hskOIszNZIdDmNcR1VxvUf2TCMyPmO4SL5aGj5MNF326STEZBea99sbxJsOg3XFGzmj8i76dByENYzjiO5C2JlV5isR0ZHTA&gsessionid=tQnfvMfqjHpO_H33lI5rMbDckTjLvkCoyJSqBUsbainL4gqmwp1oZw",
+    "hostname": "google.com",
+    "date": "2026-08-14",
+    "tier": 3
+   },
+   {
+    "title": "주요 상담전화번호 | 고객 상담 | 고객지원",
+    "url": "https://www.sgic.co.kr?p=CMWCST060201F01",
+    "hostname": "sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "지침 - 2026년 법정감염병 진단·신고기준 지침",
+    "url": "https://www.google.com/goto?url=CAESggEBxCJF1_eZj18dCnqdzjST5WbBDnshP5iNn-7xlnRz6R7V56uL6yZ4EuOl3IPMqI6uA5Qpe-ANzUQ1WK2WSQY2D-yFe29F9FdlF4-69MOxKSDN34m6I_Ia2WdMsA0boVJgWpGeDk9YRqWG_bqs44lpY2oF4kSsWTi6FaYUwzwUM2GM&gsessionid=JHgFxrSUm2_7OL56blqxmL0QgyvTNGG-fXdNdZP0PH-uCWX5mL5cfg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "국토교통부 장관 브리핑문",
+    "url": "https://www.google.com/goto?url=CAESkgEBxCJF15nKjGAYf4kopYmtCPE-Meld9-ji-VBIA2OsDBef4HCPEa1t3I96_xc5v73iqsVnNjnbInJJKvdnQVU-JKXpyNZEFURYJ-GiB0JouMVwZbFMJ0uasSq2HFXWxZOOXswF9Ww0LKtkRT7mt8n72AuDSjL3QqI1KKGSGgWg_XZ4gn1TT3LeKkZrBpjPltXJCQ&gsessionid=tQnfvMfqjHpO_H33lI5rMbDckTjLvkCoyJSqBUsbainL4gqmwp1oZw",
+    "hostname": "google.com",
+    "date": "2026-08-12",
+    "tier": 3
+   },
+   {
+    "title": "수도권·규제지역 주담대 조인다…28일부터 6억 원 넘게 못 받아",
+    "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148945077",
+    "hostname": "korea.kr",
+    "date": "2025-06-27",
+    "tier": 1
+   },
+   {
+    "title": "국정성과 - 정책자료",
+    "url": "https://www.google.com/goto?url=CAESXwHEIkXX6cI41xsq7rZaFtdt-kKZuHrGHxQJzAS7lIokFkXlij6NbGRhCYJ2vlFK2O36ZWkzD7NMXt_6mmdBgbt1Xd3D3GV_NthtbmnuOjuY5lsecSkWG19s6Mftmo-W&gsessionid=fs1g48UBndQTe8zukz6vaWYHkZIBNREU7Tr18gFZAg4n2pAU_59duA",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "카드뉴스 - 홍보자료 - 알림마당",
+    "url": "https://www.google.com/goto?url=CAESoQEBxCJF18jp4ZTfySq_6I1VxZwa5f_pKQu5fRuCnyW1JWRpJgGGv810YUCKmiDq82vA5lhHOYCJ6q23qNTlQMPY3CXCCxmqcfcV4M79iWxP36np592DY01TY4ACYzWzbNRqu0uEV6WqqTXnBzGB9YZDzCh4Ro9V5yQ6aK5DbKRIH_ecNxQvAsXQey4ef7hTKb_d9CkD2JRXF2QtDdZnQfMmNg&gsessionid=tQnfvMfqjHpO_H33lI5rMbDckTjLvkCoyJSqBUsbainL4gqmwp1oZw",
+    "hostname": "google.com",
+    "date": "2026-08-20",
+    "tier": 3
+   },
+   {
+    "title": "조회상담사례(목록) | 상속인금융거래조회 | 내 돈 관리 | 금융소비자 정보포털 파인",
+    "url": "https://fine.fss.or.kr/fine/bbs/B0000345/list.do?menuNo=900210",
+    "hostname": "fine.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주택연금이란",
+    "url": "http://www.hf.go.kr/ko/sub03/sub03_01_01_01.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "| 금융감독원 e-금융교육센터",
+    "url": "https://fss.or.kr/edu/fec/contMng/view.do?menuNo=300017&contentsSlno=533&check=1",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "(탭)회사개요 | 회사소개 | 유틸 | SGI서울보증",
+    "url": "https://m.sgic.co.kr/biz/cmw/index.html?p=CMWUTL050001F01",
+    "hostname": "m.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "보험인정기준이란?",
+    "url": "https://www.google.com/goto?url=CAES0QEBxCJF127bhRs_I3WjwTuqchU9gJpspavVBQjS6kFxesVUVZCCorjELWKvEHb0cq2xTeKZ5Hey9F_bCIiuxI54PtpugL08sTMr0E_-BhC4mroUH5rwD5jXcRHRu8pYzRuxFpA_KY-peRoyY9R6hRECCqwRwlnlDtvXXgb2E0gLLgW2JK8tqcHNbJFaThfr1M4m1j2vxZUklMXuOaluFgsoVPnWKMWXevmBm98U1EinYSQEAxyvEJvZRUBWmXI2u-9tS_rlf4wH1frR322u46lVCw&gsessionid=JHgFxrSUm2_7OL56blqxmL0QgyvTNGG-fXdNdZP0PH-uCWX5mL5cfg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "무주택자 LTV 완화, 주택담보대출 최대 4억까지 가능 【'21. 7. ...",
+    "url": "https://www.google.com/goto?url=CAESpwIBxCJF10iodt4wQ8CtnDklSlhFBIyENxdPz6sYXKBWMnSP6Rk3eU5PZ_WASPWfn53tZGm0g_0d4E1_k4UkhgLBxrIm-Yw-S5K4AddDpln4dExZ-RV78vvf7Bs_7g94R1tA5YpMMdNBDvioiRxFXvX0q1Wad1owLNVxOeNgnZJOA8j7rAVBYg2zznTHcEtIYpuxdMvX1QtV-vr-jb7JlLh0E6ejV6DHb60_qNle2Uyx1QxEyBtWH8xPLlJtAiSIqmhmvqEiDnFXqoTHdr6v1CVtJRYbk50sP9N7SlJpNG1LraNnMlzvDs1LzwcC3K2cfiyojX4ZgOqvO8BJBvZgQ5HKEXO5nfL3ylWSfho76tXIkPpDlMYUMQz9WHiv2dMvLmUywClzMe-Q&gsessionid=1YLR0OEFzNidpoSSkbU3MTrKTSlGiEpRIhApNhh0g_6fvw_4V1eyEQ",
+    "hostname": "google.com",
+    "date": "2021-07-01",
+    "tier": 3
+   },
+   {
+    "title": "전국은행연합회 ESG",
+    "url": "https://www.kfb.or.kr/member/index_2024.html",
+    "hostname": "kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "한국주택금융공사",
+    "url": "https://hf.go.kr/",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "SGI서울보증 소개 | 회사정보 | SGI서울보증 회사소개",
+    "url": "https://www.sgic.co.kr/biz/ccg/index.html?p=CCGCMP020001F01",
+    "hostname": "sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "기준 - Kijun",
+    "url": "https://kijun.co/",
+    "hostname": "kijun.co",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "9·7 「주택공급 확대방안」의 평가와 보완사항 제언",
+    "url": "https://www.google.com/goto?url=CAESxAIBxCJF1z34kgC0GbxeiTP6lDAY4P9vm0ruTyfEdQ-UOJNdU483ihcWjeQaQw6aWYWIM9sSHTkLZGqy8ePbPC_cOlD7DAC0NVHMH3PRXZUUGda2l8wgy4bYWtulW8r8J06ulQD8J3Zzz-AL02PqHc4ZCt5NIJ_fZzfnIDzMNlFTvDV4VdVIpJL3o_URF5h_jmnE44ksfzZNdJUKHsjSllO3JLE7xTd-w0Kvue-_x2WAS40wgc0XUcwIeQ9JCWzG2JrvaEd5ccKBqVs4snT46m199qigxIb8H_LsYF-5o4psbWcmObWFUfEP6Zqv3bhsoJOXE3RdLrzLTAd8MH-ExOoUFW2GpIh6WDLZi9arDABluhi-d9pXjd9DxIjt7ZkU2TsQSNa1Rxvgle8QcMTWFy-zmv0b5wqOcvjMo1q32RpGqkShJko&gsessionid=1YLR0OEFzNidpoSSkbU3MTrKTSlGiEpRIhApNhh0g_6fvw_4V1eyEQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "KOREA FEDERATION OF BANKS",
+    "url": "https://www.kfb.or.kr/eng",
+    "hostname": "kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "내집마련 디딤돌 대출 업무처리기준",
+    "url": "https://www.google.com/goto?url=CAESowEBxCJF1xJrSLGv23xxPru3cZBUdnwfLHHFPRYgMewErWFq6j5zz37sm1Pte_fcEYGW7e9yHpjmyJ3yYH_o91gnhFORhSShhnKJoO8XclnMycnZS-Q5-Nj_QS3rJo-XPCeZS9NQTFrLEOVyTaTKPrMt8dmvV87EsljaCXe-1Jn-bvNlqPxfQr-XNnV4KhMmSVAbn8kbxl9QTBCfJmm0wvkX0umL&gsessionid=MAKa7e_jqhVWMC_DXpF2tXErYrAX1r_femB12Xpa1kLt4rX2Yy3MGQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전자입찰/계약시스템",
+    "url": "https://ebid.sgic.co.kr",
+    "hostname": "ebid.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "건축물의 구조기준 등에 관한 규칙 > 법령 > 본문",
+    "url": "https://www.google.com/goto?url=CAES5QEBxCJF166uTlOSQIqLw1tYaaqYi9lKYOpgli1aY5nXGAHHhRlXQEfbdQIOeCTinojoH2W2jm0DLq8N6wJa_NWE23UzLAGf-LBz0tA8gov-Adv_zgCFJxd4wVOtjjKDYi3gz0rgO-f3CoUTkoqGl8ixyBNtwvVouY71tD8KW2_rKXT1LBR8FJbTFVtnkT35axfdHlsI_eoPe4Hrd-ZgtkqD0u9DMig-PUc6qKT-cIAK6NlgV4BrVG1y84YGmvOnUy3_Uz9s12TNNi72Esm8Z9pZFidlsmFbsiZMYQxInXb2vTRlkkxH&gsessionid=JHgFxrSUm2_7OL56blqxmL0QgyvTNGG-fXdNdZP0PH-uCWX5mL5cfg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "LTV, DTI, DSR 부동산 대출규제 알아보기",
+    "url": "https://www.google.com/goto?url=CAES0gEBxCJF10XzdKN_qoDH3OfYoObH-vg4oKWoAYgQ3tsYUKrNFd2dd-wq__e0EZU-7ooWVpWGwe6d1hA-o9w2-qoJMAlc99YKlm8FuwtwF6yiOzyMUIablq20hJyoTiPZ1HIg5JBixv8C0HXoD0Lbu8cWwE8WxY85iVFB_GiQnk6iTOQ_GnS9jR_EokxJaT65l2Bqfsni-1e0KnxVVzisus83B-lQ3vH0L_lRkDWWKLKpjT0_0uSB3At_0q1CTOMqtioSAKes3LP62ytIki-wJEoJhMw&gsessionid=1YLR0OEFzNidpoSSkbU3MTrKTSlGiEpRIhApNhh0g_6fvw_4V1eyEQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "260813(별첨자료) 부동산 시장 안정을 ...",
+    "url": "https://www.google.com/goto?url=CAESkgEBxCJF156sIpc0LHL-aAr0oqrbmErhxBf7SlnOSqq_SXIjEUzTlpCajRgztQB_3MY6uviU-PgdtcPd0XSjKtNBs-UNu3cGY829TcjTEOMPraGi2_8gUMQ4dt6IssmGfw3P37byEnkc05Oo6xy5bqk2ZVTO_FwUUSigLKE4yMOx5VLEwvJPYE3Xw_ZmaiX-Og7Elg&gsessionid=fs1g48UBndQTe8zukz6vaWYHkZIBNREU7Tr18gFZAg4n2pAU_59duA",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "보금자리론 업무처리기준",
+    "url": "https://www.google.com/goto?url=CAESnwEBxCJF14pikZYlLZ0Hd2WsiTcOz9RJ5jgth4-MThqw88Awq_cqHQaX9ljAFQbwb-lsKzgDLQwYLXiXvn4r2EBk7hgRqOUK8S2NapleMQas7FwK5XIXIQfuVMY6tx_q3QnVE0QzmOsT3QxNzGZr72tpifWnPPSc4bwOfwWHgzQh1EHbFr6DYrTl7uqXcgxS6XghVLnoBvc3QMwMKRBt9b4&gsessionid=MAKa7e_jqhVWMC_DXpF2tXErYrAX1r_femB12Xpa1kLt4rX2Yy3MGQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "SGI서울보증",
+    "url": "https://www.sgic.co.kr/biz/ccg/index.html?p=CCGCMP010001F01",
+    "hostname": "sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "8만 원대 게이밍 키보드의 새로운 기준?",
+    "url": "https://www.google.com/goto?url=CAESaAHEIkXXjpjgmH8RB54IlZnAO3plLlhaNQzMgpVHNesYrjG2ev9ttXrJC0z4SpivaeQGZLEcxIRLMSpw-Xe7NmJsEfiqVHiP-9ai8Y3ueytX8ZjIq3uqKfemk7gPRrH2ZD-4hK6R51Jr&gsessionid=JHgFxrSUm2_7OL56blqxmL0QgyvTNGG-fXdNdZP0PH-uCWX5mL5cfg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "주택금융 리서치",
+    "url": "https://www.google.com/goto?url=CAESoAEBxCJF13llYgoKk2GchMRquvKP_0TYB2oX6big35igxESCP98b2QqlVpisMAwzZXOfGyi7M7N2r-3u9tLzma6I_MIZ-XktCTW3JL-m3RlF08TVQXsbO2tXu9swY3mE34rv3HB8t0GzRhpG7WwS8Ifv0yY3ewJBrcRCPMLKBs3QCGWp9_IU_QOi1YUzwMpjEi52dlGXuKd71Dmexz_aDTxd&gsessionid=1YLR0OEFzNidpoSSkbU3MTrKTSlGiEpRIhApNhh0g_6fvw_4V1eyEQ",
+    "hostname": "google.com",
+    "date": "2023-09-30",
+    "tier": 3
+   },
+   {
+    "title": "예상연금조회",
+    "url": "https://www.google.com/goto?url=CAESaAHEIkXXkWVO4_XHQ-7M7m_7E2PebFXIyOzikYdMuLDJhNtoW3cOCHU1Q38i9yGaV1RTEuzRGLRTrfuNxVLrUcYzu02j-WyWMUZ850xDtMoD-tIjuBnEFi5AIA1nNne3X7F3cFTOvDap&gsessionid=MAKa7e_jqhVWMC_DXpF2tXErYrAX1r_femB12Xpa1kLt4rX2Yy3MGQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "「식품등의 표시기준」 고시 전문(고시 제2025-60호, '25.8.29.)",
+    "url": "https://www.google.com/goto?url=CAESbwHEIkXXujyJr3jjCoK-Zh6ep3TncSYIBQg88oWQC7r9Av1LCOFC_oCa2K4xDznVZWWq4SbOmWpfsxTHSS6zh0U3mKOZ39uR7IuT4Wv7E_3PzvNx3cT2kJQAu3P09vLyKN97KKKakUCwiTzxjO7SKQ&gsessionid=JHgFxrSUm2_7OL56blqxmL0QgyvTNGG-fXdNdZP0PH-uCWX5mL5cfg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "SGI서울보증 기업 심층 분석(SGI서울보증 자소서 및 면접 ...",
+    "url": "https://www.google.com/goto?url=CAESewHEIkXX1FnJWZ6LtX5e966MaUUEijRHJ7_vJJ_o5Px6Cek0ThaIUTt5cn_iLwk_ZUvG5D4HYUMFqozbl6FtsSxynf3k_fmOovMV0rLX2fkz37quGhLW8NvnLhGZrDDRfu-LRuuNsiUfA86FsF2ih13ModXdX4QUCkJn3A&gsessionid=1YLR0OEFzNidpoSSkbU3MTrKTSlGiEpRIhApNhh0g_6fvw_4V1eyEQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "금융정책",
+    "url": "https://www.google.com/goto?url=CAEStAEBxCJF19dpQFaEw51uomeZlBjIzqAu3b_X1V5R98L35zmEBdvy0JRjAqzYa0EqCVoav09Q3k8iGfLjjAm4Y5NpGz7Id6uwaQXF0xrCtIcXBpqomgRXBPl-19M3OoIF_AZgDOjLWNn1SbCY8KMDDJk_2FZ_04X7EyDgwUKS2R-OXswRrLRyPQc4TSPmOlIKDjuyXQOOICbdQVF7qj7-ZwgvYo9wzzMB-IPVBJ0S9mkkxHwZ6aA&gsessionid=fs1g48UBndQTe8zukz6vaWYHkZIBNREU7Tr18gFZAg4n2pAU_59duA",
+    "hostname": "google.com",
+    "date": "2026-11-11",
+    "tier": 3
+   },
+   {
+    "title": "체력측정 | 국민체력인증 | 인증기준",
+    "url": "https://www.google.com/goto?url=CAEShAEBxCJF1__qwA-Gpd8TChrWG22u2JadHTZd2ElRp3I66AuTnw1KmCmUBxVcE-dWnc4mx27EKm7yhBWcKEjeyK5_cCBv9C7byYTUjWFRMfL-TW-YzqH4N0GOKkdQW9YdwxbGnz0n08Qa1vnBQD9gX8nMHBH-PPLpgk1GhgQTDfXT4BiPXpQ&gsessionid=JHgFxrSUm2_7OL56blqxmL0QgyvTNGG-fXdNdZP0PH-uCWX5mL5cfg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "신생아특례전세대출 금리 및 한도, 신청 방법, 실제 후기 총정리",
+    "url": "https://www.google.com/goto?url=CAESfQHEIkXXVupnz78WOeJ_oyzG6ryI4gYtEL4kZGOFfPs34OMQJuKUK6r5bLaaLcA45zJgiPemfnv3JBDmB8kSOJid4rjGr1OeNNm2uRzsjLxD06g86lHRsa2xui4FKuGUeaVgnA2-gCLwzEl51rO889vbfAJPbnhmIS4VKKaf&gsessionid=1YLR0OEFzNidpoSSkbU3MTrKTSlGiEpRIhApNhh0g_6fvw_4V1eyEQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "내집마련 디딤돌 대출 상품설명서",
+    "url": "https://www.google.com/goto?url=CAESlwEBxCJF10Gh9c6kaaDREAWmS9SCtKBzsmntBWgj_7-YYI9xwfo43PCXPYIe9QxECLxYHSQJcm2W-x87UE_SRCeu3pqSIWwvpsuS35Zs9L9RXhQQKfbmKn6-eNVhu3eQOrc7S42tFpkIq_jzdt7g7HREksEfcbAN5n_4w99MUs6NXrMd-KwjSKnrkuwDwIY8sq0ZAGrZMGyv&gsessionid=MAKa7e_jqhVWMC_DXpF2tXErYrAX1r_femB12Xpa1kLt4rX2Yy3MGQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "고혈압 진단기준과 음모론 2부 l 제약회사가 일부러 ...",
+    "url": "https://www.google.com/goto?url=CAESaAHEIkXXUCt4aObOUiGT3h3kAh1PB3q7pxg2OhzVohpnIaWwIz2zK6Q-rwnY2YkIKGVC778qh5XPeIgz6wVXogwG-SJxSowZMEbROuGmaqJuHUHLBQrZkDSBOyG49wJauv8G5LwxQIYC&gsessionid=JHgFxrSUm2_7OL56blqxmL0QgyvTNGG-fXdNdZP0PH-uCWX5mL5cfg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전체 제정·개정이유",
+    "url": "https://www.google.com/goto?url=CAESugEBxCJF15fVl2dHs1L5Bxn7EZpUwrtVGTiqinrqtbV9R9X-urmU2cHMQHNOM7grvm4EBnN58NJHAiYwYGDmWXLGDzNkxmlvodrW5hI46Cje49KNovqQNtJntKPVmqmZLNvKgoKQRF4_irVrmbIC4R4o96V0UYV4ttpPxof3fyJGdYHgbdqKTfriD8jqAh7ykViBAGukFwSYYU0UKw2dQ90JnLa_FBoMyAY8ybOLqpq8t_rmlTsvba6lomc&gsessionid=1YLR0OEFzNidpoSSkbU3MTrKTSlGiEpRIhApNhh0g_6fvw_4V1eyEQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "자본시장정책",
+    "url": "https://www.google.com/goto?url=CAESogEBxCJF1_M6pEYbxgwU7bugJLEAt13gu-0REriTM15H2RiBNnXSboD0gl4JdERyy-I-ZUB1ZM7LP-1ITPUv6i64dAXX0zYhBkhFX1jLVAiDaO8aC1_Gj795knvxKzLI-J0d1Sf-LJsEEGUISVUnNket2lN_gVgmuggQbNtTyetjPbcaJPlbXLywrrDICmk3FkXbAOFra0V1lNpDE6_a5O11eBA&gsessionid=fs1g48UBndQTe8zukz6vaWYHkZIBNREU7Tr18gFZAg4n2pAU_59duA",
+    "hostname": "google.com",
+    "date": "2026-11-11",
+    "tier": 3
+   },
+   {
+    "title": "전국은행연합회 소비자포털",
+    "url": "https://portal.kfb.or.kr",
+    "hostname": "portal.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "신청절차 | 보금자리론 | 주택담보대출",
+    "url": "https://www.google.com/goto?url=CAESaAHEIkXXkKevha5AMNrhVSm79mUrJGes_jdAgvIPARigLigXqUUog5TbZMfXX6G1EDHCdiAYvnxwf-rDbW9jt5PS1dhsL8lgBeoKmB2e6hZQuVY1LCWdaYxzHbJ3w7uCCLi0TCGnYkIP&gsessionid=MAKa7e_jqhVWMC_DXpF2tXErYrAX1r_femB12Xpa1kLt4rX2Yy3MGQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "건축물의 설비기준 등에 관한 규칙 > 법령 > 본문",
+    "url": "https://www.google.com/goto?url=CAES5QEBxCJF11FG0gb0cPwpsDTTdX2Ji7GYP6P4qK3ulSP6PhTKQMFbp-yLSdqAuw5UZ5ecSWVUlcICpS9svDnRN0zTw7jyIqFFEf1e1QwHQjy30FsfJCQOgIwtmqXmaYzMO7ECf5uiFaJ36kQWTPHz6M5-T4zJ6wBIFMnaJp7yfAIJIuSAgGQfKGzL4HDcWsl70a-MGNTpIg1Ti1lbULsW41hBjJvwvG2qj-3b8DROJjsreK50RaXk1KKdtawQrbqE5YNNTWhatxGLv5MH2Tc_jc1XKXgosVFxTbadTRR0fYXxB91xSnpE&gsessionid=JHgFxrSUm2_7OL56blqxmL0QgyvTNGG-fXdNdZP0PH-uCWX5mL5cfg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "2026년 우수후계농업경영인 육성사업 시행지침",
+    "url": "https://www.google.com/goto?url=CAES8wIBxCJF14qnWYZLyWWZiS0levT1BlOSaMQpvYia4i0dKyhqEJEqGqTUfeNyBcbTuPJC2OCuwZVkS9UmJYRmOILeUC6Ge66ot0PhjZpWir1FqNysNPzsff1_XtTEDUabHzHesWRoMUBe41dIU7mLLdOTcz145WF2PE0XfRIkdJ7hytB8ocQPybmoEXUzPdUwmKMd9np8b5_Me_dL-yNIBOVsX7Dw7hppXvOfb5BEXH2AOLhDfBnZ1a6_Gov3BctdHZxy7CJS5zDPHtAJrvv21IaVnfx-JtwiIA87P-Cw_sOZ-WiFIaE1ZN8X3QuUiIrgFLip6AyZZpDR7dT9VCKkmCq0JFgy-Ax9jQmRWj2akJvLhoB0aw1VjaoHHtoMendEFfYqPlAy38UoFuIcjVXdi9g7FCkhGRBfnqxzI1Sbvtm6NeYl8sqY3yUjKKl0B664xMnecquZm0WJRJ5Mn_M5kzyWUEfMxfs1U2RenT1XBOkH8H4_JA&gsessionid=1YLR0OEFzNidpoSSkbU3MTrKTSlGiEpRIhApNhh0g_6fvw_4V1eyEQ",
+    "hostname": "google.com",
+    "date": "2026-04-15",
+    "tier": 3
+   }
+  ],
+  "requestId": "53419030-b145-4dc9-9adb-248f299d8b99"
+ },
+ "searches": [
+  {
+   "query": "전세자금대출보증 주택보유수 산정 세대원 부부합산 HUG HF SGI",
+   "results": [
+    {
+     "title": "부동산 궁금증 해결! 1주택 가구와 전세자금대출 - 부동산114",
+     "url": "https://blog.naver.com/r114korea/221491200332?viewType=pc",
+     "hostname": "blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=blog.naver.com&sz=128",
+     "description": "1주택자가 공적보증을 통해 전세자금을 대출받으려면 연소득이 1억원 이하여야 한다. \"연소득 1억원\"의 기준은 부부의 근로, 사업, 연금, 기타소득을 합산 ...",
+     "date": "2019-03-18",
+     "tier": 3
+    },
+    {
+     "title": "신혼부부전용 전세자금대출 지원 기준",
+     "url": "https://www.myhome.go.kr/hws/portal/cont/selectYouthPolicyHoneyMoonLoanView.do",
+     "hostname": "myhome.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=myhome.go.kr&sz=128",
+     "description": "대출대상: 부부합산 연소득 7.5천만원 이하, 순자산가액 3.45억원 이하 무주택 세대주신혼부부 (혼인기간 7년 이내 또는 3개월 이내 결혼예정자).",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "일반전세자금보증",
+     "url": "https://www.hf.go.kr/ko/sub02/sub02_01_02.do",
+     "hostname": "hf.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=hf.go.kr&sz=128",
+     "description": "임차보증금의 5% 이상을 지급한 세대주일 것; 본인과 배우자(배우자예정자 포함)의 합산한 주택보유수가 1주택 이내일 것; 본인과 배우자(배우자예정자 포함)가 가격이 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "부부소득 1억초과 1주택자도 전세대출보증 이용 가능 / 연합뉴스TV ...",
+     "url": "https://www.youtube.com/watch?v=d_A_WIqVvjc",
+     "hostname": "youtube.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
+     "description": "그간 1주택자는 부부 합산 소득이 1억원 이하이거나 9억원 이하 주택을 보유한 경우에만 전세대출보증을 이용할 수 있었습니다. 전세대출보증은 금융 ...",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "1주택자 부부합산소득 1억원까지만 전세대출 보증",
+     "url": "https://www.hankyung.com/article/2018091326431",
+     "hostname": "hankyung.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=hankyung.com&sz=128",
+     "description": "이에 따라 금융위는 2주택 이상 보유자는 전세대출보증을 원천 금지하고, 1주택자도 부부합산 연소득 1억원 이하만 제공하기로 했다. 다주택자와 고소득자 ...",
+     "date": "2018-09-13",
+     "tier": 2
+    },
+    {
+     "title": "주택전세자금계산마법사 < 내집마련마법사 < 고객서비스 - 주택도시기금",
+     "url": "https://nhuf.molit.go.kr/FP/FP08/FP0801/FP08010101.jsp",
+     "hostname": "nhuf.molit.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=nhuf.molit.go.kr&sz=128",
+     "description": "고객님은 부부합산 소득금액 천만원 이하(신혼가구 천만원, 혁신도시 이전 공공기관 종사자, 타 지역으로 이주하는 재개발 구역내 세입자, 다자녀가구, 2자녀 가구인 경우 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "1주택자도 부부 합쳐 억대 벌면 전세보증 못 받는다",
+     "url": "https://www.nongmin.com/article/20181010299729",
+     "hostname": "nongmin.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=nongmin.com&sz=128",
+     "description": "단, 민간 보증기관인 SGI에서는 부부합산 연소득이 1억원을 초과해도 전세자금보증을 받을 수 있다. 전세자금보증은 세입자가 은행에서 전세자금대출을 ...",
+     "date": "2018-10-10",
+     "tier": 3
+    },
+    {
+     "title": "부부합산 연소득 7000만원 이상 전세보증 제한",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=163867",
+     "hostname": "electimes.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=electimes.com&sz=128",
+     "description": "그러나 오는 10월부터는 전세자금보증 이용대상이 원칙적으로는 부부합산 연소득 7000만원 이하로 제한된다. 다만 신혼 맞벌이부부 8500만원, 1자녀 가구 ...",
+     "date": "2018-08-29",
+     "tier": 3
+    },
+    {
+     "title": "부부합산소득 1억원 넘어도 전세대출 보증",
+     "url": "https://www.arunews.com/news/articleView.html?idxno=31325",
+     "hostname": "arunews.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=arunews.com&sz=128",
+     "description": "오늘(2일)부터 부부합산소득이 1억원을 넘거나 보유주택이 9억원을 초과하더라도 1주택에게는 전세대출보증이 허용된다. 그동안 1주택자의 경우 부부 ...",
+     "date": "2023-03-02",
+     "tier": 3
+    },
+    {
+     "title": "전세보증보험 종류 | HF·HUG·SGI 가입 조건과 비용 비교 총정리",
+     "url": "https://kbthink.com/life/daily/hf-hug-sgi.html",
+     "hostname": "kbthink.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=kbthink.com&sz=128",
+     "description": "HF, HUG, SGI. HUG, HF, SGI 세 곳이 ・ 각 보증기관은 주택가격을 단순히 ・ 주택가격 산정 방식 비교 기관 아파트 주택가격 산정 기준",
+     "date": "2025-08-13",
+     "tier": 3
+    }
+   ]
+  },
+  {
+   "query": "전세대출 부모 동거 세대원 주택 보유 1주택 판단",
+   "results": [
+    {
+     "title": "양도세비과세 \"1세대 1주택\" 1세대의 의미 : 네이버 블로그",
+     "url": "https://m.blog.naver.com/sangrook1/224325756521?rvid=6E083D83ACDCAE6FAFDC928155487839090E&targetKeyword=1%EC%84%B8%EB%8C%80",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "세대판단. 주민등록표상 기재. 동거, 생계같이 하는지 실질 판단 ; 판단시점. ①취득 시(잔금 시점). ②취득 시 세대분리가 아니더라도, 취득한 주택으로 ...",
+     "date": "2026-07-04",
+     "tier": 3
+    },
+    {
+     "title": "부모님 세대로 전입신고시 주택수 산정..",
+     "url": "https://m.kacta.or.kr/education_view/tax_counseling/internetCounseling_read_n.asp?gotopage=967&keyfield=coun_subj&keyword=&keyTaxpart=0&coun_idx=37072",
+     "hostname": "m.kacta.or.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.kacta.or.kr&sz=128",
+     "description": "1. 부부가 친어머니와 생계를 같이한다면 3주택으로 판단됩니다. 전입전에 양도한다면 1주택 비과세가 가능할 것입니다. 2. 세법상 장기임대주택 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "모친·자녀와 한집에 살아도 세대가 나뉠까? 1세대 1주택 비과세 판단에서 ' ...",
+     "url": "https://taxly.kr/post/1516-%EB%AA%A8%EC%B9%9C%EC%9E%90%EB%85%80%EC%99%80-%ED%95%9C%EC%A7%91%EC%97%90-%EC%82%B4%EC%95%84%EB%8F%84-%EC%84%B8%EB%8C%80%EA%B0%80-%EB%82%98%EB%89%A0%EA%B9%8C-1%EC%84%B8%EB%8C%80-1%EC%A3%BC%ED%83%9D-%EB%B9%84%EA%B3%BC%EC%84%B8-%ED%8C%90%EB%8B%A8%EC%97%90%EC%84%9C-%EB%8F%85%EB%A6%BD%EC%84%B8%EB%8C%80%EA%B0%80-%EC%9D%B8%EC%A0%95%EB%90%98%EB%8A%94-%EA%B8%B0%EC%A4%80",
+     "hostname": "taxly.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=taxly.kr&sz=128",
+     "description": "부모님 세대가 분리되려면 · 기준중위소득의 40% 이상 안정적 소득 · 자녀에게 의존하는 형태의 입금이 없어야 함 · 관리비·구매비용 등을 스스로 부담 · 고령이라도 '자립적 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "국세청 - 주민등록상 동거인이 1주택을 보유하고 있는 경우 1세대 1주택자 판단",
+     "url": "https://casenote.kr/%EA%B5%AD%EC%84%B8%EC%B2%AD/%EC%84%9C%EB%A9%B4%EB%B2%95%EA%B7%9C%EA%B3%BC-723-bd2285",
+     "hostname": "casenote.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=casenote.kr&sz=128",
+     "description": "2013.4.1. 부동산대책으로 시행된 신축주택 등 취득자에 대한 양도소득세 과세특례 적용 시 세대별 주민등록표의 동거인도 동일 세대로 보아 1세대 1주택자 여부를 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "유주택 부모님과 동거 시 청약 주의사항  부모님이 주택을 소유한 상태에서 ...",
+     "url": "https://www.instagram.com/reel/DZbOtpZN1sy/",
+     "hostname": "instagram.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=instagram.com&sz=128",
+     "description": "",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "내집마련 디딤돌 대출 업무처리기준",
+     "url": "https://hf.go.kr/cms/etcResourceDown.do?site=$cms$NYeyA&key=$cms$M4VwRgDAjA+qmwgJhtGSCsEBsSIDoAHAEwDMg",
+     "hostname": "hf.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=hf.go.kr&sz=128",
+     "description": "대출 실행 후 본건 담보주택 외 추가 주택을 취득한 자가 국토교통부 회신일로부터. 6개월 이내에 추가 주택을 처분하지 않을 경우 기한의 이익 상실 처리. 다만, 다음 중.",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "알쏭달쏭 세목별로 달라지는 '주택수' 산정기준 | 서울시",
+     "url": "https://mediahub.seoul.go.kr/archives/1267076",
+     "hostname": "mediahub.seoul.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=mediahub.seoul.go.kr&sz=128",
+     "description": "1) 공동소유 주택A 매도시 : 3주택 중 한 채 매도 20% 중과 세율 적용 · 2) 아버지 주택B 매도시 : 3주택 중 한 채 매도 20% 중과 세율 적용 · 3) 자녀 주택 ...",
+     "date": "2020-01-31",
+     "tier": 3
+    },
+    {
+     "title": "1세대 1주택자 판단 시 주택 수 산정 제외 특례",
+     "url": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=40621&cntntsId=239014",
+     "hostname": "nts.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=nts.go.kr&sz=128",
+     "description": "과세기준일 현재 비수도권 인구감소지역 기준시가 9억원, 그 외 지역은 기준시가 4억원 이하 · 과세기준일 현재 비수도권 인구감소관심지역 기준시가 4억원 이하 · 취득 당시 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "'같이 사는 동생 집 있으면 1주택인 나도 중과세' 아셨나요?",
+     "url": "https://www.joongang.co.kr/article/23866691",
+     "hostname": "joongang.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=joongang.co.kr&sz=128",
+     "description": "종부세에선 집 있는 60세 이상 부모와 합가하면 10년간 세금 계산에서 주택 수를 합치지 않는다. 종부세 과세방법을 개인별 합산에서 2006년 세대별 합산 ...",
+     "date": "2020-09-07",
+     "tier": 2
+    },
+    {
+     "title": "양도세비과세 \"1세대 1주택\" 1세대의 의미 - 네이버 블로그",
+     "url": "https://m.blog.naver.com/sangrook1/224325756521?rvid=6E083D83ACDCAE6FAFDC928155487839090E&targetKeyword=%EC%96%91%EB%8F%84%EC%84%B8",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "앞서 설명한 대로 지방세법(취득세)의 경우 1세대 판단 시 형식으로 판단합니다. 즉 주민등록표상 함께 거주하고 있다면 같은 세대로 인정해 줍니다. 물론 ...",
+     "date": "2026-07-04",
+     "tier": 3
+    }
+   ]
+  }
+ ]
+}

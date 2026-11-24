@@ -1,0 +1,510 @@
+{
+ "id": "Q1",
+ "question": "2026년 4월 1일 금융위원회 「'26년도 가계부채 관리방안」(다주택자 수도권·규제지역 아파트 주담대 만기연장 제한, 4.17 시행)의 만기연장 예외 '임차인이 있는 경우'에서 임차인은 담보 주택의 임차인만 해당하나요? 담보가 아닌 다른 보유 주택에 임차인이 있는 경우도 예외가 되나요? 금융위원회·금융감독원·은행연합회·HUG·HF·SGI 등 공식 자료(보도자료, FAQ, 행정지도, 질의회신, 금융규제·법령해석포털 회신사례)에서 근거 문장을 찾아 문서명·날짜와 함께 인용해 주세요. 공식 근거가 없으면 '공식 근거 없음'이라고 분명히 답하고 추측하지 마세요.",
+ "agent": {
+  "text": "공식 자료만으로는 **“임차인이 있는 경우”가 담보 주택의 임차인만을 의미하는지, 담보가 아닌 다른 보유 주택의 임차인도 포함하는지 명확히 확정할 수 없습니다. 따라서 두 번째 경우가 만기연장 예외에 해당한다는 공식 근거는 없습니다.**\n\n### 확인된 공식 근거\n\n- **문서명:** 금융위원회 「'26년도 가계부채 관리방안」  \n  **날짜:** 2026년 4월 1일  \n  **근거 문장:** “불허하되, 불가피한 경우에는 예외적(예: 임차인이 있는 경우)으로 허용”이라고 기재되어 있습니다. ((12))  \n  다만, 제공된 해당 문장에는 ‘임차인이 있는 경우’의 임차 목적물이 담보 주택인지, 차주의 다른 보유 주택인지에 관한 정의가 없습니다.\n\n- **문서명:** 금융위원회 「'26년도 가계부채 관리방안 관련 FAQ」  \n  **날짜:** 2026년 4월 1일  \n  **근거 문장:** FAQ에는 “임차인이 있는 경우에 대한 대출 만기연장 허용범위의 구체적인 적용례는?”이라는 항목이 포함되어 있습니다. ((2))  \n  제공된 자료에는 해당 적용례의 답변 본문이 확인되지 않아, 다른 보유 주택의 임차인까지 포함되는지 판단할 수 없습니다.\n\n- **문서명:** 금융위원회 「주택담보대출에 대한 리스크 관리 기준」  \n  **날짜:** 제공된 검색자료에는 문서 날짜가 표시되지 않음  \n  **근거 문장:** “(임차인이 있는 경우) 임대차계약종료일까지 만기연장”이라고 규정하고 있습니다. ((3))  \n  그러나 제공된 문장만으로는 해당 임대차계약이 반드시 만기연장 대상인 담보 주택의 임대차계약이어야 하는지, 다른 보유 주택의 임대차계약도 포함하는지 명시적으로 확인되지 않습니다.\n\n- **문서명:** 금융위원회 관련 발언 자료  \n  **날짜:** 제공된 자료상 2026년 11월 16일  \n  **근거 문장:** “다만, 해당 주택에 임차인이 있는 경우에는 세입자 보호를 위해” 예외적으로 허용한다는 취지의 문장이 확인됩니다. ((20))  \n  이 문장은 ‘해당 주택’을 언급하므로 담보 주택을 가리키는 것으로 읽힐 여지는 있지만, 제공된 문장만으로 법적·행정적 적용범위를 확정할 수는 없습니다.\n\n### 결론\n\n- **담보 주택에 임차인이 있는 경우:** 공식 자료에서 예외 사유로 명시되어 있으며, 행정지도에는 임대차계약종료일까지 만기연장할 수 있다는 문장이 확인됩니다. ((3))\n- **담보가 아닌 다른 보유 주택에 임차인이 있는 경우:** 이를 만기연장 예외로 인정한다는 금융위원회, 금융감독원, 은행연합회, HUG, HF 또는 SGI의 명시적인 공식 근거는 제공된 자료에서 확인되지 않습니다.\n- 따라서 현재 확인 가능한 공식 자료에 따른 답변은 **“담보가 아닌 다른 보유 주택의 임차인까지 예외에 포함된다는 공식 근거 없음”**입니다.\n- 반대로 “반드시 담보 주택의 임차인만 해당한다”고 단정하는 명시적 공식 문장도 제공된 자료에서는 확인되지 않으므로, 그 부분 역시 **공식 근거 없음**으로 보는 것이 정확합니다.\n\n**중요한 안내**\n\n이 답변은 제공된 공식 자료의 문언을 정리한 일반 정보이며, 개별 대출의 만기연장 가능 여부에 대한 금융기관의 심사나 전문적인 법률·금융 자문을 대신하지 않습니다. 구체적인 사안은 해당 주택담보대출 취급 은행과 금융위원회 또는 금융감독원에 공식 질의하여 확인하시기 바랍니다.",
+  "references": [
+   {
+    "title": "금융위원회 2026년도 가계부채 관리방안 보도자료",
+    "url": "https://www.fsc.go.kr/no010101/86606",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "'26년도 가계부채 관리방안 관련 FAQ",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87058&fileTy=ATTACH&fileNo=2",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주택담보대출에 대한 리스크 관리 기준",
+    "url": "https://better.fsc.go.kr/fsc_new/file/displayFile.do?filePath=/2026/08/28&orgFileName=260813_%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%A6%AC%EC%8A%A4%ED%81%AC%20%EA%B4%80%EB%A6%AC%20%EA%B8%B0%EC%A4%80%20%ED%96%89%EC%A0%95%EC%A7%80%EB%8F%84.pdf&sysFileName=9150b4d6f5564462ab5cf218254697e9.pdf",
+    "hostname": "better.fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "공개Q&A 조회 | Q&A | 민원·신고 |",
+    "url": "https://www.fss.or.kr/fss/cvpl/inquiRecpEc/view.do?menuNo=200094&recpNo=2026Q3167&pubYn=Y",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "[PDF] 휴대반출에 의한 해외직접투자 신고 누락",
+    "url": "http://exchange.kfb.or.kr/data/guide05.pdf",
+    "hostname": "exchange.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "보금자리론 업무처리기준",
+    "url": "https://www.hf.go.kr/cms/etcResourceDown.do?key=%24cms%24AwRg+sBsYEycBWEIB0AHAJgMyA&site=%24cms%24NYeyA",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "금융위원회",
+    "url": "https://www.fsc.go.kr/",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보도자료(상세) | 보도자료 | 보도·알림 |",
+    "url": "https://fss.or.kr/fss/bbs/B0000188/view.do?nttId=217055&menuNo=200218&pageIndex=1",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "[금융실무정보] 외국환 매매 시 알아두어야 할 것 > Vol 735 June 2015 > 금융웹진 - The Banker",
+    "url": "http://banker.kfb.or.kr/section.php?idx=39&PublishDate=201506&sub_idx=797",
+    "hostname": "banker.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "한국주택금융공사",
+    "url": "https://hf.go.kr/",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "성과관리 시행계획 - 서울특별시",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=34280&fileTy=ATTACH&fileNo=2",
+    "hostname": "fsc.go.kr",
+    "date": "2024-03-04",
+    "tier": 1
+   },
+   {
+    "title": "｢'26년도 가계부채 관리방안 ｣ 발표",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=86606&fileTy=ATTACH&fileNo=2",
+    "hostname": "fsc.go.kr",
+    "date": "2026-04-01",
+    "tier": 1
+   },
+   {
+    "title": "ePapyrus PDF Document",
+    "url": "https://banker.kfb.or.kr:441/section_pdf.php?sub_idx=777&pdf=%2F201505%2Fpdf%2Fsection303.pdf",
+    "hostname": "banker.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "2026년도 가계부채 관리방안 - 정책뉴스",
+    "url": "https://m.korea.kr/news/policyNewsView.do?newsId=148961929",
+    "hostname": "m.korea.kr",
+    "date": "2026-04-02",
+    "tier": 1
+   },
+   {
+    "title": "보 도 자 료",
+    "url": "https://www.jipyong.com/newsletter/finance/01_201511/download/news3.pdf",
+    "hostname": "jipyong.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "주요정책문답",
+    "url": "https://www.fsc.go.kr/po020201/87058?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "미국 달러 > 은행별 주요통화 인터넷환전수수료 우대율 비교 > 인터넷환전 안내",
+    "url": "https://exchange.kfb.or.kr/page/on_commission.php",
+    "hostname": "exchange.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "보증기한 도래 안내문 - 부가 고지사항 | 국민참여",
+    "url": "https://hf.go.kr/ko/sub04/sub04_08.do?mode=view&articleNo=599981",
+    "hostname": "hf.go.kr",
+    "date": "2026-04-20",
+    "tier": 1
+   },
+   {
+    "title": "26년도 가계부채 관리방안 -관계기관 합동 (금융위원회",
+    "url": "https://krema.ai/m/pages/sub06_07_view.php?no=388&page=5&search_type=&search_word=",
+    "hostname": "krema.ai",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "금융감독원",
+    "url": "https://www.fss.or.kr/",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "기고/강연/연설 - GDP 대비 가계부채비율",
+    "url": "https://www.fsc.go.kr/fsc020401/86608?srchCtgry=&curPage=4&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": "2026-11-16",
+    "tier": 1
+   },
+   {
+    "title": "제도안내 | 개인사업자대출119 | 금융애로 | 중소기업·자영업자 지원 종합정보센터 | 신고·상담·자문 서비스 | 금융소비자 정보포털 파인",
+    "url": "https://fine.fss.or.kr/fine/main/contents.do?menuNo=900179",
+    "hostname": "fine.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "압류예금의 정확한 업무처리 방법",
+    "url": "http://banker.kfb.or.kr/201604/pdf/section302.pdf",
+    "hostname": "banker.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "내집마련 디딤돌 대출 업무처리기준",
+    "url": "https://www.hf.go.kr/cms/etcResourceDown.do?site=$cms$NYeyA&key=$cms$M4VwRgDAjA+qmwgJhtGSBsVoE4B0ADgCYBmQA",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "[Q&A] 2026년도 '가계부채 관리방안' 관련 FAQ",
+    "url": "https://m.joseilbo.com/news/view.htm?newsid=565717",
+    "hostname": "m.joseilbo.com",
+    "date": "2026-04-01",
+    "tier": 2
+   },
+   {
+    "title": "2015년도 국정감사 결과보고서",
+    "url": "https://www.ftc.go.kr/www/downloadBbsFile.do?atchmnflNo=15868",
+    "hostname": "ftc.go.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전국은행연합회 소비자포털",
+    "url": "https://portal.kfb.or.kr/compare/deposit_loan_gap.php",
+    "hostname": "portal.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "보금자리론 설명서",
+    "url": "https://www.hf.go.kr/cms/etcResourceDown.do?site=$cms$NYeyA&key=$cms$AwRg+sBsEExjlgBYRIHQAcAmAzIA",
+    "hostname": "hf.go.kr",
+    "date": "2026-04-17",
+    "tier": 1
+   },
+   {
+    "title": "Ⅲ. 가계부채 디레버리징 추진 경과 및 향후 과제",
+    "url": "https://www.bok.or.kr/portal/cmmn/file/fileDown.do?atchFileId=fd36088ae99c468fa07e47753d864311&fileSn=13",
+    "hostname": "bok.or.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "2021년 자체평가 결과보고서",
+    "url": "https://www.evaluation.go.kr/upload2/atch/eval/20220314165347612.pdf",
+    "hostname": "evaluation.go.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "금융꿀팁(상세) | 슬기로운 금융생활 길라잡이 | 금융소비자 정보포털 파인",
+    "url": "http://fine.fss.or.kr/fine/bbs/B0000340/view.do?nttId=59658&menuNo=900014&cl1Cd=8&pageIndex=1",
+    "hostname": "fine.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주택시장의 투기적 성격과 가계 양극화: 포트폴리오 이론의 관점에서",
+    "url": "https://researcher.hf.go.kr/researcher/sub04/sub05_3.do?mode=download&articleNo=592397&attachNo=91024",
+    "hostname": "researcher.hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "DSR(Debt Service Ratio) 규제가 임차권등기명령 건수에 미치는 영향 ...",
+    "url": "https://www.e-hfr.org/archive/view_article?pid=hfr-9-2-103",
+    "hostname": "e-hfr.org",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "재정경제부 위임전결사항표",
+    "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161649809&flNm=%5B%EB%B3%84%ED%91%9C%5D+%EC%9E%AC%EC%A0%95%EA%B2%BD%EC%A0%9C%EB%B6%80+%EC%9C%84%EC%9E%84%EC%A0%84%EA%B2%B0%EC%82%AC%ED%95%AD%ED%91%9C&bylClsCd=200201",
+    "hostname": "law.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "금융감독판례 | 금융감독법규정보 | 업무자료 |",
+    "url": "https://fss.or.kr/fss/job/fvsttPrcdnt/view.do?incdnSlno=1433&menuNo=200179&pageIndex=1",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "자세히 알아보기 | 주택연금이란",
+    "url": "https://www.hf.go.kr/ko/sub03/sub03_01_01_06.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주택시장 환경 및 구조 변화에 대응한 주택금융지원체계 정립방안 연구",
+    "url": "https://library.krihs.re.kr/library/api/media?pmediaId=448959&pmediaUuid=276edca0-7864-4ea9-bb71-47932e1a9100&lmediaId=675789&accessType=down",
+    "hostname": "library.krihs.re.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "8000만원 초과 고소득자 신용대출 1억 넘으면 DSR 40% 규제",
+    "url": "http://www.jay.or.kr/ab-1763-1502&PB_1494238031=7&PB_1447140947=6&PB_1527938185=4&PB_1458710597=22&pc=p",
+    "hostname": "jay.or.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전세금반환보증보험 | 주거/임대/생활 | 상품",
+    "url": "https://m.sgic.co.kr/biz/cmw/index.html?p=CMWPRD030301F01",
+    "hostname": "m.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "성과관리 전략계획",
+    "url": "https://www.evaluation.go.kr/upload2/atch/eval/20240531165137885.pdf",
+    "hostname": "evaluation.go.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "국정감사결과 시정 및 처리 요구사항에 대한 처리결과보고서",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=34276&fileTy=ATTACH&fileNo=2",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "DART 전자공시시스템",
+    "url": "https://dart.fss.or.kr/guide/main.jsp?menu=121",
+    "hostname": "dart.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "원금상환유예 | 디딤돌대출 | 상황별 대출 상환방법 안내",
+    "url": "https://www.hf.go.kr/ko/sub02/sub01_09_02_01.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "부동산 시장 안정을 위한 금융 종합대책",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87517&fileTy=ATTACH&fileNo=3",
+    "hostname": "fsc.go.kr",
+    "date": "2026-08-13",
+    "tier": 1
+   }
+  ],
+  "requestId": "413dc85f-f25a-45ba-b377-05d23b9fc04d"
+ },
+ "searches": [
+  {
+   "query": "다주택자 만기연장 예외 임차인이 있는 경우 담보주택 임대차계약 종료일",
+   "results": [
+    {
+     "title": "다주택자 임대사업자 주택담보대출 만기연장 제한 - 네이버 블로그",
+     "url": "https://m.blog.naver.com/smartbroker/224238665538?recommendCode=2&recommendTrackingCode=2",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "임대차계약 종료일로부터 1개월 중 늦은 날로 완화됩니다. ​. 이 조치는 다주택자의 매물 출회를 유도하면서. 거래 활성화를 동시에 유도하기 위한 장치 ...",
+     "date": "2026-04-02",
+     "tier": 3
+    },
+    {
+     "title": "Loan Extensions Denied for Multi-Homeowners... \"Severing ...",
+     "url": "https://www.youtube.com/watch?v=Mz3UFzqsZXA",
+     "hostname": "youtube.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
+     "description": "이재명 대통령이 다주택자 대출 연장 문제를 지적한 지 한 달 반 만에, 정부가 대책을 내놨습니다. 다주택자의 담보대출 만기 연장을 원칙적으로 불허 ...",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "17일부터 다주택자 주택담보대출 만기 연장 안 된다",
+     "url": "https://www.chosun.com/economy/economy_general/2026/04/02/5AA6JMEF5BBPXN3AIMN22KUYXU/",
+     "hostname": "chosun.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=chosun.com&sz=128",
+     "description": "다만 정부는 현재 세입자가 있는 주택에는 예외적으로 임대차 계약이 끝날 때까지 대출 만기 연장을 허용하기로 했다. ◇다주택자 물량 통해 집값 안정 ...",
+     "date": "2026-04-01",
+     "tier": 2
+    },
+    {
+     "title": "“다주택자, 집 팔아서 빚 갚아라”…임대사업자 대출 만기연장 금지",
+     "url": "https://stock.mk.co.kr/news/view/1056847",
+     "hostname": "stock.mk.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=stock.mk.co.kr&sz=128",
+     "description": "임차인이 있는 경우에는 대책 발표일(4월1일)을 기준으로 이날까지 체결된 임대차계약종료일까지 만기연장을 허용해 임차인을 보호하기로 했다. 이 ...",
+     "date": "2026-04-01",
+     "tier": 2
+    },
+    {
+     "title": "다주택자 만기 연장 막되 임대차 계약 있으면 예외…신속한 매물 유도 목적",
+     "url": "https://www.khan.co.kr/article/202604011646001",
+     "hostname": "khan.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=khan.co.kr&sz=128",
+     "description": "오는 2일부터는 기존 세입자가 2년 더 살겠다며 갱신 의사를 밝혀도, 집주인 대출은 원래의 임대차계약이 끝나는 날에 맞춰 갚아야 한다. 다만 대책 ...",
+     "date": "2026-04-01",
+     "tier": 2
+    },
+    {
+     "title": "헷갈리는 다주택자 대출규제, Q&A로 확인",
+     "url": "https://blog.naver.com/zigbang/224236804354",
+     "hostname": "blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=blog.naver.com&sz=128",
+     "description": "→ 기준일에 유효한 임대차계약이 있다면 그 종료일까지 가능하며, 일부 갱신 사례는 추가로 인정된다. 다만 무제한 연장은 아니다. ​. Q5. 계약이 길면 ...",
+     "date": "2026-04-01",
+     "tier": 3
+    },
+    {
+     "title": "다주택자 '주담대 만기 연장'도 차단…세입자 있을 땐 예외 [뉴스9]",
+     "url": "https://www.youtube.com/watch?v=aDHewQmgkzw",
+     "hostname": "youtube.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
+     "description": "금융당국이 지난해 이미 신규 #주택담보대출 을 차단했었는데, 만기 연장을 해주지 않기로 한 겁니다. 일부 예외를 인정하긴 했습니다만, 다주택자 ...",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "다주택자 수도권·규제지역 대출 연장 불허…임차인 거주 땐 허용",
+     "url": "https://www.hani.co.kr/arti/economy/economy_general/1252087.html",
+     "hostname": "hani.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=hani.co.kr&sz=128",
+     "description": "주택담보대출을 받을 경우 전입의무도 임대차계약종료일부터 1개월 뒤까지 유예한다. 광고 등록임대사업자는 의무임대기간 종료일까지 만기 연장을 허용 ...",
+     "date": "2026-04-01",
+     "tier": 2
+    },
+    {
+     "title": "다주택자 대출 만기연장 금지…'임차인' 있으면 예외 인정 - SBS Biz",
+     "url": "https://biz.sbs.co.kr/article/20000301261",
+     "hostname": "biz.sbs.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=biz.sbs.co.kr&sz=128",
+     "description": "특히 임차인이 있는 경우에는 임대차계약 종료 시점까지 예외적으로 만기연장을 허용합니다. 정부는 무주택자가 해당 주택을 올해 12월 31일까지 허가 ...",
+     "date": "2026-04-01",
+     "tier": 2
+    },
+    {
+     "title": "다주택자 대출 연장 17일부터 중단…계약 갱신 예외 허용[일문일답]",
+     "url": "https://v.daum.net/v/1hPNYcV7HM?f=p",
+     "hostname": "v.daum.net",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=v.daum.net&sz=128",
+     "description": "이날부터 4개월 이내에 종료(2026년 7월 31일)되는 임대차계약에 대한 계약갱신청구권 행사하는 경우, 주택매도 가능 기간이 2개월 미만으로 계약갱신 ...",
+     "date": "2026-04-01",
+     "tier": 3
+    }
+   ]
+  },
+  {
+   "query": "가계부채 관리방안 FAQ 임차인이 있는 경우 만기연장 허용범위",
+   "results": [
+    {
+     "title": "'26년도 가계부채 관리방안 관련 FAQ",
+     "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87058&fileTy=ATTACH&fileNo=2",
+     "hostname": "fsc.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=fsc.go.kr&sz=128",
+     "description": "임차인이 있는 경우에 대한 대출 만기연장 허용범위의. 구체적인 적용례는? (원칙) 발표일('26.4.1일) 기준 유효하게 체결된 임대차계약의. 종료일까지 ...",
+     "date": "2026-04-01",
+     "tier": 1
+    },
+    {
+     "title": "2026년도 가계부채 관리방안 - 네이버 블로그",
+     "url": "https://m.blog.naver.com/blogfsc/224237016719",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "만기연장을 원칙적으로 불허하지만, 불가피한 경우에는 예외적으로 만기연장을 허용합니다. ✓임차인이 있는 경우 임대차계약종료일까지 만기연장.",
+     "date": "2026-04-01",
+     "tier": 1
+    },
+    {
+     "title": "[Q&A] 2026년도 '가계부채 관리방안' 관련 FAQ",
+     "url": "https://m.joseilbo.com/news/view.htm?newsid=565717",
+     "hostname": "m.joseilbo.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.joseilbo.com&sz=128",
+     "description": "Q) 임차인이 있는 경우에 대한 대출 만기연장 허용범위의 구체적인 적용례는? A) (원칙) 발표일('26.4.1일) 기준 유효하게 체결된 임대차계약의 ...",
+     "date": "2026-04-01",
+     "tier": 2
+    },
+    {
+     "title": "'26년도 가계부채 관리방안 관련 FAQ",
+     "url": "https://krema.ai/webadmin/down5.php?dates=datas&no=388&types=2",
+     "hostname": "krema.ai",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=krema.ai&sz=128",
+     "description": "임차인이 있는 경우에 대한 대출 만기연장 허용범위의 '26.12.31일까지 허가신청하여 허가받은 날로부터",
+     "date": "2026-04-01",
+     "tier": 3
+    },
+    {
+     "title": "주요정책문답",
+     "url": "https://www.fsc.go.kr/po020201/87058?srchCtgry=&curPage=1&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+     "hostname": "fsc.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=fsc.go.kr&sz=128",
+     "description": "임차인이 있는 경우에 대한 대출 만기연장 허용범위의 구체적인 적용례는? ... 260401[별첨3] '26년도 가계부채 관리방안 관련 FAQ.hwp (62 KB) 파일다운로드 · 260401 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "금융위, 부동산 시장과 금융의 절연을 위한｢'26년도 가계부채 관리방안｣ 발표",
+     "url": "https://www.housingtimes.co.kr/news/articleView.html?idxno=1927",
+     "hostname": "housingtimes.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=housingtimes.co.kr&sz=128",
+     "description": "특히, 임차인이 있는 경우에는 발표일('26.4.1일) 기준 유효하게 체결된 임대차계약종료일까지 만기연장을 허용하여 임차인을 보호하되, 무주택자가 해당 ...",
+     "date": "2026-04-08",
+     "tier": 3
+    },
+    {
+     "title": "'다주택자 주택담보대출 만기연장 제한'…금융당국, 가계부채 대응 방안",
+     "url": "https://www.nongmin.com/article/20260401500410",
+     "hostname": "nongmin.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=nongmin.com&sz=128",
+     "description": "주택을 즉시 매도하기 어려운 사유가 있는 경우 예외적으로 만기연장을 허용한다. ... 이 조치는 이달 17일부터 시행한다. 이달 1~16일 중에 만기가 도래 ...",
+     "date": "2026-04-01",
+     "tier": 3
+    },
+    {
+     "title": "가계부채 관리 강화 방안, 보강 추가대책 발표!",
+     "url": "https://m.korea.kr/news/policyNewsView.do?newsId=148954140",
+     "hostname": "m.korea.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.korea.kr&sz=128",
+     "description": "기존 주택에 계속 거주하면서 계약 갱신 등을 통해 전세대출 만기를 연장하는 경우에는, 해당 주택에 대한 최초 임대차계약이 금번 대책 시행일 전일(9.7일)까지 체결 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "다주택자 대출 연장 전면 금지, 2026년 가계부채 관리방안이 가져올 엄청난 ...",
+     "url": "https://homedubu.com/9004/",
+     "hostname": "homedubu.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=homedubu.com&sz=128",
+     "description": "이번 2026년 가계부채 관리방안에서 가장 파괴적인 조치는 수도권 및 규제지역 내 다주택자의 아파트 담보대출 만기 연장을 원칙적으로 금지한 것이다.",
+     "date": "2026-04-01",
+     "tier": 3
+    },
+    {
+     "title": "대출 더 조인다… 2026 가계부채 관리 방안 핵심 정리",
+     "url": "https://kbthink.com/realestate/issue/hosing-260402.html",
+     "hostname": "kbthink.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=kbthink.com&sz=128",
+     "description": "임차인이 있는 경우 → 계약 종료 시점까지 허용되고 매도 진행 중인 주택 등도 일부 인정됩니다. 다만 이런 예외를 감안하더라도, 전체적으로는 ...",
+     "date": "2026-04-10",
+     "tier": 3
+    }
+   ]
+  }
+ ]
+}

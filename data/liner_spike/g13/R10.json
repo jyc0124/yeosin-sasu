@@ -1,0 +1,482 @@
+{
+ "id": "R10",
+ "question": "은행업감독업무시행세칙(주택담보대출 LTV·DTI 관련 별표) 또는 금융위원회·금융감독원 FAQ에서 주택 수를 '세대 기준'으로 셀 때 '세대'의 정의는 무엇인가요? 주민등록표상 같은 세대를 이루는 직계존속(부모)·직계비속 명의 주택도 차주의 보유 주택 수에 합산하나요? 세대 분리된 배우자는요? 2025.10.15 대책의 '1주택자 전세대출 DSR(세대 기준)'과 2026.4.1 다주택자 만기연장 제한(세대 기준)에도 같은 정의가 쓰이나요? 공식 문서명·조항·날짜와 함께 원문 문장을 인용해 주세요. 공식 근거가 없으면 '공식 근거 없음'이라고 답하고 추측하지 마세요.",
+ "agent": {
+  "text": "현재 확인되는 공식 자료만으로는 LTV·DTI 주택 수 산정에서 사용하는 ‘세대’의 일반적 정의, 주민등록표상 같은 세대의 직계존속·직계비속 주택을 합산하는지, 세대 분리된 배우자를 포함하는지에 관한 명시적 공식 근거가 없습니다. 따라서 해당 사항은 모두 **공식 근거 없음**으로 답해야 하며, 추측하여 포함 여부를 단정할 수 없습니다.\n\n「주택관련 담보대출 등에 대한 리스크관리 세부기준」에는 “(3) 무주택세대주는 민법상 성년인 세대주(세대주의 배우자를 포함)로 은행은 규정 <별표6> 제1호 버목의. 세대 구성원 전원의 무주택(분양권 및 재건축 또는 재개발 지분 ...”이라고 기재되어 있습니다 ((29)). 다만 제공된 원문은 문장이 중간에서 끊겨 있고, ‘세대 구성원’의 범위, 주민등록표상 직계존속·직계비속의 포함 여부, 세대 분리된 배우자의 처리 기준, 주택 수 산정 방식까지 완결된 조항으로 확인되지 않습니다. 따라서 이 자료만으로 부모·자녀 명의 주택의 합산 여부나 세대 분리 배우자의 포함 여부를 확정할 수 없습니다.\n\n2025년 10월 15일 「주택시장 안정화 대책」 관련 금융위원회 자료의 공식 문장은 “1주택자(소유주택의 지역은 무관)가 수도권 ․ 규제지역에서 임차인으로서 전세대출을 받는 경우에는 전세대출의 이자상환분을 차주의 DSR에 반영한다”는 내용입니다 ((6)). 같은 자료는 시행시기를 “10.29일”로 제시하면서, “1주택자가 수도권 · 규제지역에서 임차인으로 전세대출을 받는 경우 전세대출 이자상환분을 DSR에 반영”한다고 적고 있습니다 ((8)). 그러나 제공된 「주택시장 안정화 대책」 자료에는 ‘1주택자’ 또는 ‘세대’의 정의 조항, 주민등록표상 가족의 주택을 합산하는 기준, 세대 분리 배우자의 처리 기준이 제시되어 있지 않습니다. 따라서 이 정책에 LTV·DTI 별표의 특정 세대 정의가 그대로 적용된다고 볼 공식 근거는 없습니다.\n\n금융위원회의 「주요정책문답」은 전세대출 DSR에 관하여 “1주택자가 보유한 주택 소재지에 관계없이 1주택자가 수도권·규제지역에서 전세대출 이용시 적용”한다고 설명하고 ((2)), 전세대출 DSR은 “원칙적으로 규제시행일 이후 신규 취급된 전세대출부터 적용”한다고 설명합니다 ((2)). 하지만 이 문답에도 ‘세대’의 법적 정의나 주택 수 산정 대상자의 범위는 확인되지 않습니다. 그러므로 부모·자녀의 주택을 포함하는지와 세대 분리 배우자를 포함하는지는 **공식 근거 없음**입니다.\n\n2026년 4월 1일자 「'26년도 가계부채 관리방안 관련 FAQ」의 확인 가능한 문장은 “개인과 개인 임대사업자의 경우, 세대기준*으로 다주택자 판단”이며, 각주에는 “각 업권법 ...”이라고만 기재되어 있습니다 ((5)). 같은 내용은 금융위원회 「주요정책문답」에도 “개인과 개인 임대사업자의 경우, 세대기준*으로 다주택자 판단”이라고 제시되어 있습니다 ((14)). 제공된 원문은 각주와 관련 업권법 조항이 생략된 불완전한 문장으로, ‘세대’ 자체의 정의, 주민등록표상 직계존속·직계비속의 주택 합산 여부, 세대 분리 배우자의 포함 여부를 확인할 수 없습니다. 따라서 2026년 4월 1일 다주택자 주담대 만기연장 제한에 관해서도 구체적인 가족관계별 주택 수 산정 기준은 **공식 근거 없음**입니다.\n\n결론적으로, 확인 가능한 공식 문서는 2025년 10월 15일 정책에서 1주택자 전세대출 이자상환분을 DSR에 반영한다는 점과 2026년 4월 1일 정책에서 개인·개인 임대사업자의 다주택자 여부를 세대 기준으로 판단한다는 점만 명시합니다 ((5)) ((6)). 그러나 요청하신 ‘세대’의 완전한 정의, 같은 주민등록 세대의 부모·자녀 주택 합산 여부, 세대 분리 배우자의 포함 여부, 두 정책에 동일한 세대 정의가 적용된다는 명시적 조항과 원문은 제공된 공식 자료에서 확인되지 않습니다. 정확한 판단을 위해서는 국가법령정보센터에 게시된 해당 시행세칙의 최신 별표 원문과 2026년 4월 1일 FAQ의 생략되지 않은 첨부파일 원문에서 ‘세대’, ‘세대원’, ‘배우자’, ‘주택 수’ 항목을 직접 확인해야 합니다 ((18)).\n\n**중요 고지:** 이 정보는 일반적인 정보 제공을 위한 것이며 법률·금융 전문가의 자문을 대신하지 않습니다. 개인의 주민등록 상태, 혼인관계, 주택 소유관계 및 대출 유형에 따른 구체적인 적용은 자격 있는 금융·법률 전문가에게 상담하시기 바랍니다.",
+  "references": [
+   {
+    "title": "금융위원회",
+    "url": "https://www.fsc.go.kr/",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주요정책문답 - 정책자료 - 정책마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/po020201/85518?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보도자료(상세) | 보도자료 | 보도·알림 |",
+    "url": "https://fss.or.kr/fss/bbs/B0000188/view.do?nttId=217055&menuNo=200218&pageIndex=1",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "대출 가입전 주요 체크사항 | 금융감독원 금융상품",
+    "url": "https://fine.fss.or.kr/main/prc/lo/sub/lo003.jsp?menuNo=9000293",
+    "hostname": "fine.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "'26년도 가계부채 관리방안 관련 FAQ",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87058&fileTy=ATTACH&fileNo=2",
+    "hostname": "fsc.go.kr",
+    "date": "2026-04-01",
+    "tier": 1
+   },
+   {
+    "title": "보도자료 - 위원회 소식 - 알림마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/no010101/85432?srchCtgry=&curPage=3&srchKey=sj&srchText=&srchBeginDt=&srchEndDt=%0A",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "카드뉴스 - 홍보자료 - 알림마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/no040101?cnId=2060",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "금융소비자 - 정책일반 - 정책마당 - 금융위원회",
+    "url": "https://fsc.go.kr/po010105/85432?srchCtgry=5&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "5세대 실손보험 및 기본자본, 판매채널 책임성 강화 등 관련",
+    "url": "https://www.fsc.go.kr/no010101/86059?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "은행업감독규정 > 행정규칙",
+    "url": "https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000285624&chrClsCd=010202",
+    "hostname": "law.go.kr",
+    "date": "2026-10-02",
+    "tier": 1
+   },
+   {
+    "title": "주택담보대출 규제 관련 주요 정책문답",
+    "url": "https://www.fsc.go.kr/po020201/85466",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "Hanon Systems/Organization of Investor Relations Event/2025.10.15",
+    "url": "https://englishdart.fss.or.kr/dsbh001/main.do?rcpNo=20251015800310",
+    "hostname": "englishdart.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "금융정책 - 정책일반 - 정책마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/po010101/85432?srchCtgry=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주요정책문답",
+    "url": "https://www.google.com/goto?url=CAESoAEBxCJF1zrM4P-BOoQWKnAJ8Pm7pYx6AObIpLux1NSmtQRFHrpGy77dRk-Hqp7jg1c6WevwPdnmxItxdXcbSWZ91Xw412ASIzVbOW2AmPJH_SotgWAG-tIFREVYfER8_kcjeqSBj8qEjbJKpFSk0Zq_Kqn6EJIVa58ibniRXjqbCaIeAlBGTLeI4R9XtaCGz_rY_ijZdgZcMtOee9SsQMkW&gsessionid=J0e0uXOy2caPIy0LxpqQXwZArak2HZwZ2OxoGlt4Mv9EpM99UPZYVA",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "SK hynix/Organization of Investor Relations Event/2025.10.15",
+    "url": "https://englishdart.fss.or.kr/dsbh001/main.do?rcpNo=20251015800340",
+    "hostname": "englishdart.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "공개제안 보기 | 국민제안 | 고객의 소리 | 참여·소통 |",
+    "url": "https://fss.or.kr/fss/cvpl/mrfnPropse/publicView.do?menuNo=200776&rcptNo=2026-00041",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "[금융회사명]/Decision on Acquisition of Shares or Investment Certificates of Other Corporation (Voluntary Disclosure)/2025.10.15",
+    "url": "https://englishdart.fss.or.kr/dsbh001/main.do?rcpNo=20251015800129",
+    "hostname": "englishdart.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "국가법령정보센터",
+    "url": "https://www.law.go.kr/",
+    "hostname": "law.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "한온시스템/결산실적공시예고(안내공시)/2025.10.15",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251015800300",
+    "hostname": "dart.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2026년 총선거 공식 유권자 정보 안내서",
+    "url": "https://vig.cdn.sos.ca.gov/2026/general/ko/pdf/complete-vig.pdf",
+    "hostname": "vig.cdn.sos.ca.gov",
+    "date": "2026-11-03",
+    "tier": 3
+   },
+   {
+    "title": "노타/증권신고서(지분증권)/2025.10.15",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251015000291",
+    "hostname": "dart.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "부동산 시장 안정을 위한 금융 종합대책",
+    "url": "https://www.korea.kr/common/download.do?fileId=145789185",
+    "hostname": "korea.kr",
+    "date": "2026-08-13",
+    "tier": 1
+   },
+   {
+    "title": "HANMI Semiconductor/Other Management Information(Voluntary Disclosure)/2025.10.15",
+    "url": "https://englishdart.fss.or.kr/dsbh001/main.do?rcpNo=20251015800124",
+    "hostname": "englishdart.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "공개Q&A 조회 | Q&A | 민원·신고 |",
+    "url": "https://www.fss.or.kr/fss/cvpl/inquiRecpEc/view.do?menuNo=200094&recpNo=2026Q3051&pubYn=Y",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "에코볼트/주식등의대량보유상황보고서(일반)/2025.10.15",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251015000321&trc=sub_public-announcement_dart",
+    "hostname": "dart.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "유권자 정보 팜플렛 - City Clerk",
+    "url": "https://cityclerk.lacity.org/election/KOR_NOV-2026_201-Voter_Info_Pamphlet.pdf",
+    "hostname": "cityclerk.lacity.org",
+    "date": "2026-11-03",
+    "tier": 3
+   },
+   {
+    "title": "상품소개 | 디딤돌대출",
+    "url": "http://www.hf.go.kr/ko/sub01/sub01_02_01.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주요 보도자료 및 FAQ(상세) | 중소기업 금융애로상담센터 | 참여·소통 |",
+    "url": "http://www.fss.or.kr/fss/bbs/B0000319/view.do?nttId=204962&menuNo=200766&pageIndex=1",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "금융감독원",
+    "url": "https://www.fss.or.kr/",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주택관련 담보대출 등에 대한 리스크관리 세부기준",
+    "url": "https://www.google.com/goto?url=CAESdAHEIkXXS19QXAy_w0HWGXEuXG0j6nNOy4NXafi4hLsIgE_J5_7r8Owg_eUUdOGkzFyyCTHTbCmKmKKlMfl52FAFFhCu0WHUzHKaDIDiHm29V7CbU_ibqOjEvrcOdLtgD_FKw8JSN_1M06swuUSB75XMc3Cq&gsessionid=3umB2ymhmMkdQ1ntme24ePrRfxQtq8AAhyaiiPClW4o69t6GcTT5mA",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "정책영상 - 위원회 소식 - 알림마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/no010107/78216?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "킹카운티 - 공식 지역 유권자 팸플릿",
+    "url": "https://www.google.com/goto?url=CAESvAEBxCJF15p2Fp5oKGZC3QoiWST7zOuWyWsJ-o7x_I3Yc40Z0l5NoC3G9Kpes4aU-fTAObEBmDwtckjS8c7smLMZt8TqIwTO6yVaYReEJBzdfaqnd9EGyoxbrv22hXjHw3Bq-S0_nYKu6SulQ1WZU09hFu5t8AJTDMaLW_COavM7YxEwhDk7Y8jpb-6MC9CGm0xubMLSZjj2W_dT-wnN8fm94sossQDWQGQXafbWdD4sv93yHzrJRTJntv4_Og&gsessionid=DU43A9zzuEK5HDOqdZAHrvwBo0zi8fExyW3oJvnNSHMsPPq8Wf4ZvQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "2026년 세제개편안 상세본",
+    "url": "https://www.google.com/goto?url=CAESkAEBxCJF13ZHZjhgJZFl3EHoZP2WjpjTiG8CG3FVbQxWYQWZ3dp1yfUgwsvINsRNHkUqcTCr9BsUQcACNqriUlLHqyImtw_PZDMEuT-MBszaaUqtz0UNam5qT10PCNncmQOgCbkEjG_LYF_yVjFiPPwqVKWYM7a4FC2gkpMKLl1_A9BwvbY3PYf6-R1YFpsmJ7Q&gsessionid=3umB2ymhmMkdQ1ntme24ePrRfxQtq8AAhyaiiPClW4o69t6GcTT5mA",
+    "hostname": "google.com",
+    "date": "2026-08-03",
+    "tier": 3
+   },
+   {
+    "title": "금융 FAQ(상세) | 금융생활 길라잡이 | 금융소비자보호 |",
+    "url": "https://fss.or.kr/fss/bbs/B0000172/view.do?nttId=49513&menuNo=200202&viewType=&pageIndex=1",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2025 간행물 17",
+    "url": "https://www.google.com/goto?url=CAESZgHEIkXX-N58hU_rjNkpZ4yFJJOH9QXV8x6LPQcG-Qw_ZUFKMmzt_5EIJJA6M4KWm24RfiQntwVmT9Q05-Gj1ZweYS69ZtZ1SdrkDCYZ2qeQK8JiTfkV6n49Ed_LJHHV5AlY7qGa2Q&gsessionid=DU43A9zzuEK5HDOqdZAHrvwBo0zi8fExyW3oJvnNSHMsPPq8Wf4ZvQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "카드뉴스 - 금융위원회 알기쉬운·금융",
+    "url": "https://www.fsc.go.kr/edu/cardnews?cnId=2117",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "(3분기) 재무제표 회계투명성 및 감사품질 제고를 위한 유의 ...",
+    "url": "https://www.google.com/goto?url=CAESpgEBxCJF10f-QGDC_7XQOW8zRYqm-TwWfPUfNg3sOGRcrM_hEqPChkO8aCJzwF7QCdC0H4GRsholPWvlc1P_Bsj92mcYJmY6RTKR9bSBdFT1WjFXe9UlkrdQ6nWfZQ1WOOC2srPRpRK_F6ViAZEVVAnrHAhCiCCoMIpP4QuCzkEWASkuJ6N02ebz60QD9SNOCIyt4Gd_0z9FCnrKtbkoMNJU0Ya_J_HB&gsessionid=DU43A9zzuEK5HDOqdZAHrvwBo0zi8fExyW3oJvnNSHMsPPq8Wf4ZvQ",
+    "hostname": "google.com",
+    "date": "2026-11-16",
+    "tier": 3
+   },
+   {
+    "title": "주택담보노후연금보증 업무처리기준",
+    "url": "https://www.google.com/goto?url=CAESfQHEIkXXFSTA9Vbdd4vFWP97xdSzjQsa6yxoWTNpvL-fmui-1IU99EenwRTTpqsyJg7sRm6myyPJod6OTyigj4RE9NEHB6AhnNgbJqhl0LcFSVylvSLtUBgpU1GeVyz8JAi3KfliOiDYdiS0nBH4j_CbaFRgzolyy9E5ZbCp&gsessionid=3umB2ymhmMkdQ1ntme24ePrRfxQtq8AAhyaiiPClW4o69t6GcTT5mA",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "의료법 일부개정법률안(신창현의원 등 10인)",
+    "url": "https://www.google.com/goto?url=CAESeAHEIkXXU8M9ziWEyLZa4evri0SARrpuGfWO2vbBMZ7Ybm4--wCEcc8F_v-C_oX-sC1fBT9940XSezDiCnI8ZHY73q1ec0igRZqI6zP2i9q3vBCm9XBuU3ovlEJ4QUukkT0uRBw3EoqRmF95C7ZeCbGK5ji79R_NCg&gsessionid=DU43A9zzuEK5HDOqdZAHrvwBo0zi8fExyW3oJvnNSHMsPPq8Wf4ZvQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "Ⅰ. 금융안정 상황",
+    "url": "https://www.google.com/goto?url=CAESpAEBxCJF12Ufz-blRiZI8pkv6bQOxUqGNILzLdeYZsf2en8x4BfYE9l1peDomOIRhLnwFDRw34jydFN0U-09m_rUWLzNRNmYLVNpm4F8FRmui5CPrzX2p36RMmOuKy3m1yCanqYY8Ny6b-tSQR8-yLHhN8ZDfe9wVMCUyEQVkbrvOdhE1NEcsyjdAf2udGfbnK18AC3aDkhEiAlW5_w_eJKAgBW80w&gsessionid=3umB2ymhmMkdQ1ntme24ePrRfxQtq8AAhyaiiPClW4o69t6GcTT5mA",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   }
+  ],
+  "requestId": "5115e355-c710-4ef8-a1f5-4010e34eff77"
+ },
+ "searches": [
+  {
+   "query": "은행업감독업무시행세칙 세대 정의 주민등록표 직계존비속 주택 수 합산",
+   "results": [
+    {
+     "title": "은행업감독업무시행세칙 > 행정규칙",
+     "url": "https://www.law.go.kr/%ED%96%89%EC%A0%95%EA%B7%9C%EC%B9%99/%EC%9D%80%ED%96%89%EC%97%85%EA%B0%90%EB%8F%85%EC%97%85%EB%AC%B4%EC%8B%9C%ED%96%89%EC%84%B8%EC%B9%99",
+     "hostname": "law.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=law.go.kr&sz=128",
+     "description": "... 세부평가 및 산정기준은 별표 11과 같다. 제5절 경영공시. 제31조(정기공시 및 수시공시) ① 규정 제41조제2항에 따라 은행이 공시해야 할 세부공시 ...",
+     "date": "2026-06-30",
+     "tier": 1
+    },
+    {
+     "title": "은행업감독업무시행세칙",
+     "url": "https://www.korea.kr/common/download.do?fileId=187439&tblKey=EDN",
+     "hostname": "korea.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=korea.kr&sz=128",
+     "description": "... 기준으로 산출한다. (1) 연결재무제표의 연결대상회사 및 연결범위는 <별표 4> 회계처리기준 Ⅴ. 연결재무제표에 의한다. 다만, 「보험업법」에 의한 보험사업자의 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "주택관련 담보대출에 대한 리스크관리 세부기준 (은행업감독업무시행세칙, ...",
+     "url": "https://blog.naver.com/will84/221820925656",
+     "hostname": "blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=blog.naver.com&sz=128",
+     "description": "주택을 담보로 한 한도대출의 주택담보대출금액은 대출취급시점에는 대출한도액으로 산정하고 담보인정비율 재산정시점에서는 대출잔액으로 산정한다. 나.",
+     "date": "2020-02-23",
+     "tier": 3
+    },
+    {
+     "title": "은행업감독업무시행세칙",
+     "url": "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2000000081022",
+     "hostname": "law.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=law.go.kr&sz=128",
+     "description": "제7조(심사자료제출 요구) 감독원장은 제5조의 규정에 따라 신고서류를 접수하는 경우 규정 제7조 내지 제9조에서 정하는 기준에 적합한지 여부를 심사 ...",
+     "date": "2009-10-10",
+     "tier": 1
+    },
+    {
+     "title": "은행업감독규정 일부개정고시안",
+     "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=78432&fileTy=ATTACH&fileNo=4",
+     "hostname": "fsc.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=fsc.go.kr&sz=128",
+     "description": "및 총부채상환비율의 산정방법. 및 적용대상의 세부판단기준, 주. 택담보대출 등의 취급 및 만기연. 장 제한 등과 관련한 세부적인 사. 항은 감독원장이 정하는 바에 따.",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "[금융감독원] 주택 관련 담보대출 등에 대한 리스크관리기준 (최신 LTV, DTI, ...",
+     "url": "https://xn--989a00af8jnslv3dba.com/docs/419",
+     "hostname": "xn--989a00af8jnslv3dba.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=xn--989a00af8jnslv3dba.com&sz=128",
+     "description": "각각 은행업법감독규정 별표6과 은행업법감독업무시행세칙 별표 18이므로 언제든지 정확한 기준을 확인하고 싶을 때 언제든 국가법령정보센터에서 확인하실 수 있습니다.",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "은행업감독업무시행세칙 개정안 상세보기 | 정부입법 | 옴부즈만",
+     "url": "https://ombudsman.kotra.or.kr/ob-kr/ob/i-2620/lgsltn/front/gv-detail.do?tmatt_no=0000060613",
+     "hostname": "ombudsman.kotra.or.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=ombudsman.kotra.or.kr&sz=128",
+     "description": "○ 연소득 산정시 장래소득 관련 조문을 포괄적인 내용으로 정비 (안 <별표18> 제9호) ○ 감독규정 내 “세대” 및 “고가주택”과 관련된 시행세칙 조문 정비 (안 <별표18> ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "「은행업감독업무시행세칙」 등 5개 시행세칙 개정 예고 | 경제정책자료",
+     "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=237304",
+     "hostname": "eiec.kdi.re.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=eiec.kdi.re.kr&sz=128",
+     "description": "금융위원회와 금융감독원은 4.6.(목)~17.(월)까지 「은행업감독업무시행세칙」 등 5개 시행세칙 개정을 예고를 실시한다. - 오피스텔은 집값 급등 과정에서 서민 주거 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "금융위원회·금융감독원 - 은행업감독업무 시행세칙 질의",
+     "url": "https://casenote.kr/%EA%B8%88%EC%9C%B5%EC%9C%84%EC%9B%90%ED%9A%8C%C2%B7%EA%B8%88%EC%9C%B5%EA%B0%90%EB%8F%85%EC%9B%90/0d636bbecf",
+     "hostname": "casenote.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=casenote.kr&sz=128",
+     "description": "은행업감독업무시행세칙 제43조 제1항 제2호 및 마목에 따라 임직원이 소유한 「주택법」에 따른 주택 및 오피스텔에 의해 담보된 대출금이 일반고객과 동일한 조건 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "같이 사는 형제가 다른 주택을 가지고 있으면, 이 경우도 1가구 2주택자로 ...",
+     "url": "https://www.bank-mall.co.kr/customer/qna/1486",
+     "hostname": "bank-mall.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=bank-mall.co.kr&sz=128",
+     "description": "주택담보대출2026-11-09 ・ 집을 자동 합산하기보다 본인 지분과 보유 주택을 확인해 대출 ・ 같은 주민등록표의 배우자, 부모·조부모 등 직계존속, 자녀 ...",
+     "date": "2026-11-09",
+     "tier": 3
+    }
+   ]
+  },
+  {
+   "query": "주택담보대출 세대 기준 주택수 산정 세대원 부모 합산 금융위 FAQ",
+   "results": [
+    {
+     "title": "1세대 1주택자 판단 시 주택 수 산정 제외 특례",
+     "url": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=40621&cntntsId=239014",
+     "hostname": "nts.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=nts.go.kr&sz=128",
+     "description": "1세대 1주택자의 적용을 신청하려는 납세의무자는 해당 연도 9월 16일부터 9월 30일까지 「1세대 1주택자 판단 시 주택 수 산정 제외 신청서(종합부동산세법 시행규칙 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "[주택담보대출] 관련 Q&A",
+     "url": "https://www.fsc.go.kr/po020201/27351?srchCtgry=&curPage=4&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+     "hostname": "fsc.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=fsc.go.kr&sz=128",
+     "description": "ㅇ 따라서, 금융회사는 '대출 신청일' 기준으로 시가 15억원 초과 여부를 판단하므로 만약 대출시점에 시가가 15억원을 초과한다면 대출이 어렵습니다. [자주 하는 질문] ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "알쏭달쏭 세대와 주택 수 계산 쉽게 산정하는 방법",
+     "url": "https://blog.naver.com/budongsanboy/221895304038?viewType=pc",
+     "hostname": "blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=blog.naver.com&sz=128",
+     "description": "부모님이 주택 2채, 동일세대원 40세 아들 주택 1채이면 3주택입니다. 취득세에서도 3주택, 양도소득세에서도 3주택입니다. 이 상황에서 25세 된 자녀가 ...",
+     "date": "2020-04-07",
+     "tier": 3
+    },
+    {
+     "title": "자금용도",
+     "url": "https://www.hf.go.kr/cms/etcResourceDown.do?site=$cms$NYeyA&key=$cms$AwRg+qB0AOAmBmQ",
+     "hostname": "hf.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=hf.go.kr&sz=128",
+     "description": "1 구입용도. ▫ 담보주택의 건물에 대한 소유권 이전(보존) 등기일로부터 3개월 이내에 대출. 신청('전산등록일 기준' 이하 동일)한 경우. - 소유권이전과 동시에 대출 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "주택담보대출 세대원 정보제공 동의",
+     "url": "https://kakaobank.com/app/guide/mortgageLoan/family_agree_guide",
+     "hostname": "kakaobank.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=kakaobank.com&sz=128",
+     "description": "대출 받으려면 본인 외에도, 내가 속한 세대의 세대원들의 주택수가 대출진행에 영향을 줄 수 있어요. · 예를 들어 본인이 무주택자이더라도, 주민등록등본상 배우자가 두채 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "금융/금전 > 보유주택수",
+     "url": "https://www.easylaw.go.kr/CSP/OnhunqueansInfoRetrieve.laf?onhunqnaAstSeq=92&onhunqueSeq=3983",
+     "hostname": "easylaw.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=easylaw.go.kr&sz=128",
+     "description": "√ 보유주택수는 일반주택과 노인복지주택, 담보로 제공한 주거목적 오피스텔을 포함해서 산정합니다. √ 한국주택금융공사에 신탁한 주택도 보유주택수에 포함해서 산정 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "같이 사는 형제가 다른 주택을 가지고 있으면, 이 경우도 1가구 2주택자로 ...",
+     "url": "https://www.bank-mall.co.kr/customer/qna/1486",
+     "hostname": "bank-mall.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=bank-mall.co.kr&sz=128",
+     "description": "1. 같은 등본에 있어도 가족관계에 따라 주택 수가 달라집니다 · 2. 1주택으로 판단되면 생활안정자금대출을 검토할 수 있습니다 · 3. · 4.",
+     "date": "2026-11-09",
+     "tier": 3
+    },
+    {
+     "title": "알쏭달쏭 세목별로 달라지는 '주택수' 산정기준 | 서울시",
+     "url": "https://mediahub.seoul.go.kr/archives/1267076",
+     "hostname": "mediahub.seoul.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=mediahub.seoul.go.kr&sz=128",
+     "description": "1) 아버지가 추가로 주택 취득시 4주택 세율 적용 · 2) 어머니가 추가로 주택 취득시 4주택 세율 적용 · 3) 자녀가 추가로 주택 취득시 4주택 세율 적용.",
+     "date": "2020-01-31",
+     "tier": 3
+    },
+    {
+     "title": "댓글 25",
+     "url": "https://weolbu.com/community/3968973/%EC%A3%BC%ED%83%9D%EC%88%98-%EA%B4%80%EB%A0%A8-%EC%A7%88%EB%AC%B8%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4/comments?srsltid=AYCX9vIZ23tMXNugi9TbqxIM3bdqFm7dwovmNc38mFQ0IJ4xDDqmNbxR",
+     "hostname": "weolbu.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=weolbu.com&sz=128",
+     "description": "안녕하세요 우귀님 다른 분들이 말씀해주신 것처럼 배우자분이 세대주가 아닌 세대원이고 형제, 자매이기 때문에 주택수에 포함되지 않습니다. 내집마련 축하드립니다!",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "(180920) 주택시장 안정대책 관련 금융부문 FAQ(FN).hwp",
+     "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=73330&fileTy=ATTACH&fileNo=4",
+     "hostname": "fsc.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=fsc.go.kr&sz=128",
+     "description": "1. 무주택세대는 주택담보대출의 제한이 없는지? □ 무주택세대는 원칙적으로 주담대 관련 제한이 없음. □ 다만, 무주택세대가 9.14일 이후 규제지역( ...",
+     "date": null,
+     "tier": 1
+    }
+   ]
+  }
+ ]
+}

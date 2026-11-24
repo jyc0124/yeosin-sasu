@@ -1,0 +1,18 @@
+{
+ "at": "2026-11-16",
+ "method": "같은 질문 10개를 여신 사수(/api/judge, 근거 자료 v2)과 ChatGPT(chatgpt.com, 추론 High, 일반 채팅에서 필요하면 스스로 웹 검색, 문항마다 새 대화 — 11/22 「웹 검색 켬」 6문항 실험과 별개)에 넣고 테스트셋 정답 요지로 사람이 채점. ChatGPT 1회 실행(B01만 2회).",
+ "grades": { "ok": "정답", "partial": "결론은 맞지만 핵심 조건 누락·확답", "wrong": "틀리거나 위험" },
+ "items": [
+  { "id": "B01", "question": "서울 APT 분양 후 바로 전세, 내년 2월 만기 연장?", "expected": "역질문", "agent": "역질문", "agentGrade": "ok", "chatgpt": "원칙적으로 어려움", "chatgptGrade": "partial", "note": "확인 전에 '어렵다'고 먼저 단정. 회차마다 내용이 달라 사용자 실행분(run0)에는 가족 임대 예외가 없었다." },
+  { "id": "B01-a", "question": "+ 배우자도 안 삶, 세입자 남, 예외 없음", "expected": "불허", "agent": "불허", "agentGrade": "ok", "chatgpt": "원칙적 불가", "chatgptGrade": "ok", "note": "결론 동일. 다만 후속 질문으로 '12월에 미리 연장 신청하면 가능할까?'를 제안." },
+  { "id": "B01-b", "question": "+ 세입자가 고객 어머니", "expected": "허용", "agent": "허용", "agentGrade": "ok", "chatgpt": "가능(가족 임대 제외)", "chatgptGrade": "ok", "note": "" },
+  { "id": "B01-c", "question": "+ 현재 전셋집 보증금 미반환", "expected": "조건부", "agent": "조건부", "agentGrade": "ok", "chatgpt": "예외적 연장 가능", "chatgptGrade": "ok", "note": "" },
+  { "id": "B02", "question": "비거주 1주택, 만기 12/20 연장 막혀요?", "expected": "조건부", "agent": "조건부", "agentGrade": "ok", "chatgpt": "시행일 전이라 연장 가능", "chatgptGrade": "partial", "note": "8.28 행정지도의 '증액하면 변경 규정 적용' 조건을 모름." },
+  { "id": "B12", "question": "다주택, 강화군 주택은 빠지죠?", "expected": "역질문", "agent": "역질문", "agentGrade": "ok", "chatgpt": "4억 이하면 제외", "chatgptGrade": "ok", "note": "" },
+  { "id": "A02", "question": "5/10 재계약, 재계약 기준 연장?", "expected": "역질문", "agent": "역질문", "agentGrade": "ok", "chatgpt": "청구권 행사 여부 확인", "chatgptGrade": "ok", "note": "ChatGPT가 갱신청구권 행사 기한(종료 2개월 전)까지 덧붙임." },
+  { "id": "C02", "question": "가계약금만, 매도계약 예외?", "expected": "보류", "agent": "보류", "agentGrade": "ok", "chatgpt": "원칙적으로 인정 어려움", "chatgptGrade": "wrong", "note": "정부 발표 자료에 없는 결론을 다른 조항(전입의무)에서 끌어와 단정." },
+  { "id": "C05", "question": "계약 직후 지방 발령으로 못 삶, 봐주죠?", "expected": "심사위", "agent": "심사위", "agentGrade": "ok", "chatgpt": "네, 가능성 높음(심사위 필요)", "chatgptGrade": "partial", "note": "첫 문장이 '네' — 지점이 확답할 수 없는 사항에 기대를 줌." },
+  { "id": "C07", "question": "만기 1/5, 12월에 미리 연장하면?", "expected": "불허", "agent": "불허", "agentGrade": "ok", "chatgpt": "확정 불가, 종전 규정 적용 가능성", "chatgptGrade": "wrong", "note": "8.28 행정지도(12.31까지 만기도래 건만)를 못 찾고 '명시적 경과조항이 없다'고 답함. 후속 질문으로 만기일을 앞당겨 연장하는 방법을 제안(회피 경로)." }
+ ],
+ "latency": { "agent": "5~10초", "chatgpt": "17~80초" }
+}

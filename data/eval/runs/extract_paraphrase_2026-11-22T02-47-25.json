@@ -1,0 +1,1118 @@
+{
+ "summary": {
+  "set": "paraphrase",
+  "at": "2026-11-22T02:47:25.478Z",
+  "asOf": "2026-11-13",
+  "n": 28,
+  "module": 28,
+  "v2": 28,
+  "v1": 28,
+  "both": 28,
+  "exactSlots": 12,
+  "errors": 0,
+  "avgMs": 7734
+ },
+ "rows": [
+  {
+   "id": "P01",
+   "of": "A01",
+   "question": "고객이 집이 여러 채인데 서울 아파트 담보대출이 올해 12월 20일 만기입니다. 임차인 계약 기간이 2025년 9월 1일부터 2027년 8월 31일까지예요. 만기연장 가능해요?",
+   "expected": {
+    "v2": "조건부",
+    "v1": "조건부"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M2",
+    "got": "M2"
+   },
+   "slotDiff": [],
+   "assumptions": [
+    "가계약 언급 없어 4.1 기준 유효 계약으로 가정"
+   ],
+   "warnings": [],
+   "ms": 7216,
+   "case": {
+    "module": "M2",
+    "houseCount": 2,
+    "houseCountIsMinimum": true,
+    "collateral": {
+     "region": "서울",
+     "isApt": true
+    },
+    "maturityDate": "2026-12-20",
+    "tenant": {
+     "contractValidAt0401": true,
+     "originalEnd": "2027-08-31"
+    },
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "조건부",
+    "v1": "조건부"
+   }
+  },
+  {
+   "id": "P02",
+   "of": "A03",
+   "question": "담보 집 세입자 계약이 올해 4/10에 묵시갱신 됐다고 하네요. 갱신 계약 만료일까지 대출 연장 가능한가요?",
+   "expected": {
+    "v2": "허용",
+    "v1": "허용"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M2",
+    "got": "M2"
+   },
+   "slotDiff": [],
+   "assumptions": [
+    "다주택자 전제",
+    "가계약 언급 없어 4.1 기준 유효 계약으로 가정"
+   ],
+   "warnings": [],
+   "ms": 8058,
+   "case": {
+    "module": "M2",
+    "houseCount": 2,
+    "houseCountIsMinimum": true,
+    "tenant": {
+     "contractValidAt0401": true,
+     "renewal": "implicit",
+     "renewalDate": "2026-04-10"
+    },
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "허용",
+    "v1": "허용"
+   }
+  },
+  {
+   "id": "P03",
+   "of": "A04",
+   "question": "임대차 만료가 26년 7월 20일이었는데 임차인이 계약갱신요구권을 써서 28년 7월 20일로 늘었어요. 주담대 연장은요?",
+   "expected": {
+    "v2": "허용",
+    "v1": "허용"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M2",
+    "got": "M2"
+   },
+   "slotDiff": [],
+   "assumptions": [
+    "다주택자 전제",
+    "가계약 언급 없어 4.1 기준 유효 계약으로 가정"
+   ],
+   "warnings": [],
+   "ms": 7028,
+   "case": {
+    "module": "M2",
+    "houseCount": 2,
+    "houseCountIsMinimum": true,
+    "tenant": {
+     "contractValidAt0401": true,
+     "originalEnd": "2026-07-20",
+     "renewal": "claim",
+     "renewedEnd": "2028-07-20"
+    },
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "허용",
+    "v1": "허용"
+   }
+  },
+  {
+   "id": "P04",
+   "of": "A05",
+   "question": "세입자 계약이 원래 26.9.30에 끝나는 건데 갱신청구권으로 28.9.30까지 늘었습니다. 대출 만기는 12월이에요.",
+   "expected": {
+    "v2": "불허",
+    "v1": "불허"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M2",
+    "got": "M2"
+   },
+   "slotDiff": [
+    "approxDates[0]: undefined → \"2026-12-15\""
+   ],
+   "assumptions": [
+    "다주택자 전제",
+    "만기 12월 → 2026-12-15로 가정",
+    "가계약 언급 없어 4.1 기준 유효 계약으로 가정"
+   ],
+   "warnings": [],
+   "ms": 7189,
+   "case": {
+    "module": "M2",
+    "houseCount": 2,
+    "houseCountIsMinimum": true,
+    "maturityDate": "2026-12-15",
+    "tenant": {
+     "contractValidAt0401": true,
+     "originalEnd": "2026-09-30",
+     "renewal": "claim",
+     "renewedEnd": "2028-09-30"
+    },
+    "approxDates": [
+     "2026-12-15"
+    ],
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "불허",
+    "v1": "불허"
+   }
+  },
+  {
+   "id": "P05",
+   "of": "A06",
+   "question": "부모님께 집을 증여받아서 2채가 된 고객인데, 증여받은 것도 주택 수에서 빼 주나요?",
+   "expected": {
+    "v2": "불허",
+    "v1": "불허"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M2",
+    "got": "M2"
+   },
+   "slotDiff": [
+    "houses[0].owner: undefined → \"self\""
+   ],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 7408,
+   "case": {
+    "module": "M2",
+    "houses": [
+     {
+      "label": "증여받은 집",
+      "owner": "self",
+      "tags": [
+       "gift"
+      ]
+     }
+    ],
+    "houseCount": 2,
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "불허",
+    "v1": "불허"
+   }
+  },
+  {
+   "id": "P06",
+   "of": "A07",
+   "question": "할머니 집을 상속받는 바람에 2주택자가 된 고객이에요.",
+   "expected": {
+    "v2": "허용",
+    "v1": "허용"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M2",
+    "got": "M2"
+   },
+   "slotDiff": [
+    "houses[0].owner: undefined → \"self\""
+   ],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 7823,
+   "case": {
+    "module": "M2",
+    "houses": [
+     {
+      "label": "할머니 집",
+      "owner": "self",
+      "tags": [
+       "inheritance"
+      ]
+     }
+    ],
+    "houseCount": 2,
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "허용",
+    "v1": "허용"
+   }
+  },
+  {
+   "id": "P07",
+   "of": "A08",
+   "question": "다주택자 고객 이주비 대출 만기연장도 제한 대상인가요?",
+   "expected": {
+    "v2": "허용",
+    "v1": "허용"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M2",
+    "got": "M2"
+   },
+   "slotDiff": [
+    "loanPurpose: \"interim\" → \"relocation\""
+   ],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 6587,
+   "case": {
+    "module": "M2",
+    "houseCount": 2,
+    "houseCountIsMinimum": true,
+    "loanPurpose": "relocation",
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "허용",
+    "v1": "허용"
+   }
+  },
+  {
+   "id": "P08",
+   "of": "A11",
+   "question": "법인 임대사업자 고객인데 HOMS에서 조회가 안 됩니다. 다주택인지 어떻게 확인하죠?",
+   "expected": {
+    "v2": "조건부",
+    "v1": "조건부"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M2",
+    "got": "M2"
+   },
+   "slotDiff": [],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 7320,
+   "case": {
+    "module": "M2",
+    "borrowerType": "corporate_landlord",
+    "homsAvailable": false,
+    "landlordMainBusiness": "rental",
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "조건부",
+    "v1": "조건부"
+   }
+  },
+  {
+   "id": "P09",
+   "of": "A13",
+   "question": "상속주택 주택 수에서 빼 주는 거, 양도세나 DSR 계산할 때도 똑같이 빼 주나요?",
+   "expected": {
+    "v2": "불허",
+    "v1": "불허"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M0",
+    "got": "M0"
+   },
+   "slotDiff": [],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 9158,
+   "case": {
+    "module": "M0",
+    "topic": "exception_scope",
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "불허",
+    "v1": "불허"
+   }
+  },
+  {
+   "id": "P10",
+   "of": "A15",
+   "question": "경기 아파트 한 채를 시어머니께 전세로 드렸어요. 비거주 1주택자 규제 대상인가요?",
+   "expected": {
+    "v2": "허용",
+    "v1": "허용"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M1",
+    "got": "M1"
+   },
+   "slotDiff": [
+    "houseCount: undefined → 1"
+   ],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 8554,
+   "case": {
+    "module": "M1",
+    "houses": [
+     {
+      "label": "경기 아파트",
+      "region": "경기",
+      "isApt": true
+     }
+    ],
+    "houseCount": 1,
+    "leasedOut": true,
+    "tenantIsFamily": true,
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "허용",
+    "v1": "허용"
+   }
+  },
+  {
+   "id": "P11",
+   "of": "A16",
+   "question": "토지거래허가구역 아파트를 세 낀 채로 샀고, 세입자 계약 끝나면 입주한대요. 지금 사는 집 전세대출 연장은요?",
+   "expected": {
+    "v2": "조건부",
+    "v1": "조건부"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M1",
+    "got": "M1"
+   },
+   "slotDiff": [
+    "action: undefined → \"renewal\"",
+    "houses[0].isApt: undefined → true",
+    "houses[0].owner: undefined → \"self\"",
+    "leasedOut: undefined → true",
+    "sameHome: undefined → true"
+   ],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 10185,
+   "case": {
+    "module": "M1",
+    "action": "renewal",
+    "houses": [
+     {
+      "label": "토지거래허가구역 아파트",
+      "isApt": true,
+      "owner": "self"
+     }
+    ],
+    "leasedOut": true,
+    "exception": "legal_obligation",
+    "sameHome": true,
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "조건부",
+    "v1": "조건부"
+   }
+  },
+  {
+   "id": "P12",
+   "of": "A18",
+   "question": "1주택자 전세대출 보증비율이 내년에 바뀐다는데 수도권은 얼마고 무주택자는 얼마예요?",
+   "expected": {
+    "v2": "허용",
+    "v1": "허용"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M0",
+    "got": "M0"
+   },
+   "slotDiff": [],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 8412,
+   "case": {
+    "module": "M0",
+    "topic": "guarantee_ratio",
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "허용",
+    "v1": "허용"
+   }
+  },
+  {
+   "id": "P13",
+   "of": "A19",
+   "question": "12월에 전세 계약 체결하고 계약금까지 넣었는데 대출 신청은 내년 1월에 들어온대요. 비거주 1주택 규제 받나요?",
+   "expected": {
+    "v2": "조건부",
+    "v1": "보류"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M1",
+    "got": "M1"
+   },
+   "slotDiff": [
+    "bankIntakeBy1231: undefined → false",
+    "leaseDepositDate: undefined → \"2026-12-15\"",
+    "approxDates[0]: undefined → \"2026-12-15\"",
+    "approxDates[1]: undefined → \"2027-01-15\""
+   ],
+   "assumptions": [
+    "계약 체결·계약금 납부는 신청 예정인 내년 1월의 직전 12월로 해석하고, 일자가 없어 2026-12-15로 가정.",
+    "내년 1월 대출 신청 예정일은 일자가 없어 2027-01-15로 가정."
+   ],
+   "warnings": [],
+   "ms": 8634,
+   "case": {
+    "module": "M1",
+    "action": "new",
+    "applicationDate": "2027-01-15",
+    "contractAndDepositBy1231": true,
+    "bankIntakeBy1231": false,
+    "targetAsserted": true,
+    "leaseDepositDate": "2026-12-15",
+    "approxDates": [
+     "2026-12-15",
+     "2027-01-15"
+    ],
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "조건부",
+    "v1": "보류"
+   }
+  },
+  {
+   "id": "P14",
+   "of": "B01",
+   "question": "서울 아파트 분양받아 입주 안 하고 곧장 세 놓은 고객이에요. 본인은 인천에서 전세 살고 전세대출 만기가 내년 2월이에요. 연장 가능해요?",
+   "expected": {
+    "v2": "역질문",
+    "v1": "역질문"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M1",
+    "got": "M1"
+   },
+   "slotDiff": [
+    "houses[0].owner: undefined → \"self\"",
+    "rentalRegion: undefined → \"인천\"",
+    "approxDates[0]: undefined → \"2027-02-15\""
+   ],
+   "assumptions": [
+    "만기 내년 2월 → 2027-02-15로 가정"
+   ],
+   "warnings": [],
+   "ms": 8362,
+   "case": {
+    "module": "M1",
+    "action": "renewal",
+    "maturityDate": "2027-02-15",
+    "houses": [
+     {
+      "label": "분양받은 서울 아파트",
+      "region": "서울",
+      "isApt": true,
+      "owner": "self"
+     }
+    ],
+    "leasedOut": true,
+    "rentalRegion": "인천",
+    "approxDates": [
+     "2027-02-15"
+    ],
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "역질문",
+    "v1": "역질문"
+   }
+  },
+  {
+   "id": "P15",
+   "of": "B02",
+   "question": "비거주 1주택자에 해당하는 고객 전세대출이 이번 12월 20일 만기예요. 연장 제한되나요?",
+   "expected": {
+    "v2": "조건부",
+    "v1": "보류"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M1",
+    "got": "M1"
+   },
+   "slotDiff": [
+    "houseCount: undefined → 1"
+   ],
+   "assumptions": [
+    "'이번 12월 20일' 만기는 기준일 이후 가장 가까운 2026-12-20으로 해석"
+   ],
+   "warnings": [],
+   "ms": 7746,
+   "case": {
+    "module": "M1",
+    "action": "renewal",
+    "maturityDate": "2026-12-20",
+    "houseCount": 1,
+    "targetAsserted": true,
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "조건부",
+    "v1": "보류"
+   }
+  },
+  {
+   "id": "P16",
+   "of": "B03",
+   "question": "부부가 각각 집이 한 채씩 있어요. 남편은 서울 아파트, 아내는 대전 아파트요. 비거주 1주택 규제 해당돼요?",
+   "expected": {
+    "v2": "불허",
+    "v1": "불허"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M1",
+    "got": "M1"
+   },
+   "slotDiff": [
+    "houseCount: undefined → 2"
+   ],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 10332,
+   "case": {
+    "module": "M1",
+    "houses": [
+     {
+      "label": "남편의 서울 아파트",
+      "region": "서울",
+      "isApt": true
+     },
+     {
+      "label": "아내의 대전 아파트",
+      "region": "대전",
+      "isApt": true
+     }
+    ],
+    "houseCount": 2,
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "불허",
+    "v1": "불허"
+   }
+  },
+  {
+   "id": "P17",
+   "of": "B04",
+   "question": "고객 보유 주택이 경기도 주거용 오피스텔이고 거주한 적 없이 임대를 줬답니다.",
+   "expected": {
+    "v2": "허용",
+    "v1": "허용"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M1",
+    "got": "M1"
+   },
+   "slotDiff": [
+    "houses[0].owner: undefined → \"self\"",
+    "houses[0].kind: undefined → \"officetel\"",
+    "everLived: false → undefined"
+   ],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 7445,
+   "case": {
+    "module": "M1",
+    "houses": [
+     {
+      "label": "경기도 주거용 오피스텔",
+      "region": "경기",
+      "isApt": false,
+      "owner": "self",
+      "kind": "officetel"
+     }
+    ],
+    "leasedOut": true,
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "허용",
+    "v1": "허용"
+   }
+  },
+  {
+   "id": "P18",
+   "of": "B07",
+   "question": "비거주 1주택 고객인데 지금 사는 전셋집 집주인이 보증금을 못 돌려준다고 해서 이사를 못 간대요.",
+   "expected": {
+    "v2": "조건부",
+    "v1": "조건부"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M1",
+    "got": "M1"
+   },
+   "slotDiff": [
+    "action: \"renewal\" → undefined",
+    "houseCount: undefined → 1"
+   ],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 6805,
+   "case": {
+    "module": "M1",
+    "houseCount": 1,
+    "exception": "deposit_unreturned",
+    "targetAsserted": true,
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "조건부",
+    "v1": "조건부"
+   }
+  },
+  {
+   "id": "P19",
+   "of": "B09",
+   "question": "다주택 고객 주담대가 12월 만기인데, 올해 2월에 은행에서 연장해 주겠다는 안내 문자를 받았대요.",
+   "expected": {
+    "v2": "조건부",
+    "v1": "조건부"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M2",
+    "got": "M2"
+   },
+   "slotDiff": [
+    "notifiedProof: undefined → \"record\"",
+    "approxDates[0]: undefined → \"2026-12-15\""
+   ],
+   "assumptions": [
+    "만기 12월 → 2026-12-15로 가정"
+   ],
+   "warnings": [],
+   "ms": 7063,
+   "case": {
+    "module": "M2",
+    "houseCount": 2,
+    "houseCountIsMinimum": true,
+    "maturityDate": "2026-12-15",
+    "notifiedBy0401": true,
+    "notifiedProof": "record",
+    "approxDates": [
+     "2026-12-15"
+    ],
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "조건부",
+    "v1": "조건부"
+   }
+  },
+  {
+   "id": "P20",
+   "of": "B10",
+   "question": "다주택자 고객 아파트 담보 생활안정자금 대출도 만기연장 제한돼요?",
+   "expected": {
+    "v2": "불허",
+    "v1": "불허"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M2",
+    "got": "M2"
+   },
+   "slotDiff": [],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 6727,
+   "case": {
+    "module": "M2",
+    "houseCount": 2,
+    "houseCountIsMinimum": true,
+    "loanPurpose": "living",
+    "collateral": {
+     "isApt": true
+    },
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "불허",
+    "v1": "불허"
+   }
+  },
+  {
+   "id": "P21",
+   "of": "B12",
+   "question": "다주택 고객 집 중 하나가 인천 옹진군에 있어요. 인구감소지역이라 주택 수에서 빠지죠?",
+   "expected": {
+    "v2": "역질문",
+    "v1": "역질문"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M2",
+    "got": "M2"
+   },
+   "slotDiff": [
+    "houses[0].sigungu: \"강화군\" → \"옹진군\""
+   ],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 7344,
+   "case": {
+    "module": "M2",
+    "houses": [
+     {
+      "label": "인천 옹진군 집",
+      "region": "인천",
+      "sigungu": "옹진군",
+      "claimsDepopulation": true
+     }
+    ],
+    "houseCount": 2,
+    "houseCountIsMinimum": true,
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "역질문",
+    "v1": "역질문"
+   }
+  },
+  {
+   "id": "P22",
+   "of": "C02",
+   "question": "다주택 고객이 집 하나 팔려고 가계약금만 받았는데 매도계약 예외로 쳐 주나요?",
+   "expected": {
+    "v2": "보류",
+    "v1": "보류"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M0",
+    "got": "M0"
+   },
+   "slotDiff": [],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 6828,
+   "case": {
+    "module": "M0",
+    "topic": "provisional_sale_contract",
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "보류",
+    "v1": "보류"
+   }
+  },
+  {
+   "id": "P23",
+   "of": "C04",
+   "question": "여러 채 가진 고객인데 주담대 연장 가능하죠?",
+   "expected": {
+    "v2": "역질문",
+    "v1": "역질문"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M2",
+    "got": "M2"
+   },
+   "slotDiff": [],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 6685,
+   "case": {
+    "module": "M2",
+    "houseCount": 2,
+    "houseCountIsMinimum": true,
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "역질문",
+    "v1": "역질문"
+   }
+  },
+  {
+   "id": "P24",
+   "of": "C05",
+   "question": "아파트 사서 입주하려다 곧바로 지방 발령을 받아 한 번도 못 들어갔대요. 예외로 인정되나요?",
+   "expected": {
+    "v2": "심사위",
+    "v1": "심사위"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M1",
+    "got": "M1"
+   },
+   "slotDiff": [
+    "houses[0].isApt: undefined → true",
+    "houses[0].owner: undefined → \"self\""
+   ],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 8042,
+   "case": {
+    "module": "M1",
+    "houses": [
+     {
+      "label": "아파트",
+      "isApt": true,
+      "owner": "self"
+     }
+    ],
+    "exception": "other_inevitable",
+    "targetAsserted": true,
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "심사위",
+    "v1": "심사위"
+   }
+  },
+  {
+   "id": "P25",
+   "of": "C06",
+   "question": "다른 은행은 해 준다는데 우리도 해 줘야 하는 거 아니에요?",
+   "expected": {
+    "v2": "보류",
+    "v1": "보류"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M0",
+    "got": "M0"
+   },
+   "slotDiff": [],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 7282,
+   "case": {
+    "module": "M0",
+    "topic": "other_bank_precedent",
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "보류",
+    "v1": "보류"
+   }
+  },
+  {
+   "id": "P26",
+   "of": "C07",
+   "question": "전세대출 만기가 2027년 1월 5일인데 올해 12월에 당겨서 연장하면 신규 규제 피할 수 있죠?",
+   "expected": {
+    "v2": "불허",
+    "v1": "보류"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M1",
+    "got": "M1"
+   },
+   "slotDiff": [
+    "avoidanceAsked: undefined → true",
+    "approxDates[0]: undefined → \"2026-12-15\""
+   ],
+   "assumptions": [
+    "올해 12월 조기 연장 예정일은 2026-12-15로 가정",
+    "보유 주택 사실관계 없이 적용 시점만 물어 비거주 1주택자 건으로 전제"
+   ],
+   "warnings": [],
+   "ms": 7678,
+   "case": {
+    "module": "M1",
+    "action": "renewal",
+    "maturityDate": "2027-01-05",
+    "plannedRenewalDate": "2026-12-15",
+    "targetAsserted": true,
+    "avoidanceAsked": true,
+    "approxDates": [
+     "2026-12-15"
+    ],
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "불허",
+    "v1": "보류"
+   }
+  },
+  {
+   "id": "P27",
+   "of": "C09",
+   "question": "청년 대상 새 보금자리론 금리 정해졌나요?",
+   "expected": {
+    "v2": "보류",
+    "v1": "보류"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M0",
+    "got": "M0"
+   },
+   "slotDiff": [],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 6969,
+   "case": {
+    "module": "M0",
+    "topic": "youth_mortgage_rate",
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "보류",
+    "v1": "보류"
+   }
+  },
+  {
+   "id": "P28",
+   "of": "C10",
+   "question": "우리 지점 관할 경기 △△시가 규제지역에서 해제됐는데 이제 비거주 1주택 규제 대상 아닌 거죠?",
+   "expected": {
+    "v2": "불허",
+    "v1": "불허"
+   },
+   "ok": {
+    "v2": true,
+    "v1": true,
+    "module": true
+   },
+   "module": {
+    "gold": "M0",
+    "got": "M0"
+   },
+   "slotDiff": [],
+   "assumptions": [],
+   "warnings": [],
+   "ms": 7673,
+   "case": {
+    "module": "M0",
+    "topic": "regulated_area_change",
+    "region": "경기",
+    "asOf": "2026-11-13"
+   },
+   "got": {
+    "v2": "불허",
+    "v1": "불허"
+   }
+  }
+ ]
+}

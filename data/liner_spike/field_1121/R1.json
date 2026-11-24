@@ -1,0 +1,636 @@
+{
+ "id": "R1",
+ "question": "2026년 8월 13일 금융위원회 「부동산 시장 안정을 위한 금융 종합대책」(비거주 1주택자 전세대출 제한, 2027.1.1 시행)과 2026.8.28 행정지도 「주택담보대출에 대한 리스크관리 기준」의 경과조치에서, 기존 전세대출을 대출금 증액을 위해 다른 대출로 갈아타는 '대환'은 만기연장으로 보나요, 신규 취급으로 보나요? 금융위원회·금융감독원·은행연합회·HUG(주택도시보증공사)·HF(한국주택금융공사)·SGI서울보증 등 공식 자료(보도자료, FAQ, 행정지도, 상품설명서, 보증규정, 질의회신, 금융규제·법령해석포털 회신사례)에서 근거 문장을 찾아 문서명·날짜와 함께 인용해 주세요. 보증기관별로 다르면 기관별로 나눠 주세요. 공식 근거가 없으면 '공식 근거 없음'이라고 분명히 답하고 추측하지 마세요.",
+ "agent": {
+  "text": "### 기관별 분석 (금융위원회/금융감독원)\n\n**분류: 공식 자료만으로는 ‘대출금 증액을 위한 대환’을 일률적으로 만기연장 또는 신규 취급으로 분류할 공식 근거 없음.**\n\n금융위원회 「주택 공급 촉진 및 청년 등 실수요자 금융지원 강화 방안」(2026년 8월 13일)은 전세대출 관리 강화를 포함하지만, 기존 전세대출을 대출금 증액을 위해 다른 대출로 갈아타는 대환의 법적·행정적 분류를 명시하지 않는다 ((1)).\n\n금융위원회 「금융위원회 주요정책문답: 전세대출 DSR 적용」(2025년 10월 15일)은 관련 감독규정의 주택담보대출 취급시점 등을 설명하지만, 2026년 8월 28일 행정지도상 증액 목적의 전세대출 대환이 만기연장인지 신규 취급인지에 관한 명시적 문장을 제공하지 않는다 ((2)).\n\n「주택담보대출에 대한 리스크관리 기준」 행정지도 변경 시행 자료는 2026년 8월 13일 대책 관련 행정지도와 시행 내용을 안내하지만, 제공된 공식 문장에는 증액 목적의 전세대출 대환 분류가 포함되어 있지 않다 ((22)) ((31)).\n\n따라서 금융위원회·금융감독원 자료에 관한 결론은 **공식 근거 없음**이다. 제공된 자료만으로는 해당 대환을 만기연장 또는 신규 취급으로 확정할 수 없다.\n\n\n### 기관별 분석 (은행연합회)\n\n**분류: 공식 근거 없음.**\n\n은행연합회 관련 검색 결과에는 [은행명] 보고서에서 기업대출의 “신규, (타과목)대환”을 부동산 담보대출 실행 유형으로 구분한 문장이 있으나, 이는 특정 은행의 기업대출 업무 기준에 관한 내용이며 전세대출 증액 목적 대환의 만기연장·신규 취급 여부를 판단하는 은행연합회 공통 기준으로 제시된 자료가 아니다 ((4)).\n\n따라서 은행연합회 차원의 **공식 근거 없음**이다.\n\n\n### 기관별 분석 (HUG)\n\n**분류: 대출금 증액이 없는 갱신은 갱신으로 취급되지만, 대출금 증액을 위한 대환을 ‘신규 취급’으로 분류한다는 명시적 공식 문장은 확인되지 않음.**\n\nHUG 「전세금안심대출보증」 자료는 “신규보증”이 대출금 증액 없이 갱신되는 경우 갱신보증 발급 시 임차인의 상환능력을 재심사하지 않으며, 대출금이 증액되는 경우에는 별도의 심사가 필요하다는 취지로 규정한다 ((47)).\n\n이 문장은 **대출금 증액 없는 갱신**과 **대출금 증액이 있는 경우**를 구분하지만, 기존 대출을 다른 대출로 갈아타는 대환 자체를 만기연장 또는 신규 취급이라고 명시하지는 않는다 ((47)).\n\n따라서 HUG 자료에 관한 결론은 다음과 같다.\n\n- 대출금 증액 없는 갱신: 갱신보증 절차로 취급된다는 공식 근거가 있음 ((47)).\n- 대출금 증액을 위한 대환: 만기연장인지 신규 취급인지에 관한 **공식 근거 없음**.\n- HUG의 증액 관련 보증 심사와 금융위원회 행정지도의 대환 분류는 제공된 자료만으로 동일하게 볼 수 없음.\n\n\n### 기관별 분석 (HF)\n\n**분류: 제공된 자료에서는 전세자금보증의 증액 목적 대환을 만기연장 또는 신규 취급으로 분류한 공식 근거 없음.**\n\n한국주택금융공사 「보증기한 도래 안내문」(2026년 4월 20일)은 전세자금보증 이용자의 보증기한 만기 도래를 안내하지만, 대출금 증액을 위한 대환의 취급 유형은 설명하지 않는다 ((14)).\n\n한국주택금융공사 관련 자료 중 “임차보증금의 증액이 있는 경우에는 신규취급 절차로 진행”한다는 문장이 확인되지만, 해당 자료의 제목은 「조건변경 | 전세보증금반환보증」으로 표시되어 있어 전세자금대출 대환에 대한 HF의 공식 분류 근거로 직접 적용할 수 없다 ((19)).\n\n따라서 HF 전세자금보증에 관한 결론은 **공식 근거 없음**이다. 특히 임차보증금 증액과 대출금 증액 목적의 대환은 제공된 자료에서 동일한 개념으로 규정되지 않는다.\n\n\n### 기관별 분석 (SGI서울보증)\n\n**분류: 공식 근거 없음.**\n\nSGI서울보증의 제공된 공식 자료는 선금보증보험 상품의 보증기간, 보험가입금액 및 보험료 등을 설명하며, 전세대출 대환의 만기연장·신규 취급 여부를 다루지 않는다 ((7)).\n\nSGI서울보증의 전자입찰·계약시스템 자료 역시 입찰공고와 용역계약 정보를 제공할 뿐, 전세대출 대환 또는 경과조치상 취급 유형에 관한 기준을 제시하지 않는다 ((15)).\n\n따라서 SGI서울보증에 대해서는 **공식 근거 없음**이다. 제공된 자료만으로는 대출금 증액 목적의 전세대출 대환을 만기연장 또는 신규 취급으로 분류할 수 없다.\n\n**중요한 고지**\n\n이 내용은 일반적인 정보 제공을 위한 것이며, 금융·법률·대출 심사에 관한 전문적인 조언을 대신하지 않습니다. 개인의 대출계약, 보증기관, 대환 구조 및 시행일 적용 여부에 관한 구체적인 판단은 자격을 갖춘 금융 또는 법률 전문가에게 상담하시기 바랍니다.",
+  "references": [
+   {
+    "title": "주택 공급 촉진 및 청년 등 실수요자 금융지원 강화 방안",
+    "url": "https://www.fsc.go.kr/no010101/87517",
+    "hostname": "fsc.go.kr",
+    "date": "2026-08-13",
+    "tier": 1
+   },
+   {
+    "title": "금융위원회 주요정책문답: 전세대출 DSR 적용",
+    "url": "https://www.fsc.go.kr/po020201/85518",
+    "hostname": "fsc.go.kr",
+    "date": "2025-10-15",
+    "tier": 1
+   },
+   {
+    "title": "금번 정정 증권신고서는 기재보완에 기재내용 추가/수정사항 ...",
+    "url": "https://englishdart.fss.or.kr/dsbh001/main.do?rcpNo=20260724000555",
+    "hostname": "englishdart.fss.or.kr",
+    "date": "2026-07-24",
+    "tier": 1
+   },
+   {
+    "title": "2025 SHINHAN Bank Report",
+    "url": "https://www.google.com/goto?url=CAESqwEBxCJF1_3JEl0as0KZu_cLJMdQ0tNPf_mOiUxFDCFjy7978GE8OdFXDqsx7HtKeBFIIed6eo56wfH-8_QHJJibjGMFiYwei7X0YCyMxYcqhY-5ZmYWNSVoNNUKI1G80JapRw06Hqpx1a7-rhVx5Bb1beGgachRMv0prStWDmiQgd65xup8yxRi4Qb6_hoH-NGMFpLipdNN5EfyET31tIx5Rg8_yARlKZRt_Vk&gsessionid=ztZNG2FAoE36iv0DhgQitradw6UytL73-lC7BqPuVV2vdXEWnlW1PQ",
+    "hostname": "google.com",
+    "date": "2026-05-31",
+    "tier": 3
+   },
+   {
+    "title": "든든전세주택 공지사항 < 든든전세주택 < 전세사기예방센터 < 주택도시보증공사",
+    "url": "https://www.khug.or.kr/jeonse/web/s07/s070301.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "한국주택금융공사",
+    "url": "https://hf.go.kr/",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "선금보증보험 | 일반계약/공사 | 상품 | SGI서울보증",
+    "url": "https://m.sgic.co.kr/biz/cmw/index.html?p=CMWPRD010301F01",
+    "hostname": "m.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "수도권 23만호+α 추가 공급 및 청년 등 실수요자 금융지원 강화",
+    "url": "https://www.fsc.go.kr/no010101/87517?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": "2026-08-13",
+    "tier": 1
+   },
+   {
+    "title": "26년도 가계부채 관리방안｣ 발표",
+    "url": "https://www.google.com/goto?url=CAESawHEIkXXTbhJUuuQCgCqjW8q23qj1A-UB4eLq6X2xW23EXdrAoHccAWbK1WD-RibrVKjnvhn9joqmW_7cTOLI8f6QlCKQsEkUtpJqo0SLdD-SCV7BDN97js6OkAPbFGLEd7uFuYPm_uoCMzq&gsessionid=U0GwQcLZ-iexBNeMto6mv81wE6Ii-Laza6xgONDni-r4a55Elz0mEw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "부동산 시장 안정을 위한 금융 종합대책",
+    "url": "https://www.google.com/goto?url=CAESkgEBxCJF1_YdGQg-VjyuQP9-OeowmcSFqDSXmL-ulf4-7uLM9EbyI-B2WvRo-WKUudYhoQjFkqUvDzmlG0bnHE3PDecvcolsanswLT8sUUIulHQAqoEL_DPrN1M8Dm34ygB6wD8ziPZ_cOe3FLO-06cgKUsnot39lq6KsxJiZTLLivQsL92wSkE6R-oNU82Y87I5lg&gsessionid=mgrI7lMiZpPD78KcyB3cVKK-3gKY8ZoPendEDBfbH8C1Mx0PVCW78g",
+    "hostname": "google.com",
+    "date": "2026-08-13",
+    "tier": 3
+   },
+   {
+    "title": "Registration Statement (Equity securities)",
+    "url": "https://www.google.com/goto?url=CAESfwHEIkXXybL_wtgSu0wqxfoOqX_IJJH3BhR1g1lTChR8OujTj8NBB5b_ElrWM2G1HH2v-_ZnaJJNRKC3Z7bFzjQ7rcACVf3o0ErnGJT-0Ezikamq2lR-Asw5rgxzq-1zbudVGgBhuPDnK4dVEJnM_4fQFEEF8BGWfPzS34wqbhg&gsessionid=qHemaf8vwuSEA9y-Y018yrwmytOs0ywUasa1Quzu1yC7GQ9u8tQWKw",
+    "hostname": "google.com",
+    "date": "2026-04-17",
+    "tier": 3
+   },
+   {
+    "title": "[은행명] 현황",
+    "url": "https://m.kfb.or.kr/include/download.php?enc_para=w/3R3JQTb9K*ynL3oHXYHkBYiOxXeBeCyxt5cWxvESztUtIS//La*2rOgWI=",
+    "hostname": "m.kfb.or.kr",
+    "date": "2026-09-29",
+    "tier": 2
+   },
+   {
+    "title": "주택도시보증공사 < 공지사항 < 공지사항 < 고객지원센터 <  주택도시보증공사",
+    "url": "http://m.khug.or.kr/hug/web/cs/no/csno000002.jsp?id=16&searchCategoryId=tab_category&searchCategoryValue=cw00000041&currentPage=6",
+    "hostname": "m.khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보증기한 도래 안내문 - 부가 고지사항 | 국민참여",
+    "url": "https://hf.go.kr/ko/sub04/sub04_08.do?mode=view&articleNo=599981",
+    "hostname": "hf.go.kr",
+    "date": "2026-04-20",
+    "tier": 1
+   },
+   {
+    "title": "전자입찰/계약시스템",
+    "url": "https://ebid.sgic.co.kr",
+    "hostname": "ebid.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "카드뉴스 - 홍보자료 - 알림마당",
+    "url": "https://www.fsc.go.kr/no040000?cnId=3374",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "Sheet1 - 금융규제·법령해석포털",
+    "url": "https://www.google.com/goto?url=CAESgQEBxCJF18gRrNbS5klvBsSAlrrOrLe-jsCRe2hrNPl3iD1y-MIC6gFrlhSBV1Yg3swOFKk3Hd-YjBoWpAIi8gSy3fYJ13xbAy7g2ZLglpC7a9NRv9tHPBvIk03aQE6ihqFppyn8OgZfU0Hq3EyoDm58n9mjM0I7uT4trsgsADeAdkE&gsessionid=mgrI7lMiZpPD78KcyB3cVKK-3gKY8ZoPendEDBfbH8C1Mx0PVCW78g",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "ä < ä < Ұ < õú",
+    "url": "https://www.khug.or.kr/hug/web/ci/re/cire000051.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "조건변경 | 전세보증금반환보증",
+    "url": "https://www.google.com/goto?url=CAESaAHEIkXXXwaPnqdsBmUtzftGwMdTDBLoorNgyUdXpjHI_R3pbMvUQpN_EGIFXLt5Bbw3IzADWgjUUFaRlPnkYxbiCwOnp7UybfS6gS6ihzndSChq_itvN-viOiTaHe3D7uw-RPEoB3jK&gsessionid=YZRh2V_j-TvQobPO-lIgMXGJ5VZl1dm5kMUhahzO3qVbgjnTyqNZIg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "SGI서울보증",
+    "url": "https://www.sgic.co.kr?p=CMWPRD050101F01",
+    "hostname": "sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "2026년 8·13 부동산 대책 싹정리⭐청년 LTV 80%? 대출조건 ...",
+    "url": "https://blog.naver.com/sangmi70/224380388578",
+    "hostname": "blog.naver.com",
+    "date": "2026-08-16",
+    "tier": 3
+   },
+   {
+    "title": "주택담보대출에 대한 리스크 관리 기준",
+    "url": "https://www.google.com/goto?url=CAESkwMBxCJF13czLGoCXuLypx3ooOQ8hGsuFCEwA8WKXHEc7U68BeSlzyCaJBOTbIToc-eOElabPYPtZc2dYH-l3a0Iv8chEVzBXQhwJejxHYjtga5RpvPRcLD3Yxc7mKJQaFgBUlNLbj1rnBX-4pXzReTZEFtoZfOSE1DaclISIV4Z7YlZwPao8cprfzp5in4j3dUmMbCoADsu5XpPiE28USsmbdjNLV2hGBsXIOe-6HmJFkYhQ3fVC7fP7XqTq_7Aqb_ZhTgUbq8kUj-j1gWRhYE-hL0Y1gF2hCA-eVorylbGkiNXql5zvu4ok8chhMPZOe-9qC1XTve_Rl_ZuOrDY9FP1cVI9cLDyiXPSvlQnmPS5oZszjrxzbmTZQTCzIXtO_WRjLfrFys27lWAsJCH4bmbGhQ1f0KYcSrcbVwlVsmgzInkcjIfWmvvAxMGrA264WicbkuJXGEDP5TaE8Dj5JeWo2hOwa5VHUM7WkVwqTxvN_i56cXaxhUYVpMFUtiC7kVmYtZ959YbOFHRDHXGOtHZSBj8&gsessionid=U0GwQcLZ-iexBNeMto6mv81wE6Ii-Laza6xgONDni-r4a55Elz0mEw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "은행업감독규정",
+    "url": "https://www.google.com/goto?url=CAESkgEBxCJF1zX-FUKklYb0cToMVHaschWGlq_Cti3h-Bx9rmFkDV9LXjfOt-rzQ8svB25vF793_ewqv54kndUTJIkJU3FB8R8Twtj-iNIRWX8mqeyH5nu5HOGcTruKgJv08E-OOH-pwnnRlrKBHDMzTB6weF0CFSf4vgwu-I0EyWkvt5EZgmKBpFnCL7VeFc98VYYJDw&gsessionid=mgrI7lMiZpPD78KcyB3cVKK-3gKY8ZoPendEDBfbH8C1Mx0PVCW78g",
+    "hostname": "google.com",
+    "date": "2024-01-18",
+    "tier": 3
+   },
+   {
+    "title": "  <  < ⿹漾 < õú",
+    "url": "https://m.khug.or.kr/jeonse/web/s07/s070301.jsp?id=1295&mode=L&currentPage=1",
+    "hostname": "m.khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보금자리론 업무처리기준",
+    "url": "https://www.google.com/goto?url=CAESpAEBxCJF11Y-9VTOz4pz9dMp2Uel1Eps_i6MPzIIflUDB5mUYJpk0ymLbCnV2IUTs4odqsxKKVG-sTxvLQHiUBLxztJ1aUiLYiJLNNir4OM6OuWCJehxDxsnSM-wUUeAFz4Zpcw9bHP5gQueoUZ67ivegOl5oCx-lwork1EIOzoMDBrR7fKutpcZy5Wz9SPJpV1L0-fmGvWKYbnsQftDEe1gFbXeOA&gsessionid=YZRh2V_j-TvQobPO-lIgMXGJ5VZl1dm5kMUhahzO3qVbgjnTyqNZIg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "[8·13대책] 이억원 \"주택공급·실수요에 금융 더 역할…투기는 ...",
+    "url": "https://www.google.com/goto?url=CAESbAHEIkXXqlAYUdo2zJQ8mSW3bm7fGs4EVDzMI7DEH-MSEF02oZKJxSetEA3Ke6fOTAxFj6ltb3laumUtnwUjrgQe9VrlC7-akFaTd1Mz91qcUUv5JWzS7T8TEwehVz9NcbYQMLgOE3XrUC-SlQ&gsessionid=QZWgiNYfNcHIvP3UA4D2iuYJM1KUxR6gFRbxAkTqhImtlRONS_XiYw",
+    "hostname": "google.com",
+    "date": "2026-08-13",
+    "tier": 3
+   },
+   {
+    "title": "[부동산 시장 안정을 위한 금융 종합대책 2] 일관된 수요 관리 ...",
+    "url": "https://www.google.com/goto?url=CAESaAHEIkXXlXKgVrzlBZgXH0upDvKGDXxJb-5LcpTiPEY7Ta19-aLXTnhq-OToSrbRLC049xBkBiPo3Tj3gUpyKZjNYZ6N4J4yrFrg7L0jdO5gI6E-ft08Gs7FVLo1BDNfpCaENpXqXHU1&gsessionid=U0GwQcLZ-iexBNeMto6mv81wE6Ii-Laza6xgONDni-r4a55Elz0mEw",
+    "hostname": "google.com",
+    "date": "2026-08-13",
+    "tier": 3
+   },
+   {
+    "title": "금융위원회",
+    "url": "https://www.fsc.go.kr/",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주택연금이란",
+    "url": "https://www.google.com/goto?url=CAESawHEIkXXV4CO_5o46HpfjdVePLicKyZnQhezO-_bl2_uuCmasnbmr73q_2jq5A1o2p7p2rpxJWaZkCjeRv6OoMKAIPRH_aR3FVJtG7KxqdUS7cJOkYZNSR_yO1jjapqtpKndPSO6ZinOOjZH&gsessionid=YZRh2V_j-TvQobPO-lIgMXGJ5VZl1dm5kMUhahzO3qVbgjnTyqNZIg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "국정성과 - 정책자료",
+    "url": "https://www.google.com/goto?url=CAESXwHEIkXXHJ889FrvE-MntXAU_pgwsEFrThtR2j5Sjrq0bVOP67saloypASzbn4IiAQxCYmRJL-DZAjT2fx0kA3b07G95rN5brA0wC-3-eM_dUvtaznWQmWGZBBCOd8kB&gsessionid=QZWgiNYfNcHIvP3UA4D2iuYJM1KUxR6gFRbxAkTqhImtlRONS_XiYw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "「주택담보대출에 대한 리스크관리 기준」 행정지도 변경 시행",
+    "url": "https://www.google.com/goto?url=CAESmgEBxCJF170_xyY009Er9ezctMbcoTnOBGUfIwg3Glv8rXd44o013NaESelY2DDQNR6x_D7Z4vDOvK8t2SSj2CzT4G4OaSI_y80EukHNxKhKE-DcS7FX2wK3hG1tv7oBUGDkQuGnHilExvPNgtsTZkt-NfeZVDtjzY7kQYVvm4ZULMD_l_yGlN9Ua1E7Ls069ln4TgmLspkvnLW5&gsessionid=U0GwQcLZ-iexBNeMto6mv81wE6Ii-Laza6xgONDni-r4a55Elz0mEw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "보험업감독규정",
+    "url": "https://www.google.com/goto?url=CAESkgEBxCJF1wlJKu9zM76sjjSG7vEA24rJUMy0PfjAy1bRVe60OYvDHEOQfHmopraCjuCENPGyDDGEy3n1EMiGLWOoddu-F8fav0eaJvKDe-KAATwe_zXmpY8MQgy9ATqlgtmEb0IgPUiMQTI1U371EyNCcbTjDFBiwf1M48gX1QmGxTrAtCiXuI2VbGZUimqGiqKGQQ&gsessionid=mgrI7lMiZpPD78KcyB3cVKK-3gKY8ZoPendEDBfbH8C1Mx0PVCW78g",
+    "hostname": "google.com",
+    "date": "2023-06-27",
+    "tier": 3
+   },
+   {
+    "title": "내집마련 디딤돌 대출 업무처리기준",
+    "url": "https://www.google.com/goto?url=CAESsQEBxCJF17D0wNugCrq1jE2hEDo3rPN48lxcd64lJq-DGtVLLJjF1eGO1AMJeXQap0yh1q7qH4hNKNoUNdhuTNQtSecBklhst2OPAXQ1fIPmVmya_1knl0V3sJM9vWsLlrIzihIuSNZ-l3i3TeHzQqZ5jl5sV9K9nMDhNPghTwUM5P3den_7byvI3n_1qx2kodD11vh8uEQoObP61kUXa4IPicG56Io2ecPvQwZ9EhFTVw4&gsessionid=YZRh2V_j-TvQobPO-lIgMXGJ5VZl1dm5kMUhahzO3qVbgjnTyqNZIg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "부동산 시장과 금융의 절연을 위한 - ｢'26년도 가계부채 관리 ...",
+    "url": "https://www.google.com/goto?url=CAESogEBxCJF13SpO6momYM_c83X7XPlU96E6xM_FDr0UWyb43hWbM_LXC7qHq4AzBjVVUgPc4myq-d51E2eha5A-oQD0CImTMLq3O00KkoBeGxWlBjhthmlx7120i0jGA0rXH2myn7O4u9xPHWCwSnWGAC3yipdqZbwCCIpgxnwsbfaVEQDOPvfYhtOYa-3CyKSMqePAmTdPe_6wcqb6AaqmPO7bpg&gsessionid=QZWgiNYfNcHIvP3UA4D2iuYJM1KUxR6gFRbxAkTqhImtlRONS_XiYw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "[정기수요강좌] 2026년 제8차_8.13 부동산 대책/정부 대출 ...",
+    "url": "https://www.google.com/goto?url=CAESfAHEIkXXIaLrrx0BPmYMaI4zzAOlDE-XKjC-11HYwf6JmvcFQQ_7D7320nh3SAbFNPh5iMLkEGA-ARYzqnX6PRKZ6hEW6b_nPKzJSIpJf_1TMgCJJySFmm1mllw3B3-Nmtdn20XEtylTGM9E8wJIzugzgJXHl_LIWAdoI5M&gsessionid=U0GwQcLZ-iexBNeMto6mv81wE6Ii-Laza6xgONDni-r4a55Elz0mEw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "ΰƮ о ݵ |  | HUG    | HOUSTA ",
+    "url": "https://www.khug.or.kr/houstar/web/p01/03/p010301.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보금자리론 설명서",
+    "url": "https://www.google.com/goto?url=CAESmwEBxCJF11ddsIYEzrccrWFx76fh9X4fVbjqTPi89ODJXUGF7WmB8QjHxxtD-cM9HXxJLhFPELV6oiAuxTgOFCnVqRRjnI_k9hG4MTyoNrbCxx4Afx0FS0WnVW8p_MWsj98YSGAycOUFnDcXBoWtDmlPOAxIWR5t9TD-YSU_bmaB00gEAW-DKsFEX1bf6sPJW1SjWpjqjK_QKA2D9g&gsessionid=YZRh2V_j-TvQobPO-lIgMXGJ5VZl1dm5kMUhahzO3qVbgjnTyqNZIg",
+    "hostname": "google.com",
+    "date": "2026-05-14",
+    "tier": 3
+   },
+   {
+    "title": "2026년 8·13 부동산 금융 종합대책 총정리｜집을 사려는 ...",
+    "url": "https://www.google.com/goto?url=CAEShAEBxCJF161tq6V81w4FA2s2QXMenybyL8Mc8b6c95VagbaqBqztmH2HIj3U7JMrj5h4MT8wGOqQYUYpOOjXmj6BIutodPyqZUaN_PwyJZkEM8cx0xqXB9QutODdsRVCGBw5G8lq86YtH56bvqU0RX3BmLVWpGFhqZy5KiBpkMq-XKkYFLw&gsessionid=QZWgiNYfNcHIvP3UA4D2iuYJM1KUxR6gFRbxAkTqhImtlRONS_XiYw",
+    "hostname": "google.com",
+    "date": "2026-08-16",
+    "tier": 3
+   },
+   {
+    "title": "  ? <  ü _ǻ <    < ⿹漾 < õú",
+    "url": "https://www.khug.or.kr/jeonse/web/s03/s030101.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "8•13 부동산 대책 발표",
+    "url": "https://www.google.com/goto?url=CAESXwHEIkXXOHMSt2fUAQukYZqaCEWK3Nevl8C6pTy7-s5UJoXtRyMvpVO8Afz0dNSz6RMSTBExpcgytBaLun_y4Vju2sEC0GTDNGEXjtt1BIWUXSLhlx-Bgu2JHuBfU31m&gsessionid=QZWgiNYfNcHIvP3UA4D2iuYJM1KUxR6gFRbxAkTqhImtlRONS_XiYw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "New Real Estate Measures and Loan Regulations ...",
+    "url": "https://www.google.com/goto?url=CAESaAHEIkXXYOjPgECtgvC-PfjUwIEb-Y0KNrTTJ5_mzed7ZUwMhvlfGYeofTaREQQzNJjxN5SXqPp_l020dPT6U_Ih0Vdm6U3vXM2fY8K5Ahy8zckO6tcF7Sy-BrR9GxQqPH-OyzlHRzRP&gsessionid=U0GwQcLZ-iexBNeMto6mv81wE6Ii-Laza6xgONDni-r4a55Elz0mEw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "õú <  <  <  < õú",
+    "url": "https://m.khug.or.kr/hug/web/cs/no/csno000002.jsp?id=16&searchCategoryId=tab_category&searchCategoryValue=cw00000041&currentPage=6",
+    "hostname": "m.khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "내집마련 디딤돌 대출 상품설명서",
+    "url": "https://www.google.com/goto?url=CAESlwEBxCJF10zqgkRXsd0O-WbKMzxjlYABIaJXP_lcwO7fNQXhdrIshZ_FWI9d5VUBa-BWErN39dwfvqo9YrsHWf0kzhsgDtqiMQcfquRI5kq0lw4yTwwfscJJMO5qqZ0-7jY47miW4S0eoPztj7p9aTzLVdsl94xKKW-8F2hYUpN0NmaH4x33Q9GBSYUgP-kmMa6fJrS0C_tf&gsessionid=YZRh2V_j-TvQobPO-lIgMXGJ5VZl1dm5kMUhahzO3qVbgjnTyqNZIg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "Ǹ < ESG濵 < õú",
+    "url": "http://khug.or.kr/hug/web/cs/go/csgo000031.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "[그래픽] 8·13대책 부동산 대출 규제 주요 내용",
+    "url": "https://www.google.com/goto?url=CAESbAHEIkXXtdrp6pCZLO2C_uSkWsbQqFEDXDwFadW5bptAS_lLhW3TFG9TrqeeSOLcIcSLcQRac7yMnTVX2sDgZGsTPeEB2o6GU6U9TgAvYrwZn_kVfquFPjwUEliyFCyPmZRI3qfmY4uWoLN6LQ&gsessionid=QZWgiNYfNcHIvP3UA4D2iuYJM1KUxR6gFRbxAkTqhImtlRONS_XiYw",
+    "hostname": "google.com",
+    "date": "2026-08-13",
+    "tier": 3
+   },
+   {
+    "title": "[자료] 부동산 시장 안정을 위한 금융 종합대책 발표 : 2026. 8. ...",
+    "url": "https://www.google.com/goto?url=CAEShQEBxCJF18ppMyZBiPg-8JGSv3ohs02jlMO_NyHql5bXX9V_Y8RrRsRG4YQzgf73QtkWwnk7QOM7CXSXpB3D3hm-kaZXgEbYPz7cU3Qt47_EmvfHKE-OjqJXLtdqO9coEaHKs00WXJZm1usfPRT_Lubd2FqoPrPE2cg_GWN16D-aJOrEa1cb&gsessionid=U0GwQcLZ-iexBNeMto6mv81wE6Ii-Laza6xgONDni-r4a55Elz0mEw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "HUG 주택도시보증공사 - 전세금안심대출보증",
+    "url": "https://www.khug.or.kr/khmb/m/hg/gg/relax/relaxsub3.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "5대 금융지주 포용금융 점검 회의 개요",
+    "url": "https://www.google.com/goto?url=CAESkgEBxCJF1-Qwx_r5NdL-xLbTKa-WIr8qd2p7O4qDqubBG-ihFw9rGNliuWiPDGfEndwfMtx6ZiRxDDOlFiBEmmyVlFNQ4rItBgfBryT3TOygj_OKG-pRao5KXhBTeDvHYAZUVkCJBRBqVujjrELK0qX4nLM5ZJJ_N87KuPToEG74NTyKdjdcf82-0nyF2MGknOvYRA&gsessionid=emOqC0VGWw0dEphTfMYBBEW1E8LzdUSvUcsnn_UiEucQ6DY1RApBOw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "대출수요 관리 방안 FAQ",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=85518&fileTy=ATTACH&fileNo=1",
+    "hostname": "fsc.go.kr",
+    "date": "2025-10-29",
+    "tier": 1
+   },
+   {
+    "title": "주택금융 리서치",
+    "url": "https://researcher.hf.go.kr/researcher/sub04/sub04.do?mode=download&articleNo=591967&attachNo=90676",
+    "hostname": "researcher.hf.go.kr",
+    "date": "2023-09-30",
+    "tier": 1
+   },
+   {
+    "title": "전세피해지원 상담 사례집",
+    "url": "https://www.google.com/goto?url=CAESgwEBxCJF14UpiSPbBM7ZEWA80kQF8qFwwU1FxOmALSY4lrYzTCiCcOfvFq6k_c-75Pb8Z6rs_SaXl9Mo6DoMn6sGUKwtGTuU1nHFd2li_crl1oeJdQUtP4PQJyy8N-83r4IQCvx2_8kRoSg5-Vzg3eSXIhMUo2zDV0BuU6jyCBgT4a5Gmw&gsessionid=CEUK0GWnewIGCTen6YUmpeHbAwEsE8531Gi3oyynPA3XcCH3eXDUtw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "가계부채 관리 강화방안",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=76750&fileTy=ATTACH&fileNo=2",
+    "hostname": "fsc.go.kr",
+    "date": "2021-10-26",
+    "tier": 1
+   },
+   {
+    "title": "지급유형별 주택연금 공급현황 - 주택금융통계시스템",
+    "url": "https://houstat.hf.go.kr/research/portal/stat/easyStatPage/T183483126713191.do",
+    "hostname": "houstat.hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "HUG 주택도시보증공사 - 주택전세자금대출",
+    "url": "https://www.google.com/goto?url=CAEScgHEIkXXNEfj73q_1SQOwNKWbqAGVV10ldyK_EFB3yMVKooQHwI1CKCjx4ZrU72NMisS9u9px00i1xUTqB-YZDmmDkka4hfZ_LO32vembbIeph6AV1By1yM8-WL7zXZXjJ3_vqt0UQQ8wSJqjITA0_-yDQ&gsessionid=CEUK0GWnewIGCTen6YUmpeHbAwEsE8531Gi3oyynPA3XcCH3eXDUtw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "Untitled - 주택금융연구원",
+    "url": "https://www.google.com/goto?url=CAESoAEBxCJF13q4i7boYEWYyCGDYNG4SJ38R_j1MiEfoHM_AalcQe782R8xC2Gr-jNHy9F1Aiwduc5cIEvKWRtCXcvGZLahvsVuBik4on6SKakVdJhoBfMtpjDE29TJhUzrHOHjxtXui90KmMzjUglzFpy2O_h8rjvw_2rSA9leSyLdXibfYp4tE9NYfiWD-1YeUHJ7qT6nuG5GrYEeCVvP0nKm&gsessionid=IrDOAFb8V5MfnYG3x84d4AXy4D92GmKbYgzVWPyAQ0wPxJRYKAwwaw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "본 지 점 사 용 자 사용 일자 집행 목적 집행 대상 인원수 가맹점명 ...",
+    "url": "https://www.google.com/goto?url=CAEShAEBxCJF19czgT7A6Eh6Jb4JdqX13JimHiBVsnn8L3ymHmKJr4lS6k1IIKAuRQyfuErckExiYoyNPA3yKdMRzYB-BTj2XaIa2HMOJzDdRIkDhALigm_mXlKfixQ1xeFu1O4T6bfie1Rx5z_iVGFY0zq-ytX1CyHgpghKZv711Wd9-JcP6Us&gsessionid=CEUK0GWnewIGCTen6YUmpeHbAwEsE8531Gi3oyynPA3XcCH3eXDUtw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "가계부채 관리 강화방안 주요 Q&A",
+    "url": "https://www.google.com/goto?url=CAESoAEBxCJF12ot2Twvlv1zSIOtjrmA5R8XRZClhMCUbsNLBCDOyxwbx1JTFZSwLVRxKLoGTRTc23s0qYAHOCdeP9ZrLkBT1XmeCC9QDWZy9d4v5iEKAwD-7chqCh20MwvLLsv4V7C2iLsa-v5Gp4w7RaLH8rjGYXwc7LcAQBBJLyj--30CDqXm6_vNTEyNE6_NR7-8qxuJBS-XWfLGekDwg55z&gsessionid=yMuPs_aP3bv1gtOFHE3WvNOamL1J3ajwL2SEAqI0ZzdYHFNW2iS8jw",
+    "hostname": "google.com",
+    "date": "2021-10-26",
+    "tier": 3
+   },
+   {
+    "title": "주택연금 재원조달 다양화 방안 연구",
+    "url": "https://www.google.com/goto?url=CAESogEBxCJF16cQYyuK3OEkbdEK-ufVQpYtQZi1tuhPKSxYn53JKxSJgsWw8ZhLUo7R15XmOvrJGEU_6CJ8XAK0y_b0PXDDSCxrZd-zeIj8u7XBJR8m8J5OkCkpT1HQDvl2XYHklUgEiEty1YAYJZYFVpvkr6Z3FNjuD78EmVvjDagduDFo37eaZ1EEsK4wMJyBz1ThKxfgb6aEcUk8SAUmNvP2ivM&gsessionid=IrDOAFb8V5MfnYG3x84d4AXy4D92GmKbYgzVWPyAQ0wPxJRYKAwwaw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "연차보고서 - 주택금융연구원",
+    "url": "https://www.google.com/goto?url=CAESnwEBxCJF11DnFDHel082pZ6cj4CZz8nBwpxNo_PU-h64OSADM0zs1tmYGFiWgGm00ByfSe459nVWNr7qi42mJqW71OfYWrk4GTZNFrBbDA_T4QGo0zbbCPK9MaLSQTLczVvKqTRIznLIjrmfeCkS1Qi9JT63OYzBun26bwX0OD7a5oKlSib2BzPG8Q8yuYGUzjI02byU-qyNhzBtG8Xb7JU&gsessionid=IrDOAFb8V5MfnYG3x84d4AXy4D92GmKbYgzVWPyAQ0wPxJRYKAwwaw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "금융회사 여신심사 선진화 방안",
+    "url": "https://www.google.com/goto?url=CAESkgEBxCJF1-EvxFCQgO8AtMzOHYJ-Upp3fty4CWlyzQfWPNAO6tqYrPrb-GkF4E66LHMjtpDcMY3_6kQ4SPV60AxnscSCXngdGVXH-Jo-BKM7fuCiI0Sz6CgVYgZkDsR7RGM4_BS_tvm833IjftFiyprDqOcnlUZsOrUp78wPlXgUd0iH5exQFLjgOdB8VUFafuqhPQ&gsessionid=yMuPs_aP3bv1gtOFHE3WvNOamL1J3ajwL2SEAqI0ZzdYHFNW2iS8jw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "상세화면 - 자본시장정책 - 정책일반 - 정책마당",
+    "url": "https://www.google.com/goto?url=CAESYQHEIkXXdSKPFjnFEnTySrh2-pg5lY5j7PyAyrtHpe9q39XIzzSyxkb0Wrdq2_d7Xi15KB4ptQaA4L8LrMl0jTbd-Z_2zHjKOAF9HswvtlWDcpPM6KiFU_-0sA3-Nrl7gp8&gsessionid=yMuPs_aP3bv1gtOFHE3WvNOamL1J3ajwL2SEAqI0ZzdYHFNW2iS8jw",
+    "hostname": "google.com",
+    "date": "2017-11-27",
+    "tier": 3
+   },
+   {
+    "title": "1",
+    "url": "https://www.google.com/goto?url=CAESkgEBxCJF14eFJEUoQR04s16jLGRokArKY1I21dgnItsl-AdaqYugAMMakQPocD_TIOeVOvXnpgwDiOJ-5dTBT-JfYEdZUfyBxokOV4jtOTf3zJNm8B41cfq7VXHY7j8rZXayZAqamQpLIqtxU13I4EZIoBQ0GcBa2BMFctRsY_iVvpf4yg_qnA8UefoHqm0YomQ6fg&gsessionid=yMuPs_aP3bv1gtOFHE3WvNOamL1J3ajwL2SEAqI0ZzdYHFNW2iS8jw",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   }
+  ],
+  "requestId": "381e7f09-f024-432a-83e5-659b2f48142a"
+ },
+ "searches": [
+  {
+   "query": "전세대출 대환 신규취급 만기연장 구분 행정지도",
+   "results": [
+    {
+     "title": "부동산 시장 안정을 위한 금융 종합대책",
+     "url": "https://www.korea.kr/common/download.do?fileId=145789185",
+     "hostname": "korea.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=korea.kr&sz=128",
+     "description": "전세대출 신규취급·만기연장을 원칙적으로 금지 하고, 계약이 종료되지 않아",
+     "date": "2026-08-13",
+     "tier": 1
+    },
+    {
+     "title": "금융위원회 주요정책문답: 전세대출 DSR 적용",
+     "url": "https://www.fsc.go.kr/po020201/85518",
+     "hostname": "fsc.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=fsc.go.kr&sz=128",
+     "description": "□旣 실행된 대출의 증액없는 만기 연장 및 자행대환시에는 DSR을 신규로 심사하지 않음. □또한 규제시행일(10.16일) 이후 대출을 신규취급하면서 DSR을 ...",
+     "date": "2025-10-15",
+     "tier": 1
+    },
+    {
+     "title": "https://eiec.kdi.re.kr/policy/callDownload.do?num=...",
+     "url": "https://eiec.kdi.re.kr/policy/callDownload.do?num=120257&filenum=1",
+     "hostname": "eiec.kdi.re.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=eiec.kdi.re.kr&sz=128",
+     "description": "대출의 만기연장․재약정․대환시에도 ・ 행정지도 등을 통해 근저당권 설정과 ・ 차이에 대한 고객 설명의무('07년 행정지도) 개정법 시행 전에 설정된 ・ 소비자 피해 발생",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "전세대출 갈아타기 조건 궁금하다면? 갱신 시기별 한도, 기간 알아보기",
+     "url": "https://kbthink.com/loan-guide/jeonse-loan-transfer.html",
+     "hostname": "kbthink.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=kbthink.com&sz=128",
+     "description": "갈아타기 가능 기간, 대출취급일 3개월 경과 ~ 임대차계약 만기가 6개월이상 남았을 때 (대출실행일 기준) ; 대출한도*, 기존 대출 잔액과 원단위까지 ...",
+     "date": "2026-01-12",
+     "tier": 3
+    },
+    {
+     "title": "대출금액을 늘리지 않고 그대로 갈아타도 DSR을 다시 심사하나요?",
+     "url": "https://www.bank-mall.co.kr/customer/qna/1309",
+     "hostname": "bank-mall.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=bank-mall.co.kr&sz=128",
+     "description": "DSR 신규 심사 제외 ・ 없는 대환과 구분 DSR은 연소득 ・ 40%, 보험사 등 제2금융권 50% 이내를 기준으로 봅니다. 정책대출 등 별도 기준을 쓰는 상품은 ...",
+     "date": "2026-10-12",
+     "tier": 3
+    },
+    {
+     "title": "대출조건·만기연장·원금상환 관련 소비자 유의사항 [WM 금융소비자]",
+     "url": "http://www.wealthm.co.kr/news/articleView.html?idxno=11288",
+     "hostname": "wealthm.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=wealthm.co.kr&sz=128",
+     "description": "다만, 기존 대출금액의 증액 이외에 대출을 기한 연장하는 경우와 금리 또는 만기 건만 변경되는 재약정‧대환 등은 신규 대출로 보지 않는다. 그래픽= ...",
+     "date": "2024-05-13",
+     "tier": 3
+    },
+    {
+     "title": "주택관련 담보대출 등에 대한 리스크관리 세부기준",
+     "url": "https://www.law.go.kr/LSW/flDownload.do?flNm=%5B%EB%B3%84%ED%91%9C+18%5D+%EC%A3%BC%ED%83%9D%EA%B4%80%EB%A0%A8+%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C+%EB%93%B1%EC%97%90+%EB%8C%80%ED%95%9C+%EB%A6%AC%EC%8A%A4%ED%81%AC%EA%B4%80%EB%A6%AC+%EC%84%B8%EB%B6%80%EA%B8%B0%EC%A4%80&flSeq=134395615",
+     "hostname": "law.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=law.go.kr&sz=128",
+     "description": "주택 등 부동산을 담보로 … 산정한 담보인정비율은 최대 85% 이내로 한다. 담 보물권 취득 시점 기준으로 이를 산정한다. 취급 및 만기연장 제한",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "총부채원리금상환비율 - 부동산위키",
+     "url": "https://xn--989a00af8jnslv3dba.com/wiki/%EC%B4%9D%EB%B6%80%EC%B1%84%EC%9B%90%EB%A6%AC%EA%B8%88%EC%83%81%ED%99%98%EB%B9%84%EC%9C%A8",
+     "hostname": "xn--989a00af8jnslv3dba.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=xn--989a00af8jnslv3dba.com&sz=128",
+     "description": "대출 증액: 기존 대출을 연장하면서 증액하는 경우 신규대출로 취급하여 규제 적용; 경과조치: 2025년 10월 28일까지 최초 임대차계약을 체결한 경우 종전 기준 적용.",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "한국주택금융공사",
+     "url": "https://hf.go.kr/",
+     "hostname": "hf.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=hf.go.kr&sz=128",
+     "description": "전체메뉴 ; 월세자금보증; 청년전세(특례); 전세지킴보증 ; 생애최초 보금자리론; 디딤돌대출; 적격대출 ; 신탁방식 주택연금; 우대형 주택연금; 주택담보대출 상환용 주택 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "가계부채 관리방안",
+     "url": "https://www.fsc.go.kr/no010101/72304",
+     "hostname": "fsc.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=fsc.go.kr&sz=128",
+     "description": "1.개요 정부는 최근 빠르게 증가하고 있는 가계부채를 안정적으로 관리해 나가기 위한 「가계부채 관리방안」 발표(8.25일) · 2.이번 대책의 특징 · 3.주요 ...",
+     "date": "2016-08-25",
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "query": "전세자금대출 증액 대환 경과조치 종전 규정",
+   "results": [
+    {
+     "title": "주요정책문답",
+     "url": "https://www.fsc.go.kr/po020201/85518?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+     "hostname": "fsc.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=fsc.go.kr&sz=128",
+     "description": "금번 조치로 상향된 스트레스 금리(3%)가 소급 적용되지 않음 5. 전세대출 DSR 적용 5-1. 전세대출 DSR 적용대상은? □ 1주택자가 보유한 주택 소재지에 ...",
+     "date": "2025-10-15",
+     "tier": 1
+    },
+    {
+     "title": "[FAQ] 대출수요 관리 방안 자주 묻는 질문(2025.10.15.)",
+     "url": "https://blog.naver.com/blogfsc/224041741486",
+     "hostname": "blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=blog.naver.com&sz=128",
+     "description": "※ DSR은 신규 취급되는 대출에 적용하는 규제로, 증액없는 전세대출 연장시에는 DSR 미적용. 수도권·규제지역. 주담대 ST금리 하한 상향. (10.16일 시행).",
+     "date": "2025-10-15",
+     "tier": 1
+    },
+    {
+     "title": "대출규제 관련 FAQ - 도시정비",
+     "url": "http://www.remagazine.co.kr/news/articleView.html?idxno=11645",
+     "hostname": "remagazine.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=remagazine.co.kr&sz=128",
+     "description": "주택매매계약을 체결하고 계약금 납부 사실 증명 시 종전규정 적용 가능​ 평가자료 등을 활용한다. 전세대출 DSR 적용 - 전세대출 DSR 적용대상은?",
+     "date": "2025-10-27",
+     "tier": 3
+    },
+    {
+     "title": "[Q&A] 더 강력해진 '전세대출' 규제…무엇이 달라지나",
+     "url": "https://v.daum.net/v/57CzAbnbHc?f=p",
+     "hostname": "v.daum.net",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=v.daum.net&sz=128",
+     "description": "유주택자 전세대출 … 대출금액을 증액하는 경우에는 변경된 규정이 적용됩니다. 주택매매계약을 체결하여도 종전규정 적용합니다.",
+     "date": "2025-09-07",
+     "tier": 3
+    },
+    {
+     "title": "국민주택 기금운용",
+     "url": "https://www.incheon.go.kr/IC010101/view?nttNo=267&curPage=1196&srchKey=&srchWord=&srchSiteRealmCode=&cntPerPage=",
+     "hostname": "incheon.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=incheon.go.kr&sz=128",
+     "description": "제2조(적용대상) 기금의 이 경우 융자이율 및 상환방법은 공공분양주택자금 또는 후분양주택자금의 융자조건을 적용한다.",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "\"가계대출 증가규모 연간 약 20조원 줄일 것 ...",
+     "url": "https://webzine.kacta.or.kr/news/articleView.html?idxno=23032",
+     "hostname": "webzine.kacta.or.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=webzine.kacta.or.kr&sz=128",
+     "description": "하지만 대출금 증액 없이 대출을 기한 연장하거나, 금리 또는 만기 조건만 변경되는 재약정이나 같은 은행에서 대환하는 경우에는 종전 규정이 그대로 ...",
+     "date": "2025-06-27",
+     "tier": 3
+    },
+    {
+     "title": "[6-27 가계부채 대책] 1주택자 반년 내 기존 집 안 팔면 주담대 회수·3년간 제한",
+     "url": "https://newsfc.co.kr/news/articleView.html?idxno=72145",
+     "hostname": "newsfc.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=newsfc.co.kr&sz=128",
+     "description": "계약갱신청구권 사용 등 전세 계약 연장으로 전세대출·보증이 연장된 경우도 종전 규정에 따르면 된다. -- 수요 관리 외 안정적 주택공급도 필요한 것 ...",
+     "date": "2025-06-27",
+     "tier": 3
+    },
+    {
+     "title": "\"가계대출 증가 연 20조 줄일 것\"...금융위 문답",
+     "url": "http://www.seouleconews.com/news/articleView.html?idxno=84519",
+     "hostname": "seouleconews.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=seouleconews.com&sz=128",
+     "description": "계약갱신청구권 사용 등 전세계약 연장으로 전세대출·보증이 연장된 경우도 종전 규정에 따르면 된다.대출 실행이 되지 않았더라도 신청접수가 완료된 ...",
+     "date": "2025-06-27",
+     "tier": 3
+    },
+    {
+     "title": "법령 > 제정·개정문 - 한국주택금융공사법 시행규칙",
+     "url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=285255&viewCls=lsRvsDocInfoR",
+     "hostname": "law.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=law.go.kr&sz=128",
+     "description": "[일부개정] ◇ 개정이유 및 주요내용 금융기관의 고액 주택담보대출 취급 유인을 점진적으로 줄여나가도록 유도하기 위해 한국주택금융공사가 운용하는 주택금융신용 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "연소득 2억, 20억짜리 집살 때 대출 한도 최대 8억 감소 [Q&A]",
+     "url": "https://www.joongang.co.kr/article/25347286",
+     "hostname": "joongang.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=joongang.co.kr&sz=128",
+     "description": "이번 대출 규제로 인한 주택담보대출(주담대) 한도 감소는 연 소득 1억원 이상의 가구가 10억원 이상의 주택을 매매할 때 발생하는 것으로 나타났다.",
+     "date": "2025-06-27",
+     "tier": 2
+    }
+   ]
+  }
+ ]
+}

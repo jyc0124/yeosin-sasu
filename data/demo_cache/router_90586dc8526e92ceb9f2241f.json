@@ -1,0 +1,36 @@
+{
+ "at": 1795313744714,
+ "value": {
+  "id": "chatcmpl-27784c7c734548e2b394700cca8dc7ac",
+  "object": "chat.completion",
+  "created": 1795313744,
+  "model": "gpt-6.2-sol",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "{\"picks\":[\"F401-06#5\",\"F401-06#6\"]}"
+    },
+    "finish_reason": "stop"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1569,
+   "completion_tokens": 28,
+   "total_tokens": 1597,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 1339,
+    "cache_write_tokens_details": {
+     "ttl_5m_tokens": 0,
+     "ttl_1h_tokens": 0,
+     "ttl_30m_tokens": 1339
+    }
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "at": 1795075368655,
+ "value": {
+  "id": "chatcmpl-74089e40a28b4d789d953e429faad70d",
+  "object": "chat.completion",
+  "created": 1795075368,
+  "model": "gpt-6.1-sol",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"module\": \"M1\",\n  \"topic\": null,\n  \"region\": null,\n  \"m1\": {\n    \"action\": \"renewal\",\n    \"increase\": null,\n    \"maturityDate\": \"2026-12-20\",\n    \"plannedRenewalDate\": null,\n    \"applicationDate\": null,\n    \"contractAndDepositBy1231\": null,\n    \"bankIntakeBy1231\": null,\n    \"houses\": [],\n    \"houseCount\": 1,\n    \"leasedOut\": null,\n    \"tenantIsFamily\": null,\n    \"everLived\": null,\n    \"livedEvidence\": null,\n    \"exception\": null,\n    \"targetAsserted\": true\n  },\n  \"m2\": {\n    \"borrowerType\": null,\n    \"houses\": [],\n    \"houseCount\": null,\n    \"houseCountIsMinimum\": null,\n    \"conditionalDisposal\": null,\n    \"loanPurpose\": null,\n    \"collateral\": {\n      \"region\": null,\n      \"sigungu\": null,\n      \"isApt\": null,\n      \"regulated\": null\n    },\n    \"maturityDate\": null,\n    \"asksNextMaturity\": null,\n    \"tenant\": {\n      \"mentioned\": false,\n      \"absent\": null,\n      \"contractValidAt0401\": null,\n      \"originalEnd\": null,\n      \"renewal\": null,\n      \"renewalDate\": null,\n      \"renewedEnd\": null,\n      \"provisional\": null\n    },\n    \"registeredRental\": {\n      \"mentioned\": false,\n      \"mandatoryEnd\": null,\n      \"voluntaryCancel\": null,\n      \"voluntaryCancelDate\": null\n    },\n    \"legalObligation\": null,\n    \"legalObligationEnd\": null,\n    \"notifiedBy0401\": null,\n    \"notifiedProof\": null,\n    \"publicInterest\": null,\n    \"otherException\": null,\n    \"homsAvailable\": null,\n    \"landlordMainBusiness\": null\n  },\n  \"unmodeledFacts\": [],\n  \"assumptions\": []\n}"
+    },
+    "finish_reason": "stop"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 9353,
+   "completion_tokens": 503,
+   "total_tokens": 9856,
+   "prompt_tokens_details": {
+    "cached_tokens": 9315,
+    "cache_write_tokens": 35,
+    "cache_write_tokens_details": {
+     "ttl_5m_tokens": 0,
+     "ttl_1h_tokens": 0,
+     "ttl_30m_tokens": 35
+    }
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 47
+   }
+  }
+ }
+}

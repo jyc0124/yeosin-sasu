@@ -1,0 +1,36 @@
+{
+ "at": 1795075435195,
+ "value": {
+  "id": "chatcmpl-c0947a624d914d0a855857df70836185",
+  "object": "chat.completion",
+  "created": 1795075435,
+  "model": "gpt-6.1-sol",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "{\"sentences\":[{\"text\":\"분양권 보유는 판정 기준에 없어 연장 여부를 확정하기 어렵고, 본점 확인이 필요합니다.\",\"facts\":[\"F401-01\"]},{\"text\":\"다주택자의 수도권 아파트 주담대는 원칙적으로 만기연장이 불허되므로, 예외 사유도 확인하겠습니다.\",\"facts\":[\"F401-02\"]}]}"
+    },
+    "finish_reason": "stop"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 869,
+   "completion_tokens": 307,
+   "total_tokens": 1176,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "cache_write_tokens_details": {
+     "ttl_5m_tokens": 0,
+     "ttl_1h_tokens": 0,
+     "ttl_30m_tokens": 0
+    }
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 209
+   }
+  }
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "at": 1795403243775,
+ "value": {
+  "model": "gpt-6.2-sol",
+  "choices": [
+   {
+    "message": {
+     "content": "{\"module\":\"M2\",\"alsoModule\":null,\"basis\":{\"subQuestions\":[],\"regs\":[],\"concepts\":[]},\"topic\":null,\"region\":null,\"m1\":{\"action\":null,\"increase\":null,\"maturityDate\":null,\"plannedRenewalDate\":null,\"applicationDate\":null,\"contractAndDepositBy1231\":null,\"bankIntakeBy1231\":null,\"houses\":[],\"houseCount\":null,\"leasedOut\":null,\"tenantIsFamily\":null,\"everLived\":null,\"livedEvidence\":null,\"exception\":null,\"targetAsserted\":null,\"depositIncrease\":null,\"loanAmount\":null,\"newLoanAmount\":null,\"rentalRegion\":null,\"rentalRegulated\":null,\"sameHome\":null,\"firstLeaseBy0907\":null,\"refinance\":null,\"dsrRatio\":null,\"lenderSector\":null,\"otherHouseholdHouses\":null,\"leaseDepositDate\":null,\"intakeDate\":null,\"policyLoan\":null,\"countClaims\":[]},\"m2\":{\"borrowerType\":null,\"houses\":[{\"label\":\"상속받은 집\",\"owner\":\"self\",\"region\":null,\"sigungu\":null,\"isApt\":null,\"kind\":null,\"regulated\":null,\"baseValueAtAcq\":null,\"tags\":[\"inheritance\"],\"claimsDepopulation\":null,\"isCollateral\":null}],\"houseCount\":2,\"houseCountIsMinimum\":null,\"conditionalDisposal\":null,\"loanPurpose\":null,\"collateral\":{\"region\":null,\"sigungu\":null,\"isApt\":null,\"regulated\":null,\"tags\":[]},\"maturityDate\":null,\"asksNextMaturity\":null,\"tenant\":{\"mentioned\":false,\"absent\":null,\"contractValidAt0401\":null,\"originalEnd\":null,\"renewal\":null,\"renewalDate\":null,\"renewedEnd\":null,\"provisional\":null,\"successorSignedDate\":null,\"successorEnd\":null,\"successorProvisional\":null},\"registeredRental\":{\"mentioned\":false,\"mandatoryEnd\":null,\"voluntaryCancel\":null,\"voluntaryCancelDate\":null},\"legalObligation\":null,\"legalObligationEnd\":null,\"notifiedBy0401\":null,\"notifiedProof\":null,\"publicInterest\":null,\"otherException\":null,\"homsAvailable\":null,\"consentRefused\":null,\"landlordMainBusiness\":null,\"countClaims\":[]},\"relatedTopics\":[],\"asksCriteria\":false,\"avoidanceAsked\":false,\"unmodeledFacts\":[],\"assumptions\":[]}"
+    }
+   }
+  ]
+ }
+}

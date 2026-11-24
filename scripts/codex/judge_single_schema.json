@@ -1,0 +1,78 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "grades"
+ ],
+ "properties": {
+  "grades": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+     "id",
+     "grade"
+    ],
+    "properties": {
+     "id": {
+      "type": "string"
+     },
+     "grade": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+       "answered",
+       "grounded",
+       "verdictOk",
+       "wrongClaims",
+       "missing",
+       "note"
+      ],
+      "properties": {
+       "answered": {
+        "type": "integer",
+        "enum": [
+         0,
+         1,
+         2
+        ],
+        "description": "0=묻는 말에 답 못함, 1=일부만, 2=묻는 말에 모두 답함(답할 수 없는 부분은 '본점 확인'으로 분명히 넘긴 경우 포함)"
+       },
+       "grounded": {
+        "type": "integer",
+        "enum": [
+         0,
+         1,
+         2
+        ],
+        "description": "0=원문과 어긋나는 내용 있음, 1=원문에 없는 단정이 일부, 2=모두 원문으로 뒷받침"
+       },
+       "verdictOk": {
+        "type": "boolean",
+        "description": "답변 코드가 원문 기준으로 정당한가"
+       },
+       "wrongClaims": {
+        "type": "array",
+        "items": {
+         "type": "string"
+        },
+        "description": "원문과 어긋나거나 원문에 없는 단정(원문 파일·구절과 함께)"
+       },
+       "missing": {
+        "type": "array",
+        "items": {
+         "type": "string"
+        },
+        "description": "원문에 답이 있는데 빠뜨린 핵심(원문 근거와 함께)"
+       },
+       "note": {
+        "type": "string"
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

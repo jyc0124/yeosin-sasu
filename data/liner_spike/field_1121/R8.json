@@ -1,0 +1,545 @@
+{
+ "id": "R8",
+ "question": "전세자금대출 승인(보증 승인) 후 실행 전에 신용대출을 추가로 받으면 어떤 항목(DSR, 보증한도, 소득 대비 부채 등)을 다시 심사하나요? 신규·연장, HUG·HF·SGI별로 알려주세요. 금융위원회·금융감독원·은행연합회·HUG(주택도시보증공사)·HF(한국주택금융공사)·SGI서울보증 등 공식 자료(보도자료, FAQ, 행정지도, 상품설명서, 보증규정, 질의회신, 금융규제·법령해석포털 회신사례)에서 근거 문장을 찾아 문서명·날짜와 함께 인용해 주세요. 보증기관별로 다르면 기관별로 나눠 주세요. 공식 근거가 없으면 '공식 근거 없음'이라고 분명히 답하고 추측하지 마세요.",
+ "agent": {
+  "text": "### HUG 전세자금대출 신용대출 추가 실행 영향\n\n- **DSR 영향:** 금융위원회는 전세자금대출 원금은 DSR에 반영하지 않고, 다른 대출을 신청할 때 전세자금대출의 이자상환액만 부채에 반영한다고 설명합니다. 다만 해당 자료는 전세자금대출 승인 후 실행 전에 신용대출을 추가로 받은 경우 은행이 기존 승인 건을 반드시 재심사하는지까지 규정하지 않습니다. 「주요정책문답」의 게시일은 자료에 표시되어 있지 않습니다. ((1))\n\n- **보증한도 영향:** HUG의 전세자금대출 보증 승인 후 신용대출 추가 실행이 보증한도에 미치는 영향에 관한 HUG 공식 보증규정, 업무처리기준 또는 질의회신은 제공된 자료에서 확인되지 않습니다. 따라서 **공식 근거 없음**입니다. HUG와 HF의 전세대출 보증과 관련하여 1주택자의 부부 합산소득이 1억원을 초과하면 신규보증을 제한한다는 금융위원회 자료는 확인되지만, 이는 신용대출 추가 실행에 따른 보증한도 재심사 기준을 직접 규정한 내용은 아닙니다. 「다주택자 신규보증ㆍ고소득자 제한」의 날짜는 2018년 11월 1일입니다. ((1))\n\n- **소득 대비 부채 영향:** HUG가 승인 후 추가 신용대출 발생 시 소득 대비 부채 또는 상환능력을 어떤 방식으로 재산정하는지에 관한 HUG 공식 자료는 제공된 자료에서 확인되지 않습니다. 따라서 **공식 근거 없음**입니다. 금융위원회는 일반적으로 DSR을 모든 대출의 원리금상환액을 연간소득으로 나눈 지표로 설명하지만, 이 원칙만으로 HUG의 승인 후 재심사 여부나 세부 절차를 확정할 수는 없습니다. 「중소서민정책」의 날짜는 자료에 표시되어 있지 않습니다. ((1))\n\n- **은행의 사후 심사 기준:** 금융감독원은 은행재원 전세자금대출이 보증기관의 보증대출 형태로 취급될 수 있고, 상품별로 보증기관의 취급기준을 고려한다고 안내합니다. 그러나 HUG 보증 승인 후 실행 전 신용대출이 발생했을 때 은행이 DSR, 보증한도, 소득 대비 부채를 어떤 기준으로 재심사해야 하는지에 대한 HUG 또는 금융감독원의 구체적인 공식 기준은 제공된 자료에 없습니다. 「전월세자금 대출안내」의 날짜는 자료에 표시되어 있지 않습니다. ((1))\n\n### HF 전세자금대출 신용대출 추가 실행 영향\n\n- **DSR 영향:** 금융위원회는 2025년 10월 29일부터 일정 대상의 전세대출에 대해 원금이 아닌 이자상환액만 DSR에 반영한다고 안내했습니다. 또한 기존 전세대출을 같은 주택에서 연장하는 경우에는 원칙적으로 DSR을 적용하지 않지만, 만기 연장 과정에서 대출금액을 증액하면 신규대출로 보아 DSR을 적용한다고 설명합니다. 「주요정책문답」의 게시일은 자료에 표시되어 있지 않습니다. ((1))\n\n- **보증한도 영향:** HF는 일반전세자금보증의 절차를 보증상담, 보증신청, 보증심사 및 승인 순서로 안내하고 있습니다. 그러나 보증 승인 후 실행 전에 신용대출이 추가된 경우 HF가 보증한도를 다시 산정하는지, 다시 산정한다면 어떤 부채 항목을 반영하는지에 관한 HF 공식 자료는 제공된 자료에서 확인되지 않습니다. 「일반전세자금보증」의 날짜는 자료에 표시되어 있지 않으므로, 해당 사안에 대해서는 **공식 근거 없음**입니다. ((1))\n\n- **소득 대비 부채 영향:** HF의 전세자금보증 승인 후 추가 신용대출에 따라 소득 대비 부채 또는 상환능력을 재심사한다는 구체적인 HF 보증규정이나 질의회신은 제공된 자료에서 확인되지 않습니다. 따라서 **공식 근거 없음**입니다. 금융위원회 자료에서 확인되는 것은 전세대출의 DSR 산정 방식과 신규 취급 또는 증액 연장에 관한 원칙이며, HF의 개별 보증심사 절차까지 직접 정한 내용은 아닙니다. ((1))\n\n- **은행의 사후 심사 기준:** 금융감독원은 HF 보증을 이용하는 전세자금대출의 경우 해당 취급기준을 함께 고려한다고 안내합니다. 다만 HF 승인 후 실행 전 신용대출이 추가된 경우 은행이 승인 내용을 취소하거나 보증심사를 재요청해야 하는지, 또는 반드시 재확인해야 하는 항목을 정한 공식 문장은 제공된 자료에서 확인되지 않습니다. 따라서 은행의 구체적인 사후 심사 기준에 대해서는 **공식 근거 없음**입니다. 「대출 가입전 주요 체크사항」의 기준 시점은 2018년 12월입니다. ((1))\n\n### SGI 전세자금대출 신용대출 추가 실행 영향\n\n- **DSR 영향:** 금융위원회는 전세자금대출을 DSR 산정에서 원칙적으로 제외하되, 다른 대출을 취급할 때 전세자금대출의 이자상환액은 부채에 반영한다고 설명합니다. 금융감독원은 서울보증보험 보증이 은행재원 전세자금대출에 이용된다고 안내하지만, SGI 보증 승인 후 실행 전 신용대출 추가 발생 시 DSR을 다시 심사하는 SGI별 기준은 제공된 자료에서 확인되지 않습니다. 「전월세자금 대출안내」의 날짜는 자료에 표시되어 있지 않습니다. ((1))\n\n- **보증한도 영향:** SGI서울보증의 제공 자료에는 전세금반환보증보험의 보증 대상과 보증 제외 사유 등이 제시되어 있으나, 전세자금대출 보증 승인 후 신용대출을 추가로 받은 경우 전세자금대출 보증한도를 재심사하는 기준은 제시되어 있지 않습니다. 따라서 SGI의 해당 보증한도 재심사 기준은 **공식 근거 없음**입니다. SGI 보증서를 담보로 전월세보증금대출을 받은 경우 HF 또는 HUG의 반환보증 가입이 불가능하다는 자료는 있으나, 이는 보증기관 중복 이용에 관한 내용이지 신용대출 추가 실행에 따른 한도 심사 기준은 아닙니다. 해당 자료의 날짜는 표시되어 있지 않습니다. ((1))\n\n- **소득 대비 부채 영향:** SGI가 승인 후 추가 신용대출을 소득 대비 부채 또는 상환능력 심사에 어떻게 반영하는지에 관한 SGI 공식 상품설명서, 보증규정 또는 질의회신은 제공된 자료에서 확인되지 않습니다. 따라서 **공식 근거 없음**입니다. 금융감독원 자료는 서울보증보험 보증대출이 은행재원 전세자금대출의 한 형태라는 점만 설명하며, 승인 후 실행 전의 재심사 항목까지 규정하지 않습니다. ((1))\n\n- **은행의 사후 심사 기준:** 금융위원회는 전세대출 심사에서 대출규제, 임대차계약, 주택 관련 권리관계 및 전세 관련 보증 현황 등을 금융회사 직원이 직접 확인한다고 설명했습니다. 그러나 이 자료는 전세대출 대환 절차에 관한 설명이며, SGI 보증 승인 후 실행 전 신용대출 발생 시 은행이 어떤 항목을 반드시 재심사해야 하는지를 정한 규정은 아닙니다. 「카드뉴스」의 날짜는 자료에 표시되어 있지 않습니다. ((1))\n\n- **은행연합회 근거:** 전국은행연합회 가계대출 금리비교 페이지의 제공 자료에는 해당 페이지에 관한 정보가 없다고 표시되어 있습니다. 따라서 은행연합회에서 SGI 전세자금대출 승인 후 신용대출 추가 실행에 관한 사후 심사 기준을 확인할 수 있는 공식 근거는 **공식 근거 없음**입니다. ((1))\n\n### 신규 및 연장 시 심사 항목 차이\n\n- **신규 실행:** 신규 전세자금대출의 DSR에 관해서는 금융위원회가 적용 대상에 해당하는 경우 전세대출 원금은 제외하고 이자상환액만 반영한다고 설명합니다. 다만 승인 후 실행 전에 발생한 신용대출을 이유로 HUG, HF 또는 SGI가 보증한도와 소득 대비 부채를 반드시 다시 심사해야 한다는 기관별 공식 기준은 제공된 자료에서 확인되지 않습니다. 따라서 신규 실행의 보증한도 및 소득 대비 부채 재심사 여부는 기관별로 **공식 근거 없음**입니다. ((1))\n\n- **연장 실행:** 기존 전세대출을 같은 주택에서 연장하는 경우 금융위원회는 원칙적으로 DSR을 적용하지 않는다고 안내합니다. 그러나 연장하면서 대출금액을 증액하면 신규대출로 보아 DSR을 적용한다고 설명합니다. 이 자료는 DSR 적용 시점을 설명할 뿐, 신용대출 추가 실행이 HUG, HF 또는 SGI의 보증한도와 소득 대비 부채 심사를 자동으로 다시 발생시키는지까지는 규정하지 않습니다. ((1))\n\n- **심사 항목별 정리:** DSR은 금융위원회 자료상 전세대출의 이자상환액, 신규 취급 여부 및 증액 연장 여부가 핵심으로 확인됩니다. 보증한도는 HUG, HF 및 SGI별로 승인 후 신용대출 발생 시 재산정하는 공식 기준이 제공된 자료에 없습니다. 소득 대비 부채 역시 금융위원회가 일반적인 DSR 산정 원칙을 제시하고 있을 뿐, 각 보증기관의 승인 후 재심사 세부기준은 확인되지 않습니다. ((1))\n\n- **기관별 결론:** HUG는 보증한도와 소득 대비 부채 재심사 기준이 **공식 근거 없음**이고, HF도 동일하게 **공식 근거 없음**입니다. SGI 역시 동일하게 **공식 근거 없음**이며, 은행연합회 자료에서도 관련 기준을 확인할 수 없습니다. 따라서 제공된 공식 자료만으로는 승인 후 실행 전 신용대출 추가 시 은행이 어느 항목을 반드시 재심사한다고 단정할 수 없습니다.\n\n- **확인 가능한 공식 자료의 범위:** 금융위원회 자료는 전세대출의 DSR 산정 원칙과 신규·연장·증액 연장의 구분을 제시합니다. 금융감독원 자료는 전세자금대출의 보증 형태와 보증기관 취급기준을 안내합니다. 반면 HUG, HF, SGI의 승인 후 실행 전 신용대출 발생에 관한 기관별 재심사 항목과 은행의 의무적 처리 기준은 제공된 공식 자료에서 확인되지 않습니다. ((1))\n\n**중요 고지**\n\n위 정보는 일반적인 정보 제공을 위한 것이며, 금융기관의 심사 결과나 전문가의 자문을 대신하지 않습니다. 개인의 대출 승인 및 실행 가능성, 보증 유지 여부와 관련한 구체적인 판단은 해당 대출 취급은행 및 관련 보증기관의 자격 있는 담당자에게 확인하시기 바랍니다.",
+  "references": [
+   {
+    "title": "중소서민정책 - 정책일반 - 정책마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/po010104/73369?srchCtgry=4&curPage=10&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2025년 3분기 보고서",
+    "url": "https://englishdart.fss.or.kr/dsbh001/main.do?rcpNo=20251121000500",
+    "hostname": "englishdart.fss.or.kr",
+    "date": "2025-11-21",
+    "tier": 1
+   },
+   {
+    "title": "대출 가입전 주요 체크사항 | 금융감독원 금융상품",
+    "url": "https://fine.fss.or.kr/main/prc/lo/sub/lo003.jsp?menuNo=9000293",
+    "hostname": "fine.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "일반전세자금보증",
+    "url": "http://www.hf.go.kr/ko/sub02/sub02_01_02.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보금자리론 설명서",
+    "url": "https://hf.go.kr/cms/etcResourceDown.do?site=$cms$NYeyA&key=$cms$AwRg+sBsEExjlgFYQBYB0AHAJgMyA",
+    "hostname": "hf.go.kr",
+    "date": "2026-05-14",
+    "tier": 1
+   },
+   {
+    "title": "2026년도 연간자금계획안",
+    "url": "https://khug.or.kr/khugcms/board/skin/download.jsp?id=1285&fileId=26647",
+    "hostname": "khug.or.kr",
+    "date": "2025-12-26",
+    "tier": 1
+   },
+   {
+    "title": "보도자료 - 위원회 소식 - 알림마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/no010101/73369?srchCtgry=&curPage=409&srchKey=sj&srchText=&srchBeginDt=2022-12-&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "전세금반환보증보험 | 주거/임대/생활 | 상품 | SGI서울보증",
+    "url": "https://m.sgic.co.kr/biz/cmw/index.html?p=CMWPRD030301F01",
+    "hostname": "m.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "가계대출 금리비교 - 소비자포털 - 전국은행연합회",
+    "url": "https://portal.kfb.or.kr/compare/loan_household_new.php",
+    "hostname": "portal.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "주택금융공사, 고객 눈높이에 맞춰 '스마트주택금융 앱' 새단장",
+    "url": "https://www.hf.go.kr/ko/sub05/sub05_04_05.do?mode=view&articleNo=600677",
+    "hostname": "hf.go.kr",
+    "date": "2026-10-26",
+    "tier": 1
+   },
+   {
+    "title": "주요정책문답 - 정책자료 - 정책마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/po020201/85518",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "[은행명] 전월세보증금 대출",
+    "url": "https://www.kakaobank.com/products/leaseLoan",
+    "hostname": "kakaobank.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전월세자금 대출안내 | 금융생활안내 | 금융생활 길라잡이 | 금융소비자보호 |",
+    "url": "https://www.fss.or.kr/fss/main/contents.do?menuNo=200502",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "카드뉴스 - 홍보자료 - 알림마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/no040101?cnId=2060",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "S2W/Registration Statement (Equity securities)/2025.07.29",
+    "url": "https://englishdart.fss.or.kr/dsbh001/main.do?rcpNo=20250729000009",
+    "hostname": "englishdart.fss.or.kr",
+    "date": "2025-07-29",
+    "tier": 1
+   },
+   {
+    "title": "보금자리론 업무처리기준",
+    "url": "https://www.google.com/goto?url=CAESpAEBxCJF1-PDmWc4-J2yU7-ijgkQOsVSrdhL0_ekmucmkCtymtFmhNggNbbTDRLHUKmwgc1BUu48yGbqOIQ_X_zVBBVjPn0hFjDRSee83mDQzA_AqjimkVGYI0c1Kn-Zep7ZNobZTdbzzWHnEN0r9bEh_7ZGrn80Z4ADNeaAPl1awXysKjd9gyQr0mduLF0JhopX5eIJa7yHP0Ybuv1XsyORnSRQrQ&gsessionid=pagig6yfKE0gq4yJMTPSRyPrCfp8FiP8qOPj4zMT3E4UTu2MXtvctg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "정책영상 - 위원회 소식 - 알림마당 - 금융위원회",
+    "url": "https://fsc.go.kr/no010107/78152?srchCtgry=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "입찰보증보험 | 일반계약/공사 | 상품 | SGI서울보증",
+    "url": "https://www.sgic.co.kr/biz/ccp/index.html?p=CCPPRD010101F01",
+    "hostname": "sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전세자금대출 | 대출 | 금융감독원 금융상품통합비교공시 금융상품한눈에",
+    "url": "http://finlife.fss.or.kr/finlife/ldng/lfstsFunds/list.do?menuNo=700008",
+    "hostname": "finlife.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2026년 스트레스 DSR 3단계 시행, 대출한도 차이는 얼마까지? | 뱅크샐러드",
+    "url": "https://www.banksalad.com/articles/%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%8A%A4-DSR-%EA%B7%9C%EC%A0%9C-%EC%A0%84%EC%84%B8%EB%8C%80%EC%B6%9C-%EB%8B%A8%EA%B3%84",
+    "hostname": "banksalad.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전세보증금반환보증 보증료 지원 안내 : 부산광역시 분야별 ...",
+    "url": "https://www.busan.go.kr/depart/reguarantee01",
+    "hostname": "busan.go.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "한국주택금융공사 모기지신용보증(MCG)",
+    "url": "https://www.google.com/goto?url=CAESaAHEIkXX-BFzZllqalGx-E5syFTxpoVSPsH9Tmmccr3mSlM8e6u2vqGYILbErZiVBdIEiJV0P_42BNpyXBzKlKXO5mcLmF4Sc5TTyfP1HwpnNEb3Wi_ycVYU6xGzZmPuQoCNvUgMwQRW&gsessionid=pagig6yfKE0gq4yJMTPSRyPrCfp8FiP8qOPj4zMT3E4UTu2MXtvctg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "통합비교공시 | 금융감독원 금융상품",
+    "url": "https://fine.fss.or.kr/main/prc/lo/sub/lo008.jsp?menuNo=900297",
+    "hostname": "fine.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "FAQ | IR정보 | SGI서울보증 회사소개",
+    "url": "https://www.sgic.co.kr/biz/ccg/index.html?p=CCGIRI070101F01",
+    "hostname": "sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "공개Q&A 조회 | Q&A | 민원·신고 |",
+    "url": "https://fss.or.kr/fss/cvpl/inquiRecpEc/view.do?menuNo=200094&recpNo=2025Q9446&pubYn=Y",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "[은행명] 전월세보증금대출",
+    "url": "https://www.tossbank.com/product-service/loans/jeonse-loan",
+    "hostname": "tossbank.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전세자금대출 API | 상세 및 테스트 | 오픈API | 금융감독원 금융상품통합비교공시 금융상품한눈에",
+    "url": "https://finlife.fss.or.kr/finlife/api/lfstsFundsApi/list.do?menuNo=700056",
+    "hostname": "finlife.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "신청절차 | 보금자리론 | 주택담보대출",
+    "url": "https://www.google.com/goto?url=CAESaAHEIkXXNcoWukKMdWtiTExNY2Jp94wn_51-Ug-3S8sHvx2OR3T_H0pFXr3m4RgoaCOjOLPK-LKX9W_jOpGJm95BrWxALcbY7WxcK0nNWYy8DT0MZcQxUJvXZTJ6gfsaH8Sd2h07lNUO&gsessionid=pagig6yfKE0gq4yJMTPSRyPrCfp8FiP8qOPj4zMT3E4UTu2MXtvctg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전자입찰/계약시스템",
+    "url": "https://ebid.sgic.co.kr",
+    "hostname": "ebid.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "다주택자 신규보증ㆍ고소득자 제한",
+    "url": "https://www.google.com/goto?url=CAES_gEBxCJF1_DI2tDydXOl8W0JhWkYcFnvu9KXxpttoTOU1fUORwPnyVeYC8yPjdTI-HdHCnfNx-dMZKnBEC5xigqNGBMn3XkECL1VPSF3u2cHYTLelhM3zCYlbdRBN280_a3nIj7bsNfQY62m6ZXAJRxejyimvYCAQvQhdLrRbzrh3I2tCiTbPgDJn6SXIVRfD1IB_zZWp_09OeIAaybpAJQjkfOgRpC4B0_GH9EDfewlreh4pY1t4F84WCp7n-TvgZT6wa-5U3EvedkdkO-Sr37qAiYlZInwT8-k9abTrEJvuUkwi5ozthTkgtgfus85z_vPwlVZX786g3EOZx8g3g&gsessionid=OUoRbjiYy6qR19FZ3l88VlWfFoM2cvsQHrzOhBDSEyXnR9ZJ7mTTng",
+    "hostname": "google.com",
+    "date": "2018-11-01",
+    "tier": 3
+   },
+   {
+    "title": "내집마련 디딤돌 대출 업무처리기준",
+    "url": "https://www.google.com/goto?url=CAESsQEBxCJF1w-7dqfpqOXZihfgMGes-pNEX10jJpEkSY6voguhiPTQmQA5U5pa9nKWB-OIrXPNR9bK0jRrUV_7A-PkuS3gMJcy5Uxwoskh9hqbxbNuWxmQ7olQ8aOuD5MZTbYaLSX19ic0JLvSEbWePuhkOgJVjz8ZdLqP1y1tyrTVzPPOhDWAWRBVmo7AoBwur94vZJ8kNcFT9etoXZlHnzxXBp5ZACRTUww5CLQCi1x0j_U&gsessionid=pagig6yfKE0gq4yJMTPSRyPrCfp8FiP8qOPj4zMT3E4UTu2MXtvctg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "법인회원(탭)인증서 로그인 | 로그인 | 유틸 | SGI서울보증",
+    "url": "https://www.sgic.co.kr/biz/ccp/index.html?p=CCPUTL010015F01",
+    "hostname": "sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "내년 1월부터 대출 2억 넘으면 개인별 DSR 규제…2금융권까지 관리 강화 - 정책뉴스 | 뉴스 | 대한민국 정책브리핑",
+    "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148894803",
+    "hostname": "korea.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주택금융 리서치",
+    "url": "https://www.google.com/goto?url=CAESoAEBxCJF143FKcemsyUxljIk2pUfGSzeSSo_J4sMgkjAvlDGABspvT3ALHb7CY4_WpvmK1U--i86ca-zTjFNlE0nfemslBwuOAqGXyiaPIcjKxqlUAM1XyDNrvLXGA7UoFDgepP5DNI19_uYw60QOfvhKMZVWpAzYpu2wTMrmZzmFRulUP_9pg2V71VOSEDEp1mKyvDphMpjBP8kE0GGt2-D&gsessionid=OUoRbjiYy6qR19FZ3l88VlWfFoM2cvsQHrzOhBDSEyXnR9ZJ7mTTng",
+    "hostname": "google.com",
+    "date": "2023-09-30",
+    "tier": 3
+   },
+   {
+    "title": "한국주택금융공사",
+    "url": "https://hf.go.kr/",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "SGI서울보증",
+    "url": "https://m.sgic.co.kr/biz/cmw/index.html?p=CMWUTL050001F01",
+    "hostname": "m.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "[李 정부, 주요제도 변화] 3단계 스트레스 DSR, 7월 1일 시행",
+    "url": "https://kr.investing.com/news/stock-market-news/article-1534034",
+    "hostname": "kr.investing.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전세대출 더 조인 정부…1주택자 한도 평균 6500만원 줄어",
+    "url": "https://www.google.com/goto?url=CAESZwHEIkXXKkTTVhy_q8HiaWwLUnu53fpk5bH5T8hKt24wyChbaijJMO0HrP3M_jFNIPWbJOXMhYlrGXna8rS-tU2ASJ_WTfsYFn2ShQjSPGqN7R2XejO26wLuT6RNlA4x1tdm2K136lc&gsessionid=OUoRbjiYy6qR19FZ3l88VlWfFoM2cvsQHrzOhBDSEyXnR9ZJ7mTTng",
+    "hostname": "google.com",
+    "date": "2025-09-07",
+    "tier": 3
+   },
+   {
+    "title": "(일반) 상품소개 | 보금자리론 | 주택담보대출",
+    "url": "https://www.google.com/goto?url=CAESaAHEIkXXf4WJCb3qaLKRUahyTET1QGKilC-ZNwChZfK7FjyEHU8j1URE_ClFuDjcGEpn7ltfwyv_Vt-F95JBWbuJ085ODSJSIb_isPsQy31qYJGm2n4ZoIaZ7m64ryKqgQ1SS0rGaiDO&gsessionid=pagig6yfKE0gq4yJMTPSRyPrCfp8FiP8qOPj4zMT3E4UTu2MXtvctg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "1주택자, 규제지역 전세대출 한도 2억원으로 일원화",
+    "url": "https://www.google.com/goto?url=CAESdgHEIkXX3-HMKD56HTUfpWp9Sy5EimQ9Jslvb80MxTps_Fw62NVskMNsh82_crpobwFCK55UO4jW5KTHCq8S89njMMM39o7CGRWT2-Jeu96ioLSxN_V7ujXNQ1SOZO8RxbiqzW2UoMo8OzijLzgS1HnN8NRnzLQ&gsessionid=OUoRbjiYy6qR19FZ3l88VlWfFoM2cvsQHrzOhBDSEyXnR9ZJ7mTTng",
+    "hostname": "google.com",
+    "date": "2025-09-07",
+    "tier": 3
+   },
+   {
+    "title": "일반전세지킴보증 | 전세보증금반환보증",
+    "url": "https://www.google.com/goto?url=CAESaAHEIkXX6oMweCTj4HUb3snoF2cZ8wPxxRMvhEZ5gVuejDk_qAkLMEpw9KDQXLecAMtjK9Se2ibG1UZSxcpxE16lOw9D7ZK-J-HSmhaMqHra7wx0vg52mBzndZS8Of-kJY2VPdmRMfpj&gsessionid=pagig6yfKE0gq4yJMTPSRyPrCfp8FiP8qOPj4zMT3E4UTu2MXtvctg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "籹, ߰  ...'ִ ѵ ȭ'  ' DSR ' -Ϻ",
+    "url": "https://m.joseilbo.com/news/view.htm?newsid=554556",
+    "hostname": "m.joseilbo.com",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "주택사업정보",
+    "url": "https://www.google.com/goto?url=CAESeAHEIkXXTrKDErRPtgkQOfTqb_rrufux8YUjDbpMHwwZwjHa4ZbTZjA7zzhTrcO_ikJSVSKXMiIw60QCYAF25tJ9jncxCdA_3pKZqwRSwHfOpLdyEFfCW984yU7zZjTyNqsbBokEko7a9ad7-mbcoQ6LFzoJZYLHPA&gsessionid=OUoRbjiYy6qR19FZ3l88VlWfFoM2cvsQHrzOhBDSEyXnR9ZJ7mTTng",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "상품소개 | 디딤돌대출 | 주택담보대출",
+    "url": "https://www.google.com/goto?url=CAESaAHEIkXXOqwP7ols2RXzxEosVhA8Wz-r-DDGm4LWRzgN8wt5-swxF_W3KZfVjbpg-6AmnEVXjSKP3a7G8Oye-viCb2SpcbcQeWVXLK0HtcrUi8FOKvH4_tK55YbrGNO2RVyHMcNnTf5j&gsessionid=pagig6yfKE0gq4yJMTPSRyPrCfp8FiP8qOPj4zMT3E4UTu2MXtvctg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "금융위원회",
+    "url": "https://tavily.com/knowledge/company/LiIMaXqq9XI4",
+    "hostname": "tavily.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "[9·7 부동산대책] 규제지역 LTV 40%…1주택자 전세대출 ...",
+    "url": "https://www.google.com/goto?url=CAESbAHEIkXXlZdEcK2Wbhgia--EUrs2QxXQZ_k4BK4mIw3rxusjoQI_RL0HFTksXjzNxPyBJzVrtXcBTqn2m8vs80Zcf8Mf4uJ0QJItthFGcO9XaFGm87_1klwRPhNtIc8I2n6GKn5UcAnAOia4Mg&gsessionid=OUoRbjiYy6qR19FZ3l88VlWfFoM2cvsQHrzOhBDSEyXnR9ZJ7mTTng",
+    "hostname": "google.com",
+    "date": "2025-09-07",
+    "tier": 3
+   },
+   {
+    "title": "금리안내 | 보금자리론 | 주택담보대출",
+    "url": "https://www.google.com/goto?url=CAESaAHEIkXXDijOcnHJ9Tk2HDZJ-fuvOLAhKT1_0_OZf6fLXxpqlyA-A2U6xWmRk7zcNlZEjCf5_u_nXS8s34v06N50-kZqzo6JM2gM-gjpp6_WF8u4kqQb0KMFanj-5udTYqMdLbLFnXVc&gsessionid=pagig6yfKE0gq4yJMTPSRyPrCfp8FiP8qOPj4zMT3E4UTu2MXtvctg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "(주)삼원 - 2026년 기업정보 - 매출액, 재무제표, 신용등급보고서",
+    "url": "https://www.nicebizinfo.com/ep/EP0100M002GE.nice?kiscode=353590",
+    "hostname": "nicebizinfo.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전세",
+    "url": "https://www.google.com/goto?url=CAESYwHEIkXX-9tmUa_B3z8EfsuVFO4CH3A3dfgL9dU3sDed5YVA_wJlBa6RsxBCwXvMuK3EDeVPgdvcKM8vOmMmGhvI1Eb3wtOmqPup7BbjnMOIIorUd1O-LhP4fsBMxaAd1pwOJg&gsessionid=OUoRbjiYy6qR19FZ3l88VlWfFoM2cvsQHrzOhBDSEyXnR9ZJ7mTTng",
+    "hostname": "google.com",
+    "date": "2026-10-26",
+    "tier": 3
+   }
+  ],
+  "requestId": "b8de434c-9eb6-4e69-9fb2-332c04c27613"
+ },
+ "searches": [
+  {
+   "query": "전세대출 승인 후 실행 전 신용대출 DSR 재심사",
+   "results": [
+    {
+     "title": "버팀목 전세자금 전 신용대출 받으면 한도 DSR에 불이익? 올바른 순서 정리",
+     "url": "https://blog.naver.com/myungs8/224238348146",
+     "hostname": "blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=blog.naver.com&sz=128",
+     "description": "금융위원회에 따르면 전세대출 차주의 DSR 산정 시 전세대출 원금은 반영하지 않고 이자 상환분만 DSR에 반영하는 방식을 채택하고 있습니다. 전세대출 ...",
+     "date": "2026-04-02",
+     "tier": 3
+    },
+    {
+     "title": "블라블라: 전세대출 승인 후 실행전에 신용대출",
+     "url": "https://www.teamblind.com/kr/post/%EC%A0%84%EC%84%B8%EB%8C%80%EC%B6%9C-%EC%8A%B9%EC%9D%B8-%ED%9B%84-%EC%8B%A4%ED%96%89%EC%A0%84%EC%97%90-%EC%8B%A0%EC%9A%A9%EB%8C%80%EC%B6%9C-0EjiOqBA",
+     "hostname": "teamblind.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=teamblind.com&sz=128",
+     "description": "형들 전세대출 심사 승인은 됐고 일주일 후 실행인 상태야 현재 이 시점에서 신규로 신용대출 뚫어만 놓고 전세대출 실행전까지 사용안한다면 전세 ...",
+     "date": "2025-02-13",
+     "tier": 3
+    },
+    {
+     "title": "주요정책문답",
+     "url": "https://www.fsc.go.kr/po020201/85518?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+     "hostname": "fsc.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=fsc.go.kr&sz=128",
+     "description": "전세대출 이자상환분에 한하여 DSR을 적용한다고 하였는데, 구체적으로 무슨 의미인지? □전세대출 차주(임차인)의 DSR 산정시 전세대출의 원금은 ...",
+     "date": "2025-10-15",
+     "tier": 1
+    },
+    {
+     "title": "금융위원회·금융감독원 - 전세자금대출 대환시 DSR 심사 제외 관련",
+     "url": "https://casenote.kr/%EA%B8%88%EC%9C%B5%EC%9C%84%EC%9B%90%ED%9A%8C%C2%B7%EA%B8%88%EC%9C%B5%EA%B0%90%EB%8F%85%EC%9B%90/aba5104320",
+     "hostname": "casenote.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=casenote.kr&sz=128",
+     "description": "전세대출 대환에 따른 신규 대출이 임대차계약서상 잔금지급일과 주민등록전입일 중 빠른 날로부터 3개월이 경과하더라도 전세대출로 간주하여 DSR 심사를 적용하지 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "[Q&A] \"기존 전세대출은 DSR 미적용…증액 시 신규 대출로 간주\" [10·15 대책]",
+     "url": "https://www.etoday.co.kr/news/view/2514803",
+     "hostname": "etoday.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=etoday.co.kr&sz=128",
+     "description": "A. 전세대출의 원금은 만기 시 임대인으로부터 반환받는 전세금으로 상환되므로 차주의 상환능력 심사 대상이 아니다. 반면 이자는 대출 기간 중 지속해서 ...",
+     "date": "2025-10-15",
+     "tier": 3
+    },
+    {
+     "title": "전세자금대출을 고려한 DSR 규제방안에 관한 논의 | 국내연구자료",
+     "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000188694",
+     "hostname": "eiec.kdi.re.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=eiec.kdi.re.kr&sz=128",
+     "description": "이러한 부작용을 완화하기 위한 초기 아이디어로써 임차인에 대해서는 전세자금대출의 이자를 DSR에 직접 반영하고, 임대인에 대해서는 일종의 스트레스 DSR을 도입하여 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "7월 1일 스트레스 DSR 적용 여부: 전세대출 연장 시 핵심 판단 기준",
+     "url": "https://m.blog.naver.com/motokim08/223908843201",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "스트레스 DSR 미적용 · 대출 원금을 증액하지 않고 기존 금액만 연장하는 경우 · 금융당국 가이드라인: \"대출 증액이 없으면 DSR 재심사 없음\" · 즉, [은행명] ...",
+     "date": "2025-06-23",
+     "tier": 3
+    },
+    {
+     "title": "무주택 고액전세대출도 DSR 적용하나…사각지대 없애겠단 정부",
+     "url": "https://www.mk.co.kr/news/economy/11950906",
+     "hostname": "mk.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=mk.co.kr&sz=128",
+     "description": "특히 무주택자라도 고액 전세대출일 경우 이자 상환분은 DSR 규제를 적용하는 방안을 검토 중이다. 시중은행은 보통 수도권 전세대출을 최대 4억~5억원 ...",
+     "date": "2026-02-03",
+     "tier": 2
+    },
+    {
+     "title": "신용대출과 전세자금대출을 동시에 받을수있나요?",
+     "url": "https://www.a-ha.io/questions/476326f55f54b89ea3e7b4c4b89353e3",
+     "hostname": "a-ha.io",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=a-ha.io&sz=128",
+     "description": "두가지가 동시에 되는지 궁금합니다 90년생 남성이며 대출 받아본적은 없습니다 신용점수는 나이스 900점대와 850대 ...",
+     "date": "2025-03-27",
+     "tier": 3
+    },
+    {
+     "title": "1주택자 전세대출에도 DSR 적용…\"갭투자 막겠다\" - 마켓인 - 이데일리",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03125846642333248",
+     "hostname": "marketin.edaily.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=marketin.edaily.co.kr&sz=128",
+     "description": "반면 전세대출 이자는 전세대출 기간 중 꾸준히 상환해야 하므로 차주의 상환능력을 심사할 필요가 있다. 전세대출은 만기(통상 2년)가 짧아 원금 반영시 ...",
+     "date": "2025-10-15",
+     "tier": 2
+    }
+   ]
+  },
+  {
+   "query": "전세자금대출 1주택자 DSR 2026 행정지도 신용대출",
+   "results": [
+    {
+     "title": "2026년 세금 및 대출 정책 변화에 대한 주요 이슈와 전망은!",
+     "url": "https://m.blog.naver.com/ppassong/224119294507",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "규제 적용 시점: 계약 갱신 시 전세자금 대출에는 DSR이 적용되지 않지만,. 새롭게 1주택자가 수도권 규제 지역에서 임차인으로 전세 대출을 받을 때는 ...",
+     "date": "2025-12-23",
+     "tier": 3
+    },
+    {
+     "title": "주요정책문답",
+     "url": "https://www.fsc.go.kr/po020201/85518?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+     "hostname": "fsc.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=fsc.go.kr&sz=128",
+     "description": "... 금리(3%)가 소급 적용되지 않음. 5. 전세대출 DSR 적용. 5-1. 전세대출 DSR 적용대상은? □ 1주택자가 보유한 주택 소재지에 관계없이 1주택자가 수도권· ...",
+     "date": "2025-10-15",
+     "tier": 1
+    },
+    {
+     "title": "2026년 스트레스 DSR 3단계 시행, 대출한도 차이는 얼마까지?",
+     "url": "https://www.banksalad.com/articles/%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%8A%A4-DSR-%EA%B7%9C%EC%A0%9C-%EC%A0%84%EC%84%B8%EB%8C%80%EC%B6%9C-%EB%8B%A8%EA%B3%84",
+     "hostname": "banksalad.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=banksalad.com&sz=128",
+     "description": "*최근 가계부채 상황을 감안해 2단계 수도권(서울,경기,인천지역) 주택담보대출 스트레스 금리는 1.2% 상향 적용. *출처 금융위원회. 스트레스 DSR 적용 전 연소득 1억원 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "1주택자 전세대출에도 DSR 적용…\"갭투자 막겠다\" - 마켓인 - 이데일리",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03125846642333248",
+     "hostname": "marketin.edaily.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=marketin.edaily.co.kr&sz=128",
+     "description": "-1주택자가 수도권·규제지역에 전세를 얻을 때 이자상환액에도 DSR이 적용되는데 이때 1주택자의 소유 주택이 지역과 무관하게 적용된다. 지방 주택 ...",
+     "date": "2025-10-15",
+     "tier": 2
+    },
+    {
+     "title": "비거주 1주택자 전세대출 사실상 막힐수도… DSR 적용도 검토",
+     "url": "https://www.donga.com/news/Economy/article/all/20260610/134080994/2",
+     "hostname": "donga.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=donga.com&sz=128",
+     "description": "이르면 8월부터 수도권·규제 지역 아파트를 가진 비거주 1주택자는 사실상 신규로 전세대출을 받기 어려워질 것으로 보인다.",
+     "date": "2026-06-10",
+     "tier": 2
+    },
+    {
+     "title": "[Q&A] \"기존 전세대출은 DSR 미적용…증액 시 신규 대출로 간주\" [10·15 대책]",
+     "url": "https://www.etoday.co.kr/news/view/2514803",
+     "hostname": "etoday.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=etoday.co.kr&sz=128",
+     "description": "... 금리(3%)가 소급 적용되지 않는다. Q. 전세대출 DSR은 누구에게 적용되나? A. 1주택자가 수도권이나 규제지역에서 전세대출을 받을 경우 적용된다. 단 ...",
+     "date": "2025-10-15",
+     "tier": 3
+    },
+    {
+     "title": "2026년 8·13 부동산 금융대책 총정리 : 1주택자 전세대출 규제 강화·청년",
+     "url": "https://m.blog.naver.com/bigtiger001/224378082863",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "정부는 기존 LTV·DSR과 주택담보대출 한도를 그대로 유지하면서, 비거주 1주택자의 전세대출 보증을 제한하고, 수도권·규제지역 1주택자의 보증비율도 ...",
+     "date": "2026-08-14",
+     "tier": 3
+    },
+    {
+     "title": "새로운 주담대 규제, 수도권 조인다… 지방 부동산엔 상대적 완화된 온도",
+     "url": "https://www.ynenews.kr/news/articleView.html?idxno=70033",
+     "hostname": "ynenews.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=ynenews.kr&sz=128",
+     "description": "10월 29일부터는 1주택자가 수도권과 규제지역에서 전세대출을 받을 때 그 이자 상환액이 DSR 산정에 포함된다. ... 년 4월에서 2026년 1월 1일로 3개월 ...",
+     "date": "2025-10-20",
+     "tier": 3
+    },
+    {
+     "title": "2026년 전세대출, 아직도 헷갈리시나요?  한도 반토막 나기 전에 '저장 ...",
+     "url": "https://www.instagram.com/reel/DTkQbxGjtKM/?hl=ko",
+     "hostname": "instagram.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=instagram.com&sz=128",
+     "description": "",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "금융정책",
+     "url": "https://www.fsc.go.kr/po010101/76740?srchCtgry=1&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+     "hostname": "fsc.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=fsc.go.kr&sz=128",
+     "description": "주택 ①全 규제지역 ・ 신용대출 연소득 8천초과. DSR 산정시 분할상환 신용대출의 ・ 전세대출 증가세 관리. DSR에 전세대출 원금 ・ 상환능력 기준 도입 ...",
+     "date": "2021-10-26",
+     "tier": 1
+    }
+   ]
+  }
+ ]
+}

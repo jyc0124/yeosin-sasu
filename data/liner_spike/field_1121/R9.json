@@ -1,0 +1,503 @@
+{
+ "id": "R9",
+ "question": "전세자금대출(보증) 만기연장 심사와 약정은 만기 몇 개월 전부터 할 수 있나요? 연장 약정을 미리 해도 연장 효력 발생일(처리일)은 원래 만기일인가요? 규제 적용 기준일은 무엇인가요(약정일, 신청일, 만기도래일)? HUG·HF·SGI별로 알려주세요. 금융위원회·금융감독원·은행연합회·HUG(주택도시보증공사)·HF(한국주택금융공사)·SGI서울보증 등 공식 자료(보도자료, FAQ, 행정지도, 상품설명서, 보증규정, 질의회신, 금융규제·법령해석포털 회신사례)에서 근거 문장을 찾아 문서명·날짜와 함께 인용해 주세요. 보증기관별로 다르면 기관별로 나눠 주세요. 공식 근거가 없으면 '공식 근거 없음'이라고 분명히 답하고 추측하지 마세요.",
+ "agent": {
+  "text": "| 보증기관 | 구분 | 공식 확인 내용 | 공식 근거 문서 및 날짜 |\n|---|---|---|---|\n| 공통 | 만기연장 신청 시기 | 금융감독원은 전세자금대출 만기연장에 대해 신용상태 확인, 임대인 동의, 보증서 발급기관의 기한연장 승인 등 심사가 필요하므로 **적어도 만기 1개월 전에 신청**하라고 안내합니다. 다만 이는 보증기관별 세부 처리기한이나 약정 가능 시기를 확정하는 규정으로 제시된 것은 아닙니다. ((3)) | 금융감독원 「만기 시 이렇게 하세요」, 날짜 표시 없음 |\n| 공통 | 연장 약정 체결일과 연장 효력 발생일 | 제공된 공식 자료에는 연장 약정을 만기 전에 체결한 경우에도 연장 효력 발생일 또는 처리일이 원래 만기일인지에 관한 명시적인 근거가 없습니다. **공식 근거 없음** | 확인 가능한 공식 자료에서 해당 기준 문장 미확인 |\n| 공통 | 규제 적용 기준일 | 금융위원회 행정지도는 전세자금대출 만기연장 시 대출금액을 증액하면 변경된 규정을 적용한다고 안내하지만, 규제 적용 기준일을 약정일·신청일·만기도래일 중 어느 날로 보는지는 명시하지 않습니다. ((2)) | 금융위원회 「주택담보대출에 대한 리스크 관리 기준」, 2026년 8월 28일 |\n| 공통 | 신청일·약정일·만기도래일의 구분 | 제공된 공식 자료만으로는 신청일, 연장 약정일, 만기도래일 중 어느 날짜를 전세자금대출 보증 규제의 일반적인 적용 기준일로 삼는지 확인되지 않습니다. **공식 근거 없음** | 확인 가능한 금융위원회·금융감독원·보증기관 자료에서 해당 기준 문장 미확인 |\n| HUG | 만기연장 신청 가능 시기 | HUG의 전세안심보증 관련 자주 묻는 질문은 **갱신 신청기간을 보증기간 만료일 전**으로 안내합니다. 다만 만료일 몇 개월 전부터 심사 또는 연장 약정이 가능한지는 제시하지 않습니다. ((12)) | HUG 「자주하는 질문, 전세안심보증」, 날짜 표시 없음 |\n| HUG | 심사 및 갱신 가능 여부 | HUG는 갱신 신청 시 주민등록등본, 신분증, 등기부등본, 금융기관 전세자금대출 및 담보제공확인서, 갱신 전세계약서 등의 서류를 요구할 수 있다고 안내하며, 보증갱신은 심사 결과에 따라 불가능할 수 있다고 안내합니다. ((12)) | HUG 「자주하는 질문, 전세안심보증」, 날짜 표시 없음 |\n| HUG | 연장 약정일과 효력 발생일 | HUG 공식 자료에서 갱신 약정 체결일과 갱신 보증의 효력 발생일 또는 처리일의 관계는 확인되지 않습니다. **공식 근거 없음** | 확인 가능한 HUG FAQ 및 안내자료에서 해당 기준 문장 미확인 |\n| HUG | 규제 적용 기준일 | HUG 인터넷보증 안내는 일부 전세보증 가입 요건에서 주택가격을 신청일이 아니라 **보증승인일 기준**으로 적용한다고 설명하지만, 이는 전세자금대출 보증 만기연장의 규제 기준일을 약정일·신청일·만기도래일 중 하나로 정한 근거는 아닙니다. ((8)) | HUG 「인터넷보증 오픈페이지」, 날짜 표시 없음 |\n| HUG | 결론 | HUG에 대해서는 갱신 신청을 보증기간 만료일 전에 해야 한다는 공식 안내는 확인되지만, 만기 몇 개월 전부터 심사·약정이 가능한지, 미리 체결한 약정의 효력 발생일이 원래 만기일인지, 규제 기준일이 무엇인지는 **공식 근거 없음** | HUG 「자주하는 질문, 전세안심보증」 및 「인터넷보증 오픈페이지」 |\n| HF | 만기연장 신청 가능 시기 | 한국주택금융공사 전세자금보증의 만기 도래 고객을 대상으로 한 안내문은 만기 도래 사실을 고지하지만, 만기 몇 개월 전부터 심사 또는 연장 약정을 할 수 있는지는 제시하지 않습니다. ((7)) | HF 「보증기한 도래 안내문, 부가 고지사항」, 2026년 4월 20일 |\n| HF | 심사 및 연장 절차 | 금융감독원은 전세자금대출 만기연장에 보증서 발급기관의 기한연장 승인이 필요하다고 안내합니다. 그러나 이 안내만으로 HF의 구체적인 신청 가능 시점이나 약정 절차를 확정할 수는 없습니다. ((3)) | 금융감독원 「만기 시 이렇게 하세요」, 날짜 표시 없음 |\n| HF | 연장 약정일과 효력 발생일 | HF 공식 자료에서 만기 전에 연장 약정을 체결한 경우 연장 효력이 원래 만기일에 발생하는지 여부는 확인되지 않습니다. **공식 근거 없음** | 확인 가능한 HF 안내자료에서 해당 기준 문장 미확인 |\n| HF | 규제 적용 기준일 | 제공된 HF 공식 자료에는 전세자금보증 만기연장 규제의 적용 기준일을 약정일·신청일·만기도래일 중 어느 날로 정하는지에 관한 명시적인 내용이 없습니다. **공식 근거 없음** | 확인 가능한 HF 자료에서 해당 기준 문장 미확인 |\n| HF | 결론 | HF에 대해서는 만기 도래 고객에게 별도 안내가 이루어진다는 점은 확인되지만, 만기연장 심사·약정의 구체적인 선행 가능 기간, 연장 효력 발생일, 규제 적용 기준일은 **공식 근거 없음** | HF 「보증기한 도래 안내문, 부가 고지사항」, 2026년 4월 20일 |\n| SGI | 만기연장 신청 가능 시기 | 제공된 SGI 공식 상품자료의 신청기간 안내는 **전세금반환보증**에 관한 것으로, 신규는 임대차계약기간의 2분의 1이 경과하기 전, 갱신은 기존 임대차계약 만료일 이전 1개월 이내부터 갱신 임대차계약기간의 2분의 1이 경과하기 전까지로 설명합니다. 이는 SGI 전세자금대출 보증의 만기연장 시기를 직접 규정한 자료가 아닙니다. ((9)) | SGI서울보증 「전세금반환보증보험」, 날짜 표시 없음 |\n| SGI | 전세자금대출 보증과 반환보증의 구분 | 위 SGI 자료는 상품명이 전세금반환보증보험이므로, 해당 신청기간을 SGI 전세자금대출 보증의 만기연장 심사·약정 가능 시기로 적용할 공식 근거는 확인되지 않습니다. **공식 근거 없음** | SGI서울보증 「전세금반환보증보험」, 날짜 표시 없음 |\n| SGI | 연장 약정일과 효력 발생일 | SGI 전세자금대출 보증의 만기연장 약정일과 연장 효력 발생일의 관계를 명시한 공식 자료는 확인되지 않습니다. **공식 근거 없음** | 확인 가능한 SGI 공식 자료에서 해당 기준 문장 미확인 |\n| SGI | 규제 적용 기준일 | SGI 전세자금대출 보증 만기연장에 대해 약정일·신청일·만기도래일 중 어느 날을 규제 적용 기준일로 삼는지 명시한 공식 자료는 확인되지 않습니다. **공식 근거 없음** | 확인 가능한 SGI 공식 자료에서 해당 기준 문장 미확인 |\n| SGI | 결론 | SGI 자료에서 확인되는 갱신 신청기간은 전세금반환보증 상품에 관한 내용이며, 전세자금대출 보증 만기연장에 관한 기관별 기준으로 사용할 수 있는 공식 근거는 **공식 근거 없음** | SGI서울보증 「전세금반환보증보험」 |\n| 종합 결론 | 기관별 비교 | 공식 자료로 확인되는 내용은 금융감독원의 “적어도 만기 1개월 전 신청” 안내, HUG의 “보증기간 만료일 전 갱신 신청” 안내, 금융위원회의 “만기연장 시 대출금액을 증액하면 변경된 규정 적용” 안내입니다. ((2)) ((3)) ((12)) | 금융감독원 「만기 시 이렇게 하세요」, HUG 「자주하는 질문, 전세안심보증」, 금융위원회 「주택담보대출에 대한 리스크 관리 기준」 |\n| 종합 결론 | 질문에 대한 확정 답변 | HUG·HF·SGI별로 만기 몇 개월 전부터 심사·약정할 수 있는지, 미리 체결한 연장 약정의 효력 발생일이 원래 만기일인지, 규제 기준일이 약정일·신청일·만기도래일 중 무엇인지에 대해서는 제공된 공식 자료만으로 확정할 수 없습니다. 해당 항목은 모두 **공식 근거 없음**입니다. | 제공된 공식 금융당국·보증기관 자료 전체 검토 결과 |\n| 안내 | 개별 적용 확인 | 금융감독원은 전세자금대출이 자동연장되지 않고 상품별 요건을 충족해야 하므로 대출한도와 대출자격을 사전에 확인할 필요가 있다고 안내합니다. ((3)) | 금융감독원 「만기 시 이렇게 하세요」, 날짜 표시 없음 |\n| **중요한 면책사항** | 일반 안내 | 위 내용은 일반적인 정보 제공을 위한 것이며, 전문적인 금융·법률 자문을 대신하지 않습니다. 개인의 대출계약, 보증상품, 만기일 및 규제 적용 여부에 관한 구체적인 판단은 해당 은행과 보증기관의 자격 있는 담당자 또는 금융·법률 전문가에게 상담하시기 바랍니다. | 일반 안내 |",
+  "references": [
+   {
+    "title": "한국주택금융공사",
+    "url": "https://hf.go.kr/",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주택담보대출에 대한 리스크 관리 기준",
+    "url": "https://better.fsc.go.kr/fsc_new/file/displayFile.do?filePath=/2026/08/28&orgFileName=260813_%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%A6%AC%EC%8A%A4%ED%81%AC%20%EA%B4%80%EB%A6%AC%20%EA%B8%B0%EC%A4%80%20%ED%96%89%EC%A0%95%EC%A7%80%EB%8F%84.pdf&sysFileName=9150b4d6f5564462ab5cf218254697e9.pdf",
+    "hostname": "better.fsc.go.kr",
+    "date": "2026-08-28",
+    "tier": 1
+   },
+   {
+    "title": "만기 시 이렇게 하세요 | 금융감독원 금융상품",
+    "url": "https://fine.fss.or.kr/main/prc/lo/sub/lo018.jsp?menuNo=9000323",
+    "hostname": "fine.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2025년 3분기 보고서",
+    "url": "https://englishdart.fss.or.kr/dsbh001/main.do?rcpNo=20251121000500",
+    "hostname": "englishdart.fss.or.kr",
+    "date": "2025-11-21",
+    "tier": 1
+   },
+   {
+    "title": "상품안내 < 전세보증반환 가입신청 | 모바일HUG",
+    "url": "https://onestop.khug.or.kr/webView/webBiz/apply/goods001",
+    "hostname": "onestop.khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2026년도 연간자금계획안",
+    "url": "https://khug.or.kr/khugcms/board/skin/download.jsp?id=1285&fileId=26647",
+    "hostname": "khug.or.kr",
+    "date": "2025-12-26",
+    "tier": 1
+   },
+   {
+    "title": "보증기한 도래 안내문 - 부가 고지사항 | 국민참여",
+    "url": "https://hf.go.kr/ko/sub04/sub04_08.do?mode=view&articleNo=599981",
+    "hostname": "hf.go.kr",
+    "date": "2026-04-20",
+    "tier": 1
+   },
+   {
+    "title": "인터넷보증 오픈페이지",
+    "url": "https://khig.khug.or.kr/main2.jsp?menuId=sectionA",
+    "hostname": "khig.khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "전세금반환보증보험 | 주거/임대/생활 | 상품",
+    "url": "https://m.sgic.co.kr/biz/cmw/index.html?p=CMWPRD030301F01",
+    "hostname": "m.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전세자금대출 | 대출 | 금융감독원 금융상품통합비교공시 금융상품한눈에",
+    "url": "http://finlife.fss.or.kr/finlife/ldng/lfstsFunds/list.do?menuNo=700008",
+    "hostname": "finlife.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "Registration Statement (Equity securities)",
+    "url": "https://englishdart.fss.or.kr/dsbh001/main.do?rcpNo=20251117000209",
+    "hostname": "englishdart.fss.or.kr",
+    "date": "2025-11-17",
+    "tier": 1
+   },
+   {
+    "title": "자주하는 질문 < 전세안심보증 < 개인보증 <  주택도시보증공사",
+    "url": "https://www.khug.or.kr/hug/web/ig/dl/igdl000003.jsp?tabMenu=Y",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보증기관별 전세대출 금리·한도·규제 조건 한눈에 확인",
+    "url": "https://www.google.com/goto?url=CAESYwHEIkXXEm1zp8QqbkM-5JxkKXktghMtf28FBEiNlo_GKLoM952dvm_852LyxvjmxZnNPcrI4RCvqsRZdrL-asIFVCQA5v53fJCwtI5-jwiOW8hnOowMUQrXDE2ijY0lM2L0Lw&gsessionid=1cz6JmhYn9c6we6AtqLgdY49HsxAT_h-97ZtD9LEvz-K0S8A2zZM8Q",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "HUG 주택도시보증공사",
+    "url": "https://www.khug.or.kr/",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "자주하는 질문 < 전세반환보증 < 개인보증 <  주택도시보증공사",
+    "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000003.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보금자리론 설명서",
+    "url": "https://www.hf.go.kr/cms/etcResourceDown.do?site=$cms$NYeyA&key=$cms$AwRg+sBsEExjlgBYRIHQAcAmAzIA",
+    "hostname": "hf.go.kr",
+    "date": "2026-04-17",
+    "tier": 1
+   },
+   {
+    "title": "전월세자금 대출안내 | 금융생활안내 | 금융생활 길라잡이 | 금융소비자보호 |",
+    "url": "https://www.fss.or.kr/fss/main/contents.do?menuNo=200502",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "[은행명] 전월세보증금 대출",
+    "url": "https://www.kakaobank.com/products/leaseLoan",
+    "hostname": "kakaobank.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "[은행명] 전월세보증금대출",
+    "url": "https://www.tossbank.com/product-service/loans/jeonse-loan",
+    "hostname": "tossbank.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "보도자료(상세) | 보도자료 | 보도·알림 |",
+    "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=211404&menuNo=200218",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2018년도 소송 주요 판례",
+    "url": "https://www.hf.go.kr/_custom/hf/_common/board/index/106.do?mode=download&articleNo=234153&attachNo=50177",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주택도시기금",
+    "url": "https://nhuf.molit.go.kr/",
+    "hostname": "nhuf.molit.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "Untitled - 경기주거복지포털",
+    "url": "https://www.google.com/goto?url=CAESrQEBxCJF17OkbZUFzR3OOOBA33AOPMkpTl_556iRZnJXjPn3C617l9ThnGnAtKCI5ZlVlLUGyovlTVaZ4TmaOaI-dUG5iE3tkjo0Zl8sVKwZZfLdVtup5rSTC7T1iXD-hn4OE_dl1_BmTYcFnSl9MhvLQMRChGAVTYu-YpjKUC_KJgL3X-zp-4fbjgT1L2Zxragd1eEpyT42tB0POcSCSa4a8rpKuHadg8rZlT8UDw&gsessionid=a0F8iB6MC5wxPbHlx6DubB3hUHSGQwouIJqqckVkwzbinY6RX0MxwA",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "[PDF] 전세피해지원센터 안내 - 주택도시보증공사",
+    "url": "https://www.khug.or.kr/hug/homepage_file_upload/Info_notice_download.pdf.pdf",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보금자리론 업무처리기준",
+    "url": "https://www.google.com/goto?url=CAESpAEBxCJF12sOuy2dfTblGWYEyvgkfWNOdKZAFOiAnDqDQcKhezVpx7Le8P8uqVc5sfgPUmqyF8EII-IpFtjmbE9ZM60KcYCFsWTu9FMKyz1Lg59K7dgkgRPcgUI-4YEcYyI8ka_DdrWANBB_fYuYTcquWjSjTNQvPUNR7wzQCvbd4kSWgiUHTqAA9khk8_QEfnYdLp0r34u7DzLzawD0zkyEmR7p1w&gsessionid=I99JlphHq6odKDC8qc5CSLM5cYJPO0o92TGuUBM7OQXm-M0hioJ20g",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "규제지역 다주택자 매물 7500건…투기 1주택·RWA도 동시 압박",
+    "url": "https://www.google.com/goto?url=CAESYAHEIkXXErY21TR1c3rcFbMcEex922f33L_ohUthTPMAlv0sdPXa1hLuCCEAZKJ4muKHTLfOlfNA7aYvqvLWugkAr5j1q7wGM5gneHzpt-sjEgmex8fmKR8VQPB5ijphIg&gsessionid=1cz6JmhYn9c6we6AtqLgdY49HsxAT_h-97ZtD9LEvz-K0S8A2zZM8Q",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전세보증 이행청구 < 보증이행안내 | 모바일HUG",
+    "url": "https://onestop.khug.or.kr/view/biz/excu/loahExcu001",
+    "hostname": "onestop.khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "한국주택금융공사(HF)도 28일부터 전세 보증 기준 강화... ...",
+    "url": "https://www.google.com/goto?url=CAESXwHEIkXXCz-J5Po1A0hKFK8KUny2Fu21dpyQ-MHBpCitlMXXvqbbTCGAJraP_JC5Y81Xc_o-W-NQKbQnEDwiEhgZ7Ga3OwClkZuyqIHI0dvQDz7qAS89qHK6mWTw8PvS&gsessionid=a0F8iB6MC5wxPbHlx6DubB3hUHSGQwouIJqqckVkwzbinY6RX0MxwA",
+    "hostname": "google.com",
+    "date": "2025-08-27",
+    "tier": 3
+   },
+   {
+    "title": "공통사항 | 금융감독원 금융상품",
+    "url": "https://fine.fss.or.kr/main/prc/dp/sub/dp014.jsp?menuNo=900259",
+    "hostname": "fine.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "자세히 알아보기 | 주택연금이란",
+    "url": "https://www.google.com/goto?url=CAESawHEIkXXJACymjRIFf7HRjsmU8xahwoB3ia2l8yrAsNLxRt0Cg4VI-Y3xg4uzjyF3JHEz5UnWN5zPrB06tJao76Rb4N34cgrGbWpMwjdO5k8S4Dj6l5oNV14rxpqrCBUyGAEsFT2Jl58IaiC&gsessionid=I99JlphHq6odKDC8qc5CSLM5cYJPO0o92TGuUBM7OQXm-M0hioJ20g",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "청년·신혼부부 주거지원",
+    "url": "https://www.google.com/goto?url=CAESgwEBxCJF19CX-GIN5tK30W6_NnSlWdn3DYyJdTzSqve8ffJGU4erinyGMbEL00Lxc4mVaCUQjmPnSD5FkYqWR4IkiJegxEoP8NZnEwSjPG0aNOOJCEfdgJk8rfIDLjZIoKZvqqaDrrNOrwjDy7KFyjUCwQnhDmqEfkwcLKSsLQOQzqm_fQ&gsessionid=1cz6JmhYn9c6we6AtqLgdY49HsxAT_h-97ZtD9LEvz-K0S8A2zZM8Q",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "서비스 이용시 유의점 | 알림마당 | 금융감독원 금융상품통합비교공시 금융상품한눈에",
+    "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700024",
+    "hostname": "finlife.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2026 광주 청년 주택임차보증금 이자 지원",
+    "url": "https://www.google.com/goto?url=CAESYgHEIkXXSlEMZwKRF1-w7-ORgb2R7TZD2cqYh2MvdkG59ok877v8K3Jrpsg9wGFcpiq8od7T63KL8gB7UWbU7maLCCwEd1Rc_Qff2HiRBpKOv8Cpwj-wzKPp9REczZkQTzgV&gsessionid=a0F8iB6MC5wxPbHlx6DubB3hUHSGQwouIJqqckVkwzbinY6RX0MxwA",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "내집마련 디딤돌 대출 업무처리기준",
+    "url": "https://www.google.com/goto?url=CAESrgEBxCJF1xgq2aVNcwge0BVrJn3eo2JHi3-i5j9ZNvpYx2RX7I4hNAQBCBwA9LwywjguXc_pW8cuYeeYfo8BAygquBV5XgW8xGazZzEwMX68I-5CvnP_pFmNabKXXIjC8jc28Z5BnFOz4AO4ia_HoHAvdty5gbZSUO6Fz3NkXjr8_5TAv6OzQdCqqm18-x13pefQIYrhMf9DZxjXnrE4PUT4ayPZv8TqMX6sS0H9dQE&gsessionid=I99JlphHq6odKDC8qc5CSLM5cYJPO0o92TGuUBM7OQXm-M0hioJ20g",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "DSR 계산기 - 금융이 알고 싶을 때, 토스피드",
+    "url": "https://www.google.com/goto?url=CAESZAHEIkXXgDFdiYKE6l0u0cHTF5BoyS9SUdB8XpL6SCvPtlPQhzp_gmyB2OoPrmMGpx2W7IQeXqNEb_wqXYx6ny1-b8uSxUMD1jHLs74c8tPiAYYa49CpP7E3oMG6Q6oPBG6XWPI&gsessionid=1cz6JmhYn9c6we6AtqLgdY49HsxAT_h-97ZtD9LEvz-K0S8A2zZM8Q",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전세대출 종류 총정리 — 버팀목·시중은행 보증부·전세지킴이 조건 ...",
+    "url": "https://www.google.com/goto?url=CAESbAHEIkXXvbltBNjDlZJprI25i_QeamC2Qq3ynbS4psbDyuIrMhUWuqXB3UBVbIOvt3ZEpjdNXJ-XGO2GfT7MiXuPNhaw4F9wsBfdD4ucChnhgrbx0BnrcBNWweBA8wJfw437GUakiL8A_2tFLQ&gsessionid=a0F8iB6MC5wxPbHlx6DubB3hUHSGQwouIJqqckVkwzbinY6RX0MxwA",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "은행업감독규정 > 행정규칙",
+    "url": "https://www.google.com/goto?url=CAEStwEBxCJF19Z-bnJcynwkYlmiHzVi00xGpQtSyNTV7FE0K3taSVP6Jtxth1wHOHPw6BdU2wLYJTboCXt2T5r77qZkPPsJvRZ9YYX4aebshbdiPB9q18-W9LwUP8Sjrdy3P4yHKeMULEdcfc63F3j8wM9QtQSS5GoELPWM8UF5lwIb-xISXoGRPjvqi00P7NZ3wwx36DjB3fMWAgXcBFzPSIv4hibR-YsEuihtjoNnfqPxX2dDs9i7pvI&gsessionid=1cz6JmhYn9c6we6AtqLgdY49HsxAT_h-97ZtD9LEvz-K0S8A2zZM8Q",
+    "hostname": "google.com",
+    "date": "2026-10-02",
+    "tier": 3
+   },
+   {
+    "title": "붙임1 신혼부부 임차보증금 이자지원사업 FAQ",
+    "url": "https://www.google.com/goto?url=CAESwgMBxCJF1-lzK30aUZ_b5yyI3LE1sQtHqXQShsHg3wxbRkNBEy4SJWl0ic6FJV9jbnfGqNjKBsTg1dL9pSznqMIvBoOFSc0aOCFYHxl99FVczpUHp1VCYXUhCxg6f9OCfOc9p8iVzSLAf0p3lJEqxECSiXwDeYGDMrRNwZna52RxMfmUJ9IxcPZhNp-vDXU4nysbDUA4x1wPcY-U46_Ntu94IInXDTBdOWwonOdID6BN2JSLj63XGHsyXdw7dHP6zZN3nous9ooAQLNgi06ZPwX2rLX5gcNZh9Bv1AbM7obQ1mqaiUfHA7ORu4OLwAOQkunikcfM3kXwxVmnhAFkrG5FSk-n-iDvBfZLMW5NG3aWOBP1xhSYOpSDplwYbVKHGyyu2mYnzaGeFt1xXeLhIomu_J28romDLPSUXAc4HaWiOAuGlQ6FAJxE5lyNfoIpv87PoORfhF9D016L10xzKJhp98uz4t_TjZHze-H8cJZ38Dlvu4HSJk3hAt0nBYzUaSSvb3hw-kpepSY6xWktjuOTNCJQj3sOHQhT6PwgW-Xc_ylYandgtiwlbuFaeQFhFYGMeF39zZevUQFeRgajCJVMeoY&gsessionid=a0F8iB6MC5wxPbHlx6DubB3hUHSGQwouIJqqckVkwzbinY6RX0MxwA",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "\"제발 대출 좀\" 오픈런 이제 끝?…잔금·이주비 숨통, 30조 더 ...",
+    "url": "https://www.google.com/goto?url=CAESdwHEIkXXCnDa8-gp2rHRVzMWgEz5V-68LfkzPe2STo1tMDeif3yP_P-5CsLl00FBADfX8Rk4NQI53_Ox612jpPZtM5-17i9OrH5P4j0GapcTFahxTZxYNSb-9vSRGThxmU1bZjPSwMUXUk8M2ZfuJUH9IAYTch3r&gsessionid=1cz6JmhYn9c6we6AtqLgdY49HsxAT_h-97ZtD9LEvz-K0S8A2zZM8Q",
+    "hostname": "google.com",
+    "date": "2026-08-14",
+    "tier": 3
+   },
+   {
+    "title": "2026 나에게 힘이 되는 복지서비스",
+    "url": "https://www.google.com/goto?url=CAESsQIBxCJF10v6t9fetEwd9sw2-MRwRZN7Ykjrj6KbBb6jOCDiqfTGWD9btbitOWP1_NzcEeKy8THd4-JUvSR8AeKvQusUWqqUC-5lL1MTjANVEaZYmv0pHyCHE7KleyAnnA2QWn2tilVBTtX_p_0ULApqA1Wq1qOrrpDGADX_6kjM-tvdEo6SpoWqp69vhinQ6T7VAyZ3loLHx6pNzaFVV7z5NBozDIbZqar3Vjq6GAITRp_bYRRMaVX6j9_V9rnUAL7f0dSpDRToIsy0jwnlDDcNv0U7p2lyCXCoXpzDhB4__b0zc01FkZFwnWTbnaGF4xA_aV7aCy6NW6eQNrZ8SCuskT8Xc5NgOM9j5l37cuoWak2IwuLPvPinh5D3QeCF1DFeWT6stpr5KLKn-CxZKln9qA&gsessionid=a0F8iB6MC5wxPbHlx6DubB3hUHSGQwouIJqqckVkwzbinY6RX0MxwA",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "은퇴빈곤층(Retire Poor)의 추정과 5대 특성 - 주택금융연구원",
+    "url": "https://www.google.com/goto?url=CAESnQEBxCJF11Wg7IkELJhgNiZlnnm9ZPTssCOmOONtCRDZaogk7gYurWoZzB_98WViqT-UyNnSaZtrv2VV11JMuXZ55ycP0cjZoD-IV2nFKY3aHlApXFikwhk_DI76U9aqLvy-0GDUCmvEWn1qWVbVoCPxxxtramjVpojP1X1OHzV1-iXMzt_hJ5_eF0UwxYggG_pjDXSaL3HvoTzsWFrs&gsessionid=I99JlphHq6odKDC8qc5CSLM5cYJPO0o92TGuUBM7OQXm-M0hioJ20g",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "\"제발 대출 좀\" 오픈런 이제 끝?…잔금·이주비 숨통, 30조 더 풀린다",
+    "url": "https://www.google.com/goto?url=CAESZgHEIkXXclV-N-jVg1jDDG6noMtSPkkyjwCRw5tRv4Ow2kXe-b-3ASaQaUYf0u6KU0cJlL2zsJSddHVvzLJfNnuseqgB100dEmIvOtPpCSFb1xJyTJZypdZQXkwEIt0fhuJhBHm3oQ&gsessionid=1cz6JmhYn9c6we6AtqLgdY49HsxAT_h-97ZtD9LEvz-K0S8A2zZM8Q",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "사업자대출 개인사업자 조건·정책자금·금리 비교 총정리",
+    "url": "https://www.google.com/goto?url=CAESggEBxCJF16Z0oOCbmLHsNHbSxnyu0cHCOyxbjWjkuqcxFvvaADp7MzO75_NeS-ulPvOoscWQQS6IZC02XkBIcgpgokZBq8Nx31QywVW5CKmc3yNnRnqIBfz-drCzgSu8m_UJUcju7Xg1MfJ-mkmuzlxvjEYty61wUF4o2lpxhvUAraCC&gsessionid=a0F8iB6MC5wxPbHlx6DubB3hUHSGQwouIJqqckVkwzbinY6RX0MxwA",
+    "hostname": "google.com",
+    "date": "2026-11-11",
+    "tier": 3
+   }
+  ],
+  "requestId": "f0c8a0e0-cfdf-4621-a1df-a9892894f25a"
+ },
+ "searches": [
+  {
+   "query": "전세자금대출보증 연장 신청 기간 만기 전 HUG",
+   "results": [
+    {
+     "title": "HUG 주택도시보증공사 - 전세금안심대출보증",
+     "url": "https://www.khug.or.kr/khmb/m/hg/gg/relax/relaxsub3.jsp",
+     "hostname": "khug.or.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=khug.or.kr&sz=128",
+     "description": "보증기간 연장(갱신) 신청은 어떻게 하나요? - (갱신 신청기간) 보증기간 만료일 전. - (갱신 신청방법). (1)은행에서 최초 보증발급 받은 경우 은행 내방. (2)공사 영업 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "전세 임대 기간 연장 시 보증금 반환보증도 함께 연장해야 합니다",
+     "url": "https://m.blog.naver.com/byongsu/224198315475",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "1.신청 시기: 보증보험 연장은 기존 보증 기간이 만료되기 전에 신청해야 ... 대출 연장과 별개: 전세자금대출 연장과 보증보험 연장은 별개입니다.",
+     "date": "2026-02-27",
+     "tier": 3
+    },
+    {
+     "title": "청년 허그 버팀목 전세대출 연장(전세 증액 재계약, 보증보험 갱신)",
+     "url": "https://blog.naver.com/youngji0809/224188214744",
+     "hostname": "blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=blog.naver.com&sz=128",
+     "description": "기존 전세 만기일 쯤 대출 연장 신청을 하면 된다. 대출 초기 신청할때는 은행을 여러번 방문해야 했는데. ​. 대출연장은 모바일로도 쉽게 신청이 가능함.",
+     "date": "2026-02-19",
+     "tier": 3
+    },
+    {
+     "title": "HUG 주택도시보증공사 - 주택전세자금대출",
+     "url": "https://www.khug.or.kr/khmb/m/hg/gg/prop/propsub5.jsp",
+     "hostname": "khug.or.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=khug.or.kr&sz=128",
+     "description": "Q.대출이용기간 2년 만기후 기한연장시 주의할 사항이 있습니까? - 기한연장시에는 최초 제출한 주민등록등본상 본인 포함 세대원전원은 반드시 무주택을 유지해야 합니다.",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "조건변경 | 전세보증금반환보증",
+     "url": "https://www.hf.go.kr/ko/sub02/sub02_05_03.do",
+     "hostname": "hf.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=hf.go.kr&sz=128",
+     "description": "기한연장 (임차보증금의 유지 또는 감액 조건으로 갱신계약한 경우). 임대차계약기간 만료 1개월 전부터 전세지킴보증 만료일 이전까지 신청 가능 · 임대인 변경. 기존 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "[일상] 전세 연장 + 전자 계약 후기 2탄 - iOSangBong - 티스토리",
+     "url": "https://iosangbong.tistory.com/34",
+     "hostname": "iosangbong.tistory.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=iosangbong.tistory.com&sz=128",
+     "description": "1. 대출 심사 완료 · 2. 전세 갱신 당일 · 3. 대출 갱신 당일 · 4. HUG 방문 · 5. 전세보증금반환보증 완료.",
+     "date": "2025-01-01",
+     "tier": 3
+    },
+    {
+     "title": "HUG 전세보증보험(전세보증금반환보증) 연장(갱신) 후기 및 상세 절차/ ...",
+     "url": "https://myneakrc.tistory.com/21",
+     "hostname": "myneakrc.tistory.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=myneakrc.tistory.com&sz=128",
+     "description": "출처: 주택도시보증공사(HUG) 홈페이지. 갱신 신청가능기간은 보증기간 만료일 전이다. 일반적으로 보증기간 만료일은, 기존 전세계약 만기일 + 1달이다.",
+     "date": "2021-12-05",
+     "tier": 3
+    },
+    {
+     "title": "Changes Coming in July: Youth Jeonse Loan Support",
+     "url": "https://www.youtube.com/watch?v=j8eSkOsims0",
+     "hostname": "youtube.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
+     "description": "2025년 7월부터 청년 버팀목 대출의 한도, 보증비율, 금리 혜택 등 모든 조건이 싹 바뀌었습니다. 이번 영상에서는 청년 버팀목 대출 변경 부분 청년 ...",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "HUG 버팀목대출 소득조건에 따른 대출 한도 변경 연락으로 급 공부 요약",
+     "url": "https://ssyongbbu.tistory.com/25",
+     "hostname": "ssyongbbu.tistory.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=ssyongbbu.tistory.com&sz=128",
+     "description": "25.06.13일부터는 HUG도 90%만 보증을 해주고 전세금80% OR 연소득대비 연이자 40% 한도까지만 대출을 해주겠다로 바뀌게된다는 소리입니다. 3. 연소득 ...",
+     "date": "2025-06-10",
+     "tier": 3
+    },
+    {
+     "title": "중기청100 전세자금대출 연장 조건 | HUG 보증보험 심사 기준",
+     "url": "https://goojic.com/%EC%A4%91%EA%B8%B0%EC%B2%AD100-%EC%A0%84%EC%84%B8%EC%9E%90%EA%B8%88%EB%8C%80%EC%B6%9C-%EC%97%B0%EC%9E%A5-%EC%A1%B0%EA%B1%B4-hug-%EB%B3%B4%EC%A6%9D%EB%B3%B4%ED%97%98-%EC%8B%AC%EC%82%AC-%EA%B8%B0/",
+     "hostname": "goojic.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=goojic.com&sz=128",
+     "description": "중기청100 전세자금대출은 최초 2년, 최대 4회 연장으로 총 10년 이용 가능합니다. 연장 신청은 대출 만기 1~2개월 전에 시작해야 하며, HUG 주택도시보증공사에서 문자나 ...",
+     "date": null,
+     "tier": 3
+    }
+   ]
+  },
+  {
+   "query": "전세대출 만기연장 경과조치 만기도래 기준 행정지도 26.12.31",
+   "results": [
+    {
+     "title": "전세대출 규제, 신규·연장 모두 포함? 8·13 부동산 대책에서 빠진 조건 3가지",
+     "url": "https://m.blog.naver.com/press02/224379250859",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "기준일 | 2026년 8월 14일. 다음 업데이트 | 금융위원회와 보증기관이 2027년 시행을 위한 행정지도·내규·세부 증빙기준을 추가로 확정하면 반영합니다.",
+     "date": "2026-08-15",
+     "tier": 3
+    },
+    {
+     "title": "2027년 1월 1일부터, 집 있는 세입자도 전세대출이 끊깁니다. 수도권·규제 ...",
+     "url": "https://www.instagram.com/p/DfWQZ8QGCMA/",
+     "hostname": "instagram.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=instagram.com&sz=128",
+     "description": "집 있는 세입자도 전세대출이 ・ 없는 경우가 제한 대상 ・ 달라지는 경과조치까지 정리본에 모두 담았어요. 행정지도(2026.8.28), Video by 체크리스트 ...",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "총부채원리금상환비율 - 부동산위키",
+     "url": "https://xn--989a00af8jnslv3dba.com/wiki/%EC%B4%9D%EB%B6%80%EC%B1%84%EC%9B%90%EB%A6%AC%EA%B8%88%EC%83%81%ED%99%98%EB%B9%84%EC%9C%A8",
+     "hostname": "xn--989a00af8jnslv3dba.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=xn--989a00af8jnslv3dba.com&sz=128",
+     "description": "2026년 7월 금융위원회는 해당 조치의 적용기간을 2026년 12월 31일까지 연장하였다. 신용대출 총잔액이 1억원을 초과하는 경우에만 스트레스 DSR을 적용한다. 전세자금대 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "은행업감독규정 > 행정규칙",
+     "url": "https://www.law.go.kr/%ED%96%89%EC%A0%95%EA%B7%9C%EC%B9%99/%EC%9D%80%ED%96%89%EC%97%85%EA%B0%90%EB%8F%85%EA%B7%9C%EC%A0%95",
+     "hostname": "law.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=law.go.kr&sz=128",
+     "description": "주택담보대출 등의 취급 및 만기연장에 없이 금융위에 보고하여야 한다. 및 만기연장 제한 ・ 2024년 12월 31일까지 : 2026년 12월 31일까지 ・ 신규 지 ...",
+     "date": "2026-10-02",
+     "tier": 1
+    },
+    {
+     "title": "검 토 보 고 서",
+     "url": "https://record.council.jeju.kr/CLRecords/Files/FileAppendix/a12/A048376.pdf",
+     "hostname": "record.council.jeju.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=record.council.jeju.kr&sz=128",
+     "description": "- 국비를 2025년 2조 659억 원에서 2026년 2조 2,342억 원으로 1,683억 원. (8.2%) 확대하고,. - 지방채를 2025년 2,200억 원에서 2026년 4,500억 원 ...",
+     "date": "2025-12-01",
+     "tier": 3
+    },
+    {
+     "title": "2025년 1분기 분기보고서",
+     "url": "https://www.bnkfg.com/download?seq=6086",
+     "hostname": "bnkfg.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=bnkfg.com&sz=128",
+     "description": "영위 12 기타 전 각호의 업무에 ・ [은행명]을 인수하여 ・ 동 개정사항은 2026년 1월 1일 이후 최초로 시작되는 회계연도의 ・ 또한 거래가격의 정의를 ...",
+     "date": "2025-05-15",
+     "tier": 3
+    },
+    {
+     "title": "1주택자 전세대출, 앞으로 더 까다로워질까요? 안녕하세요. 청라담은 ...",
+     "url": "https://www.instagram.com/reel/DfOFZ5_p30U/",
+     "hostname": "instagram.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=instagram.com&sz=128",
+     "description": "",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "2026년 부동산 정책 총정리｜주택담보대출 · 세금 · 거래규제 · 양도소득세",
+     "url": "https://sungjunking.tistory.com/entry/2026-real-estate-policy-loan-tax-regulation",
+     "hostname": "sungjunking.tistory.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=sungjunking.tistory.com&sz=128",
+     "description": "1. 2026년 1월 시행 정책① 은행권 주택담보대출 규제 강화시행일 : 2026년 1월 1일 ... 2026년 12월 31일까지 유지. ​. 대상 지역. 서울 : 전역 25개 구 ...",
+     "date": "2026-01-06",
+     "tier": 3
+    },
+    {
+     "title": "가계부채 백서",
+     "url": "http://www.kif.re.kr/KMFileDir/130076313432333750_KIFFR2013-01.pdf",
+     "hostname": "kif.re.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=kif.re.kr&sz=128",
+     "description": "... 년 6월에 “가계부채 연착륙 종합. 대책”, 2012년 2월에 “제2금융권 가계대출 보완대책” 등을 시행하였으며, 이러한 정책대응. 의 결과 최근 가계부채 ...",
+     "date": "2012-11-17",
+     "tier": 3
+    },
+    {
+     "title": "전세금 반환 지연 시 대출 연장 방법 집주인 미동의 및 이자 합의 대응법",
+     "url": "https://m.blog.naver.com/moa4089/224412268958",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "전세금 반환 지연 시 대출 연장을 진행하기 위한 가장 첫 번째 단계는 계약이 적법하게 해지되었음을 객관적으로 증명하는 것입니다. 임대차계약은 만기 2 ...",
+     "date": "2026-09-19",
+     "tier": 3
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "at": 1795075375448,
+ "value": {
+  "id": "chatcmpl-f0fa6d6865eb4d768f14af9c8440006b",
+  "object": "chat.completion",
+  "created": 1795075375,
+  "model": "gpt-6.1-sol",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "{\"sentences\":[{\"text\":\"보도자료·FAQ에는 시행일만 있어, 이번 연장에 적용할 기준 시점은 확인이 필요합니다.\",\"facts\":[\"F813-09\"]},{\"text\":\"후속 지침을 본점에 확인한 뒤 이번 연장 제한 여부를 안내드리겠습니다.\",\"facts\":[\"F813-09\"]}]}"
+    },
+    "finish_reason": "stop"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 657,
+   "completion_tokens": 199,
+   "total_tokens": 856,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "cache_write_tokens_details": {
+     "ttl_5m_tokens": 0,
+     "ttl_1h_tokens": 0,
+     "ttl_30m_tokens": 0
+    }
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 114
+   }
+  }
+ }
+}

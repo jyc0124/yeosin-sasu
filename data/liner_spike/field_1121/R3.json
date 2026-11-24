@@ -1,0 +1,524 @@
+{
+ "id": "R3",
+ "question": "2026년 4월 1일 금융위원회 「'26년도 가계부채 관리방안」(다주택자 수도권·규제지역 아파트 주담대 만기연장 제한)에서 다주택자 여부는 '세대 기준'으로 판단하고 차주(세대기준) 동의 후 주택소유확인시스템(HOMS)으로 확인합니다. 이때 세대는 주민등록등본상 세대원 전원인가요? 같은 등본의 자녀, 자녀의 배우자, 손자의 주택도 합산하나요? 정보조회 동의는 누구에게 받나요? 금융위원회·금융감독원·은행연합회·HUG(주택도시보증공사)·HF(한국주택금융공사)·SGI서울보증 등 공식 자료(보도자료, FAQ, 행정지도, 상품설명서, 보증규정, 질의회신, 금융규제·법령해석포털 회신사례)에서 근거 문장을 찾아 문서명·날짜와 함께 인용해 주세요. 보증기관별로 다르면 기관별로 나눠 주세요. 공식 근거가 없으면 '공식 근거 없음'이라고 분명히 답하고 추측하지 마세요.",
+ "agent": {
+  "text": "### 세대 판단 기준 (주민등록등본 범위)\n\n금융위원회 「‘26년도 가계부채 관리방안」은 다주택자가 보유한 수도권·규제지역 아파트 주택담보대출의 만기연장을 원칙적으로 불허한다고 밝혔지만, 제공된 본문에는 ‘세대’의 구성 범위, 주민등록등본상 세대원 전원 포함 여부, 주택소유확인시스템(HOMS) 확인 절차에 관한 문장이 없습니다. 금융위원회 보도자료는 해당 조치가 2026년 4월 17일부터 시행되고, 다주택자를 “주택(소재지 무관)을 2채 이상 보유한 개인”으로 설명합니다 ((1)).\n\n따라서 **2026년 4월 1일 금융위원회 가계부채 관리방안에서 주민등록등본상 세대원 전원을 포함한다고 명시한 공식 근거는 확인되지 않습니다.**\n\n금융감독원의 2026년 4월 4일 행정지도 공개자료도 행정지도의 시행일, 유효기간 및 관련 내용을 안내할 뿐, 이 조치에서 적용되는 ‘세대’의 구성 범위를 제시하지 않습니다 ((27)).\n\n### 주택 합산 범위 (자녀, 자녀 배우자, 손자 포함 여부)\n\n제공된 금융위원회·금융감독원 자료에는 같은 주민등록등본에 등재된 자녀, 자녀의 배우자 또는 손자의 주택을 다주택자 판단에 합산하는지에 관한 문장이 없습니다 ((1)) ((27)).\n\n따라서 다음 사항은 **공식 근거 없음**입니다.\n\n- 같은 주민등록등본의 자녀 주택을 합산하는지 여부\n- 자녀의 배우자 주택을 합산하는지 여부\n- 손자 주택을 합산하는지 여부\n- 세대 분리된 가족의 주택을 합산하는지 여부\n\n다만 HUG의 「주택구입자금보증 자주하는 질문」에는 별도 보증상품의 세대원 범위를 “주민등록표상의 배우자, 직계존속, 직계비속 및 그 배우자”로 설명하고, 세대 분리된 배우자와 그 배우자와 동일 세대를 이루는 직계비속 및 그 배우자도 포함한다고 기재되어 있습니다 ((21)). 이 문장은 HUG의 주택구입자금보증 기준에 관한 것이며, 금융위원회의 2026년 4월 1일 다주택자 주담대 만기연장 제한에 동일하게 적용된다고 명시되어 있지는 않습니다.\n\n### 정보조회 동의 대상\n\n제공된 금융위원회 보도자료와 금융감독원 행정지도에는 HOMS 조회를 위해 차주만 동의하는지, 주민등록등본상 세대원별 동의를 받는지, 또는 특정 가족관계에 있는 사람의 동의까지 필요한지에 관한 문장이 없습니다 ((1)) ((27)).\n\n따라서 **정보조회 동의를 누구에게 받아야 하는지에 관한 해당 정책의 공식 근거는 확인되지 않으며, 공식 근거 없음**입니다.\n\nHUG의 2026년 1월 30일 「든든전세주택 입주자 모집 공고」는 별도 공공임대주택 자격심사에서 “세대구성원 전원을 대상으로” 공적자료를 조회한다고 안내하고, 개인정보 제3자 제공 동의 항목을 두고 있습니다 ((12)). 그러나 이 자료는 HUG 든든전세주택의 입주자격 확인 절차에 관한 것이므로, 금융위원회의 주담대 만기연장 제한에서 필요한 동의 대상이라고 볼 공식 근거는 제공된 자료에서 확인되지 않습니다.\n\n### 기관별 공식 근거 자료 (문서명 및 날짜 포함)\n\n- **금융위원회**\n  - 문서명: 「‘26년도 가계부채 관리방안」\n  - 날짜: 2026년 4월 1일\n  - 근거 문장: “다주택자가 보유한 수도권·규제지역 아파트 담보대출의 만기연장은 원칙적으로 불허한다.” 또한 다주택자를 “주택(소재지 무관)을 2채 이상 보유한 개인”으로 설명합니다 ((1)).\n  - 확인 결과: 다주택자 판단에서 주민등록등본상 세대원 전원을 포함하는지, 자녀·자녀의 배우자·손자의 주택을 합산하는지, 정보조회 동의를 누구에게 받는지에 관한 **공식 근거 없음**입니다.\n\n- **금융감독원**\n  - 문서명: 「가계부채 종합 관리방안 시행을 위한 은행 대출구조 개선 촉진 세부 추진방안」 행정지도\n  - 날짜: 2026년 4월 4일 시행\n  - 근거 문장: 행정지도의 유효기간은 2026년 4월 4일부터 2027년 4월 3일까지이며, 기존 내용과 동일하게 시행한다고 안내합니다 ((27)).\n  - 확인 결과: 해당 행정지도 공개 내용에는 세대원 범위, 자녀·자녀의 배우자·손자 주택의 합산 여부, HOMS 정보조회 동의 대상에 관한 **공식 근거 없음**입니다.\n\n- **은행연합회**\n  - 문서명: 제공된 검색자료의 은행연합회 자료\n  - 날짜: 확인 가능한 관련 자료 날짜 없음\n  - 확인 결과: 제공된 은행연합회 자료에는 2026년 4월 1일 다주택자 주담대 만기연장 제한의 세대원 범위나 HOMS 정보조회 동의 대상에 관한 내용이 없어 **공식 근거 없음**입니다 ((10)) ((28)).\n\n- **HUG(주택도시보증공사)**\n  - 문서명: 「주택구입자금보증 자주하는 질문」\n  - 날짜: 제공된 자료에서 게시일 확인 불가\n  - 근거 문장: “주민등록표상의 배우자, 직계존속(배우자의 직계존속 포함), 직계비속 및 그 배우자를 말하며, 세대 분리된 배우자 및 그 배우자와 동일 세대를 이루고 있는 직계비속 및 그 배우자를 포함합니다.” ((21))\n  - 적용 범위: 위 문장은 HUG 주택구입자금보증의 세대원 확인 기준입니다 ((21)).\n  - 확인 결과: 이 기준을 금융위원회의 2026년 다주택자 주담대 만기연장 제한에 적용한다는 공식 문장은 **공식 근거 없음**입니다.\n  - 참고 자료: HUG의 2026년 1월 30일 「든든전세주택 입주자 모집 공고」는 해당 공공임대주택의 주택소유 여부 확인에서 세대구성원 전원을 대상으로 공적자료를 조회한다고 안내합니다 ((12)).\n\n- **HF(한국주택금융공사)**\n  - 문서명: 제공된 HF 보증상품 및 자료\n  - 날짜: 개별 자료의 게시일은 자료별로 확인되나, 2026년 4월 1일 금융위원회 조치의 세대원 범위를 설명하는 자료는 확인되지 않음\n  - 확인 결과: 제공된 HF 자료에는 해당 주담대 만기연장 제한에서 주민등록등본상 세대원 전원을 포함하는지, 자녀·자녀의 배우자·손자 주택을 합산하는지, 정보조회 동의를 누구에게 받는지에 관한 **공식 근거 없음**입니다 ((11)) ((16)).\n\n- **SGI서울보증**\n  - 문서명: 「상품판매 및 개발 정책」\n  - 날짜: 제공된 자료에서 게시일 확인 불가\n  - 근거 문장: 개인정보 수집 및 활용이 필요한 경우 명확한 동의 절차를 전제로 목적에 부합하는 최소한의 정보를 수집·활용해야 한다고 안내합니다 ((13)).\n  - 확인 결과: 해당 문서에는 2026년 4월 1일 금융위원회 다주택자 주담대 만기연장 제한에서 HOMS 조회 동의를 누구에게 받아야 하는지, 세대원 범위를 어떻게 정하는지에 관한 내용이 없어 **공식 근거 없음**입니다 ((13)).\n\n**중요 고지:** 위 내용은 일반적인 정보 제공을 위한 것이며 전문적인 법률·금융 자문을 대신하지 않습니다. 개인의 대출 및 보증 상황에 관한 구체적인 판단은 금융회사 또는 관련 분야의 자격을 갖춘 전문가에게 상담하시기 바랍니다.",
+  "references": [
+   {
+    "title": "보도자료 - 위원회 소식 - 알림마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/no010101/86606",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주요정책문답",
+    "url": "https://www.fsc.go.kr/po020201/87058?srchCtgry=&curPage=1&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보도자료(상세) | 보도자료 | 보도·알림 |",
+    "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=216829&menuNo=200218",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "[PDF] 시내에서 외곽으로, 다시 시외로 서울 인구가 빠져나간다",
+    "url": "http://banker.kfb.or.kr/201604/pdf/section401.pdf",
+    "hostname": "banker.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "<303320BEC8BCB1BFB52E687770>",
+    "url": "https://researcher.hf.go.kr/researcher/sub04/sub05_3.do?mode=download&articleNo=592769&attachNo=91411",
+    "hostname": "researcher.hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "[PDF] HUG 든든전세주택 입주자 모집 공고 [2026.5.29]",
+    "url": "https://www.khug.or.kr/hug/homepage_file_upload/jeonse_notice_260529.pdf",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "SGI서울보증",
+    "url": "https://m.sgic.co.kr/biz/cmw/index.html?p=CMWSGN010001F01",
+    "hostname": "m.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전체 제정·개정이유",
+    "url": "https://www.google.com/goto?url=CAESuwEBxCJF18qF0LBHv5Td42PX8f8gksEwd81SYaUov-fnWahpdYDl02gZ_ZBWsVkGBsuGl431iejVHCld_kypEUsbaZzl2HnkZb6SnGVnxPrq8X_70-xqncULM6Z8wCUycN1Qh0amironmCtJfxH3fWc7h-JgsXLHq6kAyP5HwkGPTdnhKvZMjv0gdfOEy_XSivlBImMLcvbuPg7hO_Zrwb_coxcTCVtRwhoKbRipiQkwcn_jOV4BRYyNhoo1&gsessionid=p7B0SWDrJm4U1bl3hEcPsfqw3eZnmJoK5vyvzwqoarpnHcDB4junsQ",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "금융규제민원",
+    "url": "https://better.fsc.go.kr/fsc_new/replyCase/TotalReplyList.do?stNo=11&muNo=117&muGpNo=75",
+    "hostname": "better.fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "KOREA FEDERATION OF BANKS",
+    "url": "https://www.kfb.or.kr/eng",
+    "hostname": "kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "매입임대사업자보증 | 주택사업자보증 | 주택보증 | 한국주택금융공사",
+    "url": "http://www.hf.go.kr/ko/sub02/sub02_04_06.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "HUG 든든전세주택 입주자 모집 공고 [2026.1.30]",
+    "url": "https://www.khug.or.kr/hug/homepage_file_upload/jeonse_notice_260130.pdf",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "상품판매 및 개발 정책 | 금융소비자보호 | SGI서울보증 소비자포털",
+    "url": "https://m.sgic.co.kr/biz/ccg/index.html?p=CCGFFN420001F01",
+    "hostname": "m.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "'26년도 가계부채 관리방안 관련 FAQ",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87058&fileTy=ATTACH&fileNo=2",
+    "hostname": "fsc.go.kr",
+    "date": "2026-04-01",
+    "tier": 1
+   },
+   {
+    "title": "다주택자, 주담대 LTV 30% 허용·양도세 중과 배제 1년 연장 By Hankyung",
+    "url": "https://kr.investing.com/news/economy/article-865169",
+    "hostname": "kr.investing.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "소규모주택 협약 보증 | 주택사업자보증 | 주택보증 | 한국주택금융공사",
+    "url": "http://www.hf.go.kr/ko/sub02/sub02_04_02.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "개인정보처리방침 | 모바일HUG",
+    "url": "https://onestop.khug.or.kr/webView/webBiz/login/privacy001",
+    "hostname": "onestop.khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "채무 종합안내 | 채무 안내 | 고객지원 | SGI서울보증",
+    "url": "https://www.sgic.co.kr?p=CMWCST020101F01",
+    "hostname": "sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "부동산 시장과 금융의 절연을 위한 ｢2026년도 가계부채 관리 ...",
+    "url": "https://blog.naver.com/blogfsc/224236726218",
+    "hostname": "blog.naver.com",
+    "date": "2026-04-01",
+    "tier": 1
+   },
+   {
+    "title": "내일부터 수도권 주담대 한도 6억원 제한···서울 집값·가계대출 폭증에 ‘초강수’ By 투데이코리아",
+    "url": "https://kr.investing.com/news/stock-market-news/article-1530843",
+    "hostname": "kr.investing.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "자주하는 질문 < 주택구입자금보증 < 개인보증 <  주택도시보증공사",
+    "url": "https://www.khug.or.kr/hug/web/ig/hp/ighp000003.jsp?tabMenu=Y",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "금융규제·법령해석포털",
+    "url": "https://better.fsc.go.kr",
+    "hostname": "better.fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "금융위원회 국민생각함 기관홈",
+    "url": "https://www.google.com/goto?url=CAESfQHEIkXXzBZUtpAmD92Bwg73V49P9VkhRk_R0NWhGIzO9caaFAF2zn6XfXnLuWl3IlpQ0P7r2HLT2uAVaqkjD3_bhiBRcjaUEKbS_3p99vtfF-R6dsXqnpspbaoZTOqVnHOz4nFKYm-9-VqyhSB32JWLfFubNVPw5ZLg4y8P&gsessionid=AlQKbqrlTwcglmiC6MXKmXNLfzqM6EysS4ir8Va60Ul0EwkD4rZUHg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "서울 매물 이틀 만에 2000개 늘어..다주택자 매물 풀리나 By 알파경제 alphabiz",
+    "url": "https://kr.investing.com/news/stock-market-news/article-1823838",
+    "hostname": "kr.investing.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "신탁회사의 동의 없는 계약 < 임대인 확인할 때 < 유형별사례 및 대처방안 < 전세사기예방센터 < 주택도시보증공사",
+    "url": "https://www.khug.or.kr/jeonse/web/s02/s020302.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "다주택자 매물 움직임..서울 아파트·오피스텔 매물 2.9% 증가 By 알파경제 alphabiz",
+    "url": "https://kr.investing.com/news/stock-market-news/article-1811522",
+    "hostname": "kr.investing.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "행정지도 내역 | 금융행정지도 | 금융감독법규정보 | 업무자료 |",
+    "url": "https://www.fss.or.kr/fss/job/admnstgudc/view.do?guGuidanceMgrSeq=20260401152457950&menuNo=200492&pageIndex=1",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "࿬ȸ",
+    "url": "https://www.kfb.or.kr",
+    "hostname": "kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "주택도시보증공사 - 모바일HUG",
+    "url": "https://onestop.khug.or.kr",
+    "hostname": "onestop.khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2026년도 가계부채 관리방안 - 전체 | 카드/한컷 | 멀티미디어",
+    "url": "https://www.google.com/goto?url=CAESegHEIkXXC2C1PjYZQDvolYS_zktqlrA3FCm5bCOLFIsLyJOufsHYJ89VcNmtTJLQ_B6CjlaAwz4TA91lu2toFqA8e9IByyViLDfLcCqqhrzyrewvOKX05UbM77KNDl95x6J9nZtHUeT_7yQQLjO9YSKOdLeZn2Ep8ku9&gsessionid=AlQKbqrlTwcglmiC6MXKmXNLfzqM6EysS4ir8Va60Ul0EwkD4rZUHg",
+    "hostname": "google.com",
+    "date": "2026-04-02",
+    "tier": 3
+   },
+   {
+    "title": "HomS",
+    "url": "https://tavily.com/knowledge/company/8IMSoAHcQ0MU",
+    "hostname": "tavily.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "보증기관 3사, 전세보증금 미반환 임대인 정보 공유한다 | 한국주택금융공사",
+    "url": "http://hf.go.kr/_custom/hf/_common/board/index/21.do?mode=view&articleNo=600570&title=%EB%B3%B4%EC%A6%9D%EA%B8%B0%EA%B4%80+3%EC%82%AC%2C+%EC%A0%84%EC%84%B8%EB%B3%B4%EC%A6%9D%EA%B8%88+%EB%AF%B8%EB%B0%98%ED%99%98+%EC%9E%84%EB%8C%80%EC%9D%B8+%EC%A0%95%EB%B3%B4+%EA%B3%B5%EC%9C%A0%ED%95%9C%EB%8B%A4",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보증업무 < 자주하는 질문 < 전자민원/FAQ < 고객지원센터 <  주택도시보증공사",
+    "url": "https://www.khug.or.kr/hug/web/cs/el/csel000017.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2026년도 가계부채 관리방안 - 경제정책 시계열서비스",
+    "url": "https://www.google.com/goto?url=CAESvgEBxCJF18Oh6P8fUUpr9Orh9QTQmc8R4sgOYCNGT2Y3SdB8G-mEgPwuzyckDZxkQ4hMFxh8z2evsT_o3DN5DYUav8P8etbNSQ01qehJbY9vEPSehAXnl3oUdnsUP49lMP2IxeQD9CoaBk8vUYw3mHwLH5wnCGdYbYeIwUPnx0GVrain2IrRv8SlcL63Vz98kb6eMgOem-a7GUtscsNwxMrXg-qDJ-hoAXEHJ94LKjYOLbI-WBfV86Ql2UEib_o6&gsessionid=AlQKbqrlTwcglmiC6MXKmXNLfzqM6EysS4ir8Va60Ul0EwkD4rZUHg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "한국주택금융공사 도서자료실",
+    "url": "https://tavily.com/knowledge/company/4K2lsFBLR9mb",
+    "hostname": "tavily.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "행정지도 예고 | 금융행정지도 | 금융감독법규정보 | 업무자료 |",
+    "url": "https://fss.or.kr/fss/job/admnPrvntc/view.do?seqno=265&menuNo=200491&pageIndex=1",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2월 전세자금 보증 4,145억원 | 홍보센터 | 공사소개 | 한국주택금융공사",
+    "url": "http://hf.go.kr/ko/sub05/sub05_04_05.do?mode=view&articleNo=25728&title=2%EC%9B%94+%EC%A0%84%EC%84%B8%EC%9E%90%EA%B8%88+%EB%B3%B4%EC%A6%9D+4%2C145%EC%96%B5%EC%9B%90",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "HUG 주택도시보증공사 - 공지사항",
+    "url": "https://www.khug.or.kr/khmb/m/cc/nn/ccnn000002.jsp?idx=35946&tabIdx=1",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "'26년도 가계부채 관리방안",
+    "url": "https://www.google.com/goto?url=CAEScwHEIkXX5gGEjvv9obNDrRniG-d0Gl0U9YO8xrVL85Rji41v-6UCzFz90JKcKClElbFtDE2KI4HgtXZRwsJUgP7KRPF_lR0ZP96Lw6IiKb9vAwOVDi-LzSlJb9UQZPQX1DQCxt43RY6EyZpabDYxB9EqR_A&gsessionid=AlQKbqrlTwcglmiC6MXKmXNLfzqM6EysS4ir8Va60Ul0EwkD4rZUHg",
+    "hostname": "google.com",
+    "date": "2026-04-01",
+    "tier": 3
+   },
+   {
+    "title": "금융감독원",
+    "url": "https://tavily.com/knowledge/company/aY3tIgwh0nP4",
+    "hostname": "tavily.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "3월 전세자금 보증 4,952억원 | 홍보센터 | 공사소개 | 한국주택금융공사",
+    "url": "http://www.hf.go.kr/ko/sub05/sub05_04_05.do?mode=view&articleNo=25744&title=3%EC%9B%94+%EC%A0%84%EC%84%B8%EC%9E%90%EA%B8%88+%EB%B3%B4%EC%A6%9D+4%2C952%EC%96%B5%EC%9B%90",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보증금 미반환 조회 < 전세사기 피해 예방 < 전세사기예방센터 < 주택도시보증공사",
+    "url": "https://khug.or.kr/jeonse/web/s01/s010321.jsp?cur_page=140",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "Loan Extensions Denied for Multi-Homeowners... ...",
+    "url": "https://www.google.com/goto?url=CAESaAHEIkXXTklifTg3xjn2S21CpoA2WTEaVAfXZoRHoJAc_WPFjtRbxL2CjoCpU4d9w6mPE3T2TH9OHaVFR6PrN-wSWIRn3zKaKeaYQgDmYjdtTeolQCpFb37_c8aMGpgIYaZbeBwileXh&gsessionid=AlQKbqrlTwcglmiC6MXKmXNLfzqM6EysS4ir8Va60Ul0EwkD4rZUHg",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "주택금융공사, 소규모 임대주택 공급 활성화 나서 | 한국주택금융공사",
+    "url": "https://hf.go.kr/_custom/hf/_common/board/index/21.do?mode=view&articleNo=156469&article.offset=0&articleLimit=10",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "[Q&A] 2026년도 '가계부채 관리방안' 관련 FAQ",
+    "url": "https://www.google.com/goto?url=CAESbwHEIkXX0wsLiqo4jDWy6PtlDjh36_472T_HzOeU4Lo6ih7RE1Xkmi-2W40PS1uB-mfk0FCpPYOIKcJZzGqrjDIEmaC7mGvOQO9aiyTZPh1G7GvbwsCVX93xxki6C8BYXUFcpDNeKyTOwCI-XT9ZoA&gsessionid=AlQKbqrlTwcglmiC6MXKmXNLfzqM6EysS4ir8Va60Ul0EwkD4rZUHg",
+    "hostname": "google.com",
+    "date": "2026-04-01",
+    "tier": 3
+   },
+   {
+    "title": "금융위원회",
+    "url": "https://tavily.com/knowledge/company/LiIMaXqq9XI4",
+    "hostname": "tavily.com",
+    "date": null,
+    "tier": 3
+   }
+  ],
+  "requestId": "ba9ddb2c-dd02-42b2-a332-c72b80aca02b"
+ },
+ "searches": [
+  {
+   "query": "다주택자 만기연장 세대 기준 세대원 범위 주택소유확인시스템 동의",
+   "results": [
+    {
+     "title": "“이제 대출 못 받나요”...다주택자 대출 연장 막힌다 [호모 집피엔스]",
+     "url": "https://www.mk.co.kr/news/economy/12020084",
+     "hostname": "mk.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=mk.co.kr&sz=128",
+     "description": "은행은 만기 도래 시 차주 동의를 받아 주택소유확인시스템(HOMS) 등으로 보유 주택 수를 확인한다. 개인과 개인 임대사업자는 세대 기준으로 ...",
+     "date": "2026-04-17",
+     "tier": 2
+    },
+    {
+     "title": "다주택자, 17일부터 수도권·규제지역 아파트 대출 만기 연장 금지",
+     "url": "https://www.stvnews.kr/news/articleView.html?idxno=15216",
+     "hostname": "stvnews.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=stvnews.kr&sz=128",
+     "description": "개인이나 개인 임대사업자의 경우 차주(세대기준) 동의 징구 이후 국토교통부의 주택소유확인시스템(HOMS) 등을 통해 보유 주택 수를 확인한다. 법인 ...",
+     "date": "2026-04-02",
+     "tier": 3
+    },
+    {
+     "title": "17일부터 다주택자 대출 만기연장 금지…임차인 보호 땐 예외 - 마켓인",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04588726645411856",
+     "hostname": "marketin.edaily.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=marketin.edaily.co.kr&sz=128",
+     "description": "개인이나 개인 임대사업자의 경우 차주(세대기준) 동의 징구 이후 국토교통부의 주택소유확인시스템(HOMS) 등을 통해 보유 주택 수를 확인한다. 법인 ...",
+     "date": "2026-04-01",
+     "tier": 2
+    },
+    {
+     "title": "다주택자 주담대 만기연장 제한 Q&A···예외 인정 범위는",
+     "url": "https://www.seconomy.kr/news/articleView.html?idxno=94962",
+     "hostname": "seconomy.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=seconomy.kr&sz=128",
+     "description": "다주택자의 수도권·규제지역 아파트 담보대출 만기연장을 원칙적으로 막되, 임대사업자는 주택소유확인시스템(HOMS)",
+     "date": "2026-04-01",
+     "tier": 3
+    },
+    {
+     "title": "주요정책문답",
+     "url": "https://www.fsc.go.kr/po020201/87058?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+     "hostname": "fsc.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=fsc.go.kr&sz=128",
+     "description": "구 분. 대출만기 연장 허용 범위 ; 의무임대기간 종료일 기준 유효하게 체결된 임대차계약 ※ 가계약 미인정 ; ➀기존 임차인과의 연장계약 (묵시적 갱신 포함). 연장된 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "헷갈리는 다주택자 대출규제, Q&A로 확인",
+     "url": "https://blog.naver.com/zigbang/224236804354",
+     "hostname": "blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=blog.naver.com&sz=128",
+     "description": "→ 같은 세대 기준으로 주택이 2채 이상이면 규제 대상이 된다. 주택 위치와 관계없이 보유 수로 판단한다. ​. Q2. 기존 대출도 영향이 있나요?",
+     "date": "2026-04-01",
+     "tier": 3
+    },
+    {
+     "title": "[대출 억제책] 다주택자 만기연장 불허…세입자 거주 시 예외",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4407107",
+     "hostname": "news.einfomax.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=news.einfomax.co.kr&sz=128",
+     "description": "오는 17일부터 다주택자가 보유한 서울 및 수도권 아파트 주택담보대출 만기 연장이 원칙적으로 금지된다.2021년 이후 실행된 사업자대출 용도 외 ...",
+     "date": "2026-04-01",
+     "tier": 3
+    },
+    {
+     "title": "Loan Extensions Denied for Multi-Homeowners... \"Severing ...",
+     "url": "https://www.youtube.com/watch?v=Mz3UFzqsZXA",
+     "hostname": "youtube.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
+     "description": "이재명 대통령이 다주택자 대출 연장 문제를 지적한 지 한 달 반 만에, 정부가 대책을 내놨습니다. 다주택자의 담보대출 만기 연장을 원칙적으로 불허 ...",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "다주택자 아파트 담보대출 만기 연장 17일부터 금지",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3018333",
+     "hostname": "kihoilbo.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=kihoilbo.co.kr&sz=128",
+     "description": "주택을 즉시 매도하기 어려운 불가피한 사유가 있는 경우에도 예외적 만기연장을 허용한다. 특히 임차인이 있는 경우에는 발표일 기준 유효하게 체결된 ...",
+     "date": "2026-04-01",
+     "tier": 3
+    },
+    {
+     "title": "17일부터 다주택자 주택담보대출 만기 연장 안 된다",
+     "url": "https://www.chosun.com/economy/economy_general/2026/04/02/5AA6JMEF5BBPXN3AIMN22KUYXU/",
+     "hostname": "chosun.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=chosun.com&sz=128",
+     "description": "정부가 17일부터 수도권에서 다주택자의 아파트 담보 대출의 만기 연장을 허용하지 않기로 했다. 이렇게 되면 만기 때 주택 담보 대출을 갚아야 하는 ...",
+     "date": "2026-04-01",
+     "tier": 2
+    }
+   ]
+  },
+  {
+   "query": "주택담보대출 세대 기준 주택 수 산정 세대원 직계비속 배우자",
+   "results": [
+    {
+     "title": "같이 사는 형제가 다른 주택을 가지고 있으면, 이 경우도 1가구 2주택자로 ...",
+     "url": "https://www.bank-mall.co.kr/customer/qna/1486",
+     "hostname": "bank-mall.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=bank-mall.co.kr&sz=128",
+     "description": "... 존속, 자녀·손자녀 등 직계비속과 그 배우자 등을 세대원으로 열거합니다. 형제자매는 이 범위에 열거돼 있지 않습니다. 일반적인 주담대 세대 범위의 ...",
+     "date": "2026-11-09",
+     "tier": 3
+    },
+    {
+     "title": "상품소개 | 디딤돌대출 | 주택담보대출",
+     "url": "https://www.hf.go.kr/ko/sub01/sub01_02_01.do",
+     "hostname": "hf.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=hf.go.kr&sz=128",
+     "description": "5억원(신혼 · 2자녀 이상 가구 6억원) 이하 공부상 주택 · 세대원 전원이 무주택 · 부부합산 연소득 60백만원 이하(생애최초, 2자녀 이상 가구 70백만원, 신혼가구 85백만원) ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "<별표2> <신설 2007.7.26, 개정 2013.5.24, 2015.12.22, 2017.8.23, 2018.1. ...",
+     "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166230745",
+     "hostname": "law.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=law.go.kr&sz=128",
+     "description": "\"비주택담보대출\"이라 함은 조합이 비주택 부동산을 담보로 취급하는 가계대출(자산유동화된 … 배우자, 직계존속(배우자의 직계존속 포함), 직계비속",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "[금융위] 새정부 가계대출 규제 정상화방안 Q&A, 생애최초 주택구매자 범위, ...",
+     "url": "https://blog.naver.com/blogfsc/222775570619",
+     "hostname": "blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=blog.naver.com&sz=128",
+     "description": "... 배우자와 동일세대를 이루고 있는 직계비속 및 그 배우자를 포함. ** ... ※ 20대 초반 차주가 30년 만기 주택담보대출을 받을 경우의 미래소득 산정방식 ...",
+     "date": "2022-06-16",
+     "tier": 1
+    },
+    {
+     "title": "기존주택 보유 인정 주택담보대출 추가약정용",
+     "url": "https://image.kebhana.com/cont/download/documents/provide/0000005060887_20210325.pdf",
+     "hostname": "image.kebhana.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=image.kebhana.com&sz=128",
+     "description": "② 제 1항의 추가 약정에 의해 채무자가 속한 세대의 세대주 또는 세대원이나, 개별 세대를 구성하고 있는 만 60세 이상의 직계존속. (배우자의 직계존속 포함)이 기존 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "내집마련 디딤돌대출 대상·한도·금리·LTV",
+     "url": "https://www.myhome.go.kr/hws/portal/cont/selectSteppingStoneLoanView.do",
+     "hostname": "myhome.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=myhome.go.kr&sz=128",
+     "description": "... 배우자의 직계존속과 동거세대를 구성하는 경우 배우자의 직계존속 포함. 상담문의. 대출 심사 관련한 상담은 주택도시보증공사 콜센터 1566-9009 및 기금 수탁은행 지점 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "주택담보대출 세대원 정보제공 동의",
+     "url": "https://kakaobank.com/app/guide/mortgageLoan/family_agree_guide",
+     "hostname": "kakaobank.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=kakaobank.com&sz=128",
+     "description": "대출 받으려면 본인 외에도, 내가 속한 세대의 세대원들의 주택수가 대출진행에 영향을 줄 수 있어요. · 예를 들어 본인이 무주택자이더라도, 주민등록등본상 배우자가 두채 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "댓글 25",
+     "url": "https://weolbu.com/community/3968973/%EC%A3%BC%ED%83%9D%EC%88%98-%EA%B4%80%EB%A0%A8-%EC%A7%88%EB%AC%B8%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4/comments?srsltid=AYCX9vIMJ32A4VAnqVwYSi86oDXjB5QoV3lkV4dFeFbkKSwKYifzEswa",
+     "hostname": "weolbu.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=weolbu.com&sz=128",
+     "description": "다른 분들이 설명해주신 것처럼, 동일 세대의 범위는 보통 직계존비속과 배우자로 한정되며, 처남의 유주택 여부는 부부 주택 수 산정에 영향을 주지 않습니다. 행복한 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "내집마련 디딤돌 대출",
+     "url": "https://banking.nonghyup.com/content/html/ip/mk/el/el40000187.html",
+     "hostname": "banking.nonghyup.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=banking.nonghyup.com&sz=128",
+     "description": "1. 대출대상자 : 만 30세 이상의 미혼(가족관계증명서상 배우자가 없는 경우) 단독세대주(차주의 주민등록등본상 직계존속 또는 미성년 형제·자매 중 1인과의 부양기간( ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "무주택세대 판단기준",
+     "url": "https://m.blog.naver.com/kimenkim34/221097609496",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "주택청약시에는 세대원 전원을 기준으로 주택의 소유여부에 따라 무주택세대로 보고 그 기간에 따른 가점을 부여한답니다. 무주택기간이 길면 청약가점이 ...",
+     "date": "2017-09-15",
+     "tier": 3
+    }
+   ]
+  }
+ ]
+}

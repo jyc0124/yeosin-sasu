@@ -1,0 +1,36 @@
+{
+ "at": 1795428628960,
+ "value": {
+  "id": "chatcmpl-d99379a8a3ce4b81b54937711d7c1965",
+  "object": "chat.completion",
+  "created": 1795428628,
+  "model": "gpt-6.2-sol",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "{\"picks\":[\"F813-02#1\"]}"
+    },
+    "finish_reason": "stop"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 687,
+   "completion_tokens": 21,
+   "total_tokens": 708,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "cache_write_tokens_details": {
+     "ttl_5m_tokens": 0,
+     "ttl_1h_tokens": 0,
+     "ttl_30m_tokens": 0
+    }
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0
+   }
+  }
+ }
+}

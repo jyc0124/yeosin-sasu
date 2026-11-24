@@ -1,0 +1,2 @@
+출처: 한국은행 2026년 2/4분기중 가계신용(잠정) 보도자료 페이지(bok.or.kr, 2026-11-23 조회)
+□ 2026년 2/4분기말 가계신용 잔액은 2,019.8조원으로 전분기말 대비 25.9조원 증가     o 가계대출 잔액은 1,891.3조원으로 전분기말 대비 24.9조원 증가, 판매신용 잔액은 128.5조원으로 0.9조원 증가 목록 $(function () { var url = "/portal/singl/newsData/list.do?pageIndex=1&searchKwd=&depth3=201263&depth4=&depth5=&siteId=portal&sdate=&edate=&sort=&pageUnit=10&date=&searchCnd=1" if (false) { url += '&menuNo=201263'; } else if (false) { url += '&menuNo=201264'; } else { i

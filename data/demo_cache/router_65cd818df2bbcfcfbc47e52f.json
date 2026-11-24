@@ -1,0 +1,36 @@
+{
+ "at": 1795075305458,
+ "value": {
+  "id": "chatcmpl-76945103e9164dc0b3569d6c034c895b",
+  "object": "chat.completion",
+  "created": 1795075305,
+  "model": "gpt-6.1-sol",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "{\"sentences\":[{\"text\":\"비거주 1주택자인지 실거주 이력을 확인해야 하며, 해당하면 2027.1.1부터 연장이 원칙적으로 제한됩니다.\",\"facts\":[\"F813-01\",\"F813-06\",\"F813-09\"]},{\"text\":\"임차인이 본인·배우자의 부모·자녀인지, 본인이나 배우자가 하루라도 거주했는지 알려주시겠어요?\",\"facts\":[\"F813-02\",\"F813-03\"]},{\"text\":\"투기·투기과열지역 아파트를 효력 발생일 이후 계약해 3억 원 초과로 취득하셨다면 기존 보증 제한도 확인해야 합니다.\",\"facts\":[\"F813-10\"]},{\"text\":\"실거주 의무·임대차 승계·보증금 미반환·퇴거 일정 등 예외 사유도 확인해 주시겠어요?\",\"facts\":[\"F813-07\"]}]}"
+    },
+    "finish_reason": "stop"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1266,
+   "completion_tokens": 568,
+   "total_tokens": 1834,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 1263,
+    "cache_write_tokens_details": {
+     "ttl_5m_tokens": 0,
+     "ttl_1h_tokens": 0,
+     "ttl_30m_tokens": 1263
+    }
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 351
+   }
+  }
+ }
+}

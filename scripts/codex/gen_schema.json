@@ -1,0 +1,17 @@
+{"type":"object","additionalProperties":false,"required":["questions"],"properties":{"questions":{"type":"array","items":{"type":"object","additionalProperties":false,
+"required":["id","category","question","followUps","expected","acceptable","mustSay","mustNotSay","factIds","sideFacts","why"],
+"properties":{
+"id":{"type":"string"},
+"category":{"type":"string","enum":["세대·주택 수 범위","판정에 쓰이는 세부 사실","담보·대출 종류","규제 겹침","숫자·날짜 경계","비교형","해석·범위형","근거·기준일","원문 공백","회피 유도","범위 밖","질의서 요청"]},
+"question":{"type":"string"},
+"followUps":{"type":"array","items":{"type":"string"}},
+"expected":{"type":"string","enum":["허용","조건부","불허","심사위","내부지침","보류","역질문","안내","OUT"]},
+"acceptable":{"type":"array","items":{"type":"string","enum":["허용","조건부","불허","심사위","내부지침","보류","역질문","안내","OUT"]}},
+"mustSay":{"type":"array","items":{"type":"string"}},
+"mustNotSay":{"type":"array","items":{"type":"string"}},
+"factIds":{"type":"array","items":{"type":"string"}},
+"sideFacts":{"type":"array","description":"질문에 들어 있는 고객 사실 하나하나가 판정에 쓰이는지","items":{"type":"object","additionalProperties":false,"required":["fact","role","source"],"properties":{
+  "fact":{"type":"string","description":"질문 속 사실(짧게)"},
+  "role":{"type":"string","enum":["판정에 쓰임","판정과 무관","원문에 기준 없음"]},
+  "source":{"type":"string","description":"판정에 쓰이면 원문 파일·구절, 무관하면 이유, 기준 없으면 G- ID 또는 '없음'"}}}},
+"why":{"type":"string"}}}}}}

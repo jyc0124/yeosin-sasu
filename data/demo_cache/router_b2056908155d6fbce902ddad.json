@@ -1,0 +1,13 @@
+{
+ "at": 1795411102763,
+ "value": {
+  "model": "gpt-6.2-sol",
+  "choices": [
+   {
+    "message": {
+     "content": "{\"module\":\"M2\",\"alsoModule\":null,\"basis\":{\"subQuestions\":[],\"regs\":[],\"concepts\":[]},\"topic\":null,\"region\":null,\"m1\":{\"action\":null,\"increase\":null,\"maturityDate\":null,\"plannedRenewalDate\":null,\"applicationDate\":null,\"contractAndDepositBy1231\":null,\"bankIntakeBy1231\":null,\"houses\":[],\"houseCount\":null,\"leasedOut\":null,\"tenantIsFamily\":null,\"everLived\":null,\"livedEvidence\":null,\"exception\":null,\"targetAsserted\":null,\"depositIncrease\":null,\"loanAmount\":null,\"newLoanAmount\":null,\"rentalRegion\":null,\"rentalRegulated\":null,\"sameHome\":null,\"firstLeaseBy0907\":null,\"refinance\":null,\"dsrRatio\":null,\"lenderSector\":null,\"otherHouseholdHouses\":null,\"leaseDepositDate\":null,\"intakeDate\":null,\"policyLoan\":null,\"countClaims\":[]},\"m2\":{\"borrowerType\":null,\"houses\":[],\"houseCount\":2,\"houseCountIsMinimum\":true,\"conditionalDisposal\":null,\"loanPurpose\":null,\"collateral\":{\"region\":\"서울\",\"sigungu\":null,\"isApt\":true,\"regulated\":null,\"tags\":[]},\"maturityDate\":\"2026-12-15\",\"asksNextMaturity\":null,\"tenant\":{\"mentioned\":false,\"absent\":null,\"contractValidAt0401\":null,\"originalEnd\":null,\"renewal\":null,\"renewalDate\":null,\"renewedEnd\":null,\"provisional\":null,\"successorSignedDate\":null,\"successorEnd\":null,\"successorProvisional\":null},\"registeredRental\":{\"mentioned\":false,\"mandatoryEnd\":null,\"voluntaryCancel\":null,\"voluntaryCancelDate\":null},\"legalObligation\":null,\"legalObligationEnd\":null,\"notifiedBy0401\":null,\"notifiedProof\":null,\"publicInterest\":null,\"otherException\":null,\"homsAvailable\":null,\"consentRefused\":null,\"landlordMainBusiness\":null,\"countClaims\":[]},\"relatedTopics\":[],\"asksCriteria\":false,\"avoidanceAsked\":false,\"unmodeledFacts\":[{\"fact\":\"분양권도 하나 있어요\",\"changes\":\"주택 수\",\"how\":\"분양권이 4.1 방안의 주택 수 산정에 포함되는지에 따라 산정 주택 수가 달라질 수 있다.\",\"regs\":[\"R401\"],\"concepts\":[\"housecount\"],\"sourceFacts\":[]}],\"assumptions\":[\"만기 12월 → 2026-12-15로 가정\"]}"
+    }
+   }
+  ]
+ }
+}

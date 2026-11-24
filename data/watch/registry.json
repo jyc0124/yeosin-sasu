@@ -1,0 +1,111 @@
+{
+ "_note": "정책 감시(F2) 설정. queries = Liner로 돌릴 감시 질의(공식 문서명·기관명 포함해야 잡힌다, data/liner_spike/REPORT.md #5). known = KB v1에 이미 반영된 문서. originals = 원문을 미리 받아 텍스트로 추출해 둔 문서(다운로드 해시가 같으면 이 텍스트를 쓴다).",
+ "kbV1Cutoff": "2026-08-13",
+ "queries": [
+  {
+   "q": "주택담보대출에 대한 리스크 관리 기준 행정지도 금융위원회",
+   "tools": [
+    "rest",
+    "search_legal"
+   ]
+  },
+  {
+   "q": "비거주 1주택자 전세대출 경과조치 행정지도",
+   "tools": [
+    "rest",
+    "search_legal"
+   ]
+  },
+  {
+   "q": "부동산 시장 안정을 위한 금융 종합대책 후속 행정지도 2026",
+   "tools": [
+    "rest"
+   ]
+  },
+  {
+   "q": "인구감소지역 인구감소관심지역 재지정 행정안전부 고시 2026",
+   "tools": [
+    "rest"
+   ]
+  }
+ ],
+ "known": [
+  {
+   "label": "8.13 금융 종합대책 보도자료·FAQ",
+   "match": [
+    "fsc.go.kr/no010101/87517",
+    "upperNo=87517",
+    "korea.kr/common/download.do?fileId=145789185"
+   ]
+  },
+  {
+   "label": "4.1 가계부채 관리방안·FAQ",
+   "match": [
+    "fsc.go.kr/no010101/86606",
+    "upperNo=86606"
+   ]
+  }
+ ],
+ "originals": [
+  {
+   "id": "admin-guidance-260828",
+   "title": "주택담보대출에 대한 리스크 관리 기준(행정지도, 2026.8.28)",
+   "date": "2026-08-28",
+   "match": {
+    "host": "better.fsc.go.kr",
+    "contains": [
+     "filePath=/2026/08/28",
+     "주택담보대출에 대한 리스크 관리 기준 행정지도"
+    ]
+   },
+   "file": "data/official/followup/260828_주담대_리스크관리기준_행정지도.pdf",
+   "sha256": "d9ed3b288db36efa06d70abd1da8dc319b03a3e73f2aeca61f312c82e38a69eb",
+   "text": "data/official/text/260828_행정지도.txt",
+   "factPrefix": "F828",
+   "_factPolicy": "이 문서 Fact가 어느 대책에 대한 것인지. 조항-Fact 대응을 같은 대책 안에서만 찾는다",
+   "factPolicy": {
+    "4.1": [
+     "F828-07"
+    ],
+    "8.13": [
+     "F828-01",
+     "F828-02",
+     "F828-03",
+     "F828-04",
+     "F828-05",
+     "F828-06"
+    ]
+   },
+   "sections": [
+    {
+     "label": "1-가-(1) 비거주 1주택자 전세대출보증 금지",
+     "start": "(1) 투기적 목적의 비거주",
+     "end": "(2) 이주비대출"
+    },
+    {
+     "label": "2 시행기간 및 경과조치(8.13·4.1)",
+     "start": "2  시행기간 및 경과조치",
+     "end": "□ (온투업관련경과조치)"
+    }
+   ]
+  }
+ ],
+ "reflectedV2": [
+  {
+   "label": "8.28 행정지도 — 근거 자료 v2에 반영됨",
+   "originalId": "admin-guidance-260828"
+  },
+  {
+   "label": "10.20 인구감소지역 재지정 — 근거 자료 v2에 반영됨",
+   "match": [
+    "mois.go.kr/frt/sub/a06/b06/populationDecline"
+   ],
+   "titleAll": [
+    "인구감소",
+    "지정"
+   ],
+   "from": "2026-10-01"
+  }
+ ],
+ "_noteReflectedV2": "근거 자료 v2가 적용된 상태에서 감시를 돌리면, v2에 이미 반영한 문서는 '새 문서'가 아니라 '반영됨'으로 분류한다(새 문서 = 지금 적용 중인 근거 자료에 없는 문서)."
+}

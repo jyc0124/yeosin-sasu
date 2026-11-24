@@ -1,0 +1,391 @@
+{
+ "id": "Q3",
+ "question": "2026년 8월 13일 금융위원회 「부동산 시장 안정을 위한 금융 종합대책」(비거주 1주택자 전세대출 제한)과 2026.8.28 행정지도 「주택담보대출에 대한 리스크관리 기준」의 경과조치에서 '만기연장 시 증액하면 변경된 규정 적용'은 대출 전체에 적용되나요, 증액분에만 적용되나요? 이때 8.13 대책의 예외 사유(법적 의무 실거주, 임대차 승계, 보증금 미반환, 퇴거 일정 조정, 여신심사위원회 인정)가 적용되나요? 금융위원회·금융감독원·은행연합회·HUG·HF·SGI 등 공식 자료(보도자료, FAQ, 행정지도, 질의회신, 금융규제·법령해석포털 회신사례)에서 근거 문장을 찾아 문서명·날짜와 함께 인용해 주세요. 공식 근거가 없으면 '공식 근거 없음'이라고 분명히 답하고 추측하지 마세요.",
+ "agent": {
+  "text": "확인된 공식 자료만으로는, **만기연장 시 증액분이 발생하면 변경 규정을 기존 대출 전체에 적용하는지, 증액분에만 적용하는지 명시적으로 확인되지 않습니다. 따라서 해당 쟁점의 결론은 ‘공식 근거 없음’입니다.** 8월 13일 대책의 예외 사유가 이러한 증액 만기연장에 적용된다는 명시적 근거도 확인되지 않습니다.\n\n### 1. 확인된 공식 규정 내용\n\n금융위원회 공식 자료는 2026년 8월 13일 대책과 관련하여 투기적 목적의 비거주 1주택자에 대한 **전세대출보증 신규취급 및 만기연장을 금지**한다고 규정하고 있습니다. 적용 대상은 수도권·규제지역 아파트를 보유한 1주택자이면서 해당 주택을 임대차 중이고, 본인과 배우자 모두 해당 주택에 실거주한 적이 없는 경우입니다 ((2)) ((3)).\n\n2026년 8월 28일 시행된 「주택담보대출에 대한 리스크관리 기준」 관련 공식 행정지도 검색 결과에는 8월 13일 대책과 관련하여 **“투기적 목적의 비거주 1주택자 전세대출보증 신규취급·만기연장 금지”**라는 내용이 확인됩니다 ((12)).\n\n그러나 확인된 행정지도 본문에는 다음 사항이 명시되어 있지 않습니다.\n\n- 만기연장 시 증액한 경우 기존 대출 전체에 변경 규정을 적용하는지\n- 증액분에만 변경 규정을 적용하는지\n- 증액 만기연장을 신규 대출로 보는지\n- 해당 경우 8월 13일 대책의 예외 사유를 적용하는지\n\n따라서 이 부분은 **공식 근거 없음**입니다.\n\n### 2. ‘증액 만기연장’의 적용 범위\n\n확인된 공식 자료에서 명시적으로 확인되는 것은 **증액 없는 만기연장**에 관한 내용입니다. 정책브리핑의 금융대책 문답은 “이미 실행된 대출의 증액없는 만기 연장 및 자행대환시에는 DSR 신규로 심사하지 않습니다”라고 설명합니다 ((22)).\n\n이 문장은 증액 없는 만기연장에 관한 것이므로, 다음 쟁점에는 직접 답하지 않습니다.\n\n| 쟁점 | 공식 자료에서 확인되는 결론 |\n|---|---|\n| 증액 없는 만기연장 | DSR 신규 심사를 하지 않는다는 문구 확인 |\n| 증액이 있는 만기연장 | 기존 대출 전체 적용인지 증액분만 적용인지 공식 문구 확인 안 됨 |\n| 증액분만 별도 적용 | 공식 문구 확인 안 됨 |\n| 기존 대출 전체에 변경 규정 적용 | 공식 문구 확인 안 됨 |\n\n따라서 **“대출 전체에 적용된다”거나 “증액분에만 적용된다”고 단정할 공식 근거는 확인되지 않습니다.**\n\n### 3. 8월 13일 대책의 예외 사유 적용 여부\n\n확인된 자료에는 여신심사위원회가 비거주 사유의 불가피성을 인정하는 경우 신규 전세대출과 만기연장이 가능하다는 내용이 있습니다. 연합뉴스가 인용한 금융위원회 설명은 다음과 같습니다.\n\n“비거주 사유의 불가피성이 명백하다고 금융사 여신심사위원회가 인정하는 경우에는 예외를 허용해 신규 전세대출과 만기 연장이 가능하도록 했다” ((1)).\n\n또한 금융위원회 설명에 따르면 여신심사위원회의 인정 여부는 금융회사가 개별 사정을 판단하여 결정하는 구조로 소개되어 있습니다 ((1)).\n\n다만 확인된 자료에는 다음 사항이 명시되어 있지 않습니다.\n\n- 법적 의무에 따른 실거주\n- 기존 임대차계약의 승계\n- 임차보증금 미반환\n- 퇴거 일정 조정\n- 위 사유들이 증액을 수반한 만기연장에도 적용되는지\n- 증액 만기연장 시 예외 심사를 기존 대출 전체에 적용하는지, 증액분에만 적용하는지\n\n따라서 **8월 13일 대책에 열거된 예외 사유가 증액 만기연장에 적용된다는 공식 근거 없음**입니다. 확인되는 공식 자료상으로는 여신심사위원회가 비거주 사유의 불가피성을 인정하는 경우 신규 전세대출 및 만기연장이 가능하다는 일반적 문구만 확인됩니다 ((1)).\n\n### 4. 기관별 공식 근거 확인 결과\n\n- **금융위원회 공식 자료**: 비거주 1주택자에 대한 전세대출 신규취급 및 만기연장 원칙적 금지 내용은 확인되지만, 증액 만기연장의 적용 범위는 확인되지 않습니다 ((2)) ((3)).\n- **금융위원회 행정지도**: 비거주 1주택자의 전세대출보증 신규취급·만기연장 금지 내용은 확인되지만, 기존 대출 전체와 증액분의 적용 구분은 확인되지 않습니다 ((12)).\n- **금융위원회 정책브리핑 문답**: 증액 없는 만기연장에 대한 DSR 처리만 확인되며, 증액 만기연장의 적용 범위는 설명하지 않습니다 ((22)).\n- **금융감독원**: 확인된 검색 결과에는 해당 증액 만기연장 및 예외 적용을 직접 해석한 공식 질의회신이나 문답이 없습니다.\n- **은행연합회**: 확인된 검색 결과에는 해당 쟁점을 해석한 공식 자료가 없습니다.\n- **HUG·HF·SGI**: 확인된 검색 결과에는 해당 증액 만기연장에 대한 공동 또는 개별 공식 해석이 없습니다.\n\n### 결론\n\n1. **증액 만기연장 시 변경 규정이 대출 전체에 적용되는지, 증액분에만 적용되는지:**  \n   **공식 근거 없음.**\n\n2. **8월 13일 대책의 예외 사유가 증액 만기연장에 적용되는지:**  \n   **공식 근거 없음.**\n\n3. **확인되는 공식 문구:**  \n   비거주 1주택자의 전세대출보증 신규취급·만기연장은 원칙적으로 금지되며, 금융회사 여신심사위원회가 비거주 사유의 불가피성을 명백하다고 인정하는 경우 신규 전세대출과 만기연장이 가능하다는 내용입니다 ((1)) ((2)) ((3)) ((12)).\n\n**중요 고지**\n\n이 내용은 금융 규정과 공개된 공식 자료에 관한 일반적인 정보 제공을 위한 것이며, 개별 대출의 승인 여부나 금융기관의 심사 결과를 대신하지 않습니다. 구체적인 사안은 해당 금융회사와 자격을 갖춘 금융·법률 전문가에게 확인하시기 바랍니다.",
+  "references": [
+   {
+    "title": "[8·13대책] [일문일답] 금융위 \"투기성 비거주 1주택자는 전세대출 제한\" | 연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20260812172200002",
+    "hostname": "yna.co.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "금융위원회 공식 블로그 : 네이버 블로그",
+    "url": "https://blog.naver.com/blogfsc/224377436733",
+    "hostname": "blog.naver.com",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "카드뉴스 - 홍보자료 - 알림마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/no040000?cnId=3374",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보도자료 - 위원회 소식 - 알림마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/no010101/85253",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "내년부터 비거주 1주택자 전세대출 보증 막힌다 | 한국경제",
+    "url": "https://www.hankyung.com/article/2026081387076",
+    "hostname": "hankyung.com",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "부동산섹터: 기업, 실적 및 주식 - Tradingkey.com",
+    "url": "https://www.tradingkey.com/kr/markets/sectors/real-estate-list1010",
+    "hostname": "tradingkey.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "부동산 시장 안정을 위한 금융 종합대책",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=87517&fileTy=ATTACH&fileNo=3",
+    "hostname": "fsc.go.kr",
+    "date": "2026-08-13",
+    "tier": 1
+   },
+   {
+    "title": "금융규제민원",
+    "url": "https://better.fsc.go.kr/fsc_new/search/searchPrvntc.do",
+    "hostname": "better.fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보도자료(상세) | 보도자료 | 보도·알림 |",
+    "url": "https://fss.or.kr/fss/bbs/B0000188/view.do?nttId=241690&menuNo=200218",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "18. 여수신 금리 결정체계 및 금리 현황",
+    "url": "https://m.kfb.or.kr/include/download.php?enc_para=wPnQ2ZQTb9K*ynL3oHXYHt*BS54GjeIfvgF14rJd05El1rHB4jBYNGnJGKA=",
+    "hostname": "m.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "보증금 미반환 조회 < 전세사기 피해 예방 < 전세사기예방센터 < 주택도시보증공사",
+    "url": "https://www.khug.or.kr/jeonse/web/s01/s010321.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주택담보대출에 대한 리스크 관리 기준",
+    "url": "https://better.fsc.go.kr/fsc_new/file/displayFile.do?filePath=/2026/08/28&orgFileName=260813_%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%A6%AC%EC%8A%A4%ED%81%AC%20%EA%B4%80%EB%A6%AC%20%EA%B8%B0%EC%A4%80%20%ED%96%89%EC%A0%95%EC%A7%80%EB%8F%84.pdf&sysFileName=9150b4d6f5564462ab5cf218254697e9.pdf",
+    "hostname": "better.fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "금융규제·법령해석포털",
+    "url": "https://better.fsc.go.kr/fsc_new",
+    "hostname": "better.fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "가. 여수신 상품별 금리결정체계",
+    "url": "https://m.kfb.or.kr/include/download.php?enc_para=wPnQ15QTb9K*ynL3oHXYHpoJMk7QveMGsls6fSRc6rM*01ur9IlEb4qQu*U=",
+    "hostname": "m.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "[기타현황]",
+    "url": "https://m.kfb.or.kr/include/download.php?enc_para=w/3X3ZQTb9K*ynL3oHXYHs/DLm2nY3GqGtiSR2CnhOrGmqrFNy0CGiQnXoQ=",
+    "hostname": "m.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "New Real Estate Measures and Loan Regulations Explained (Analysis of the 8/13 Policy)",
+    "url": "https://www.youtube.com/watch?v=Wx_oK_Q1eag",
+    "hostname": "youtube.com",
+    "date": null,
+    "tier": 0
+   },
+   {
+    "title": "2025 SHINHAN Bank Report",
+    "url": "https://m.kfb.or.kr/include/download.php?enc_para=wP7X25QTb9K*ynL3oHXYHukfAqXJr*MZ457Esq6a8xpctDZcvbJrW7ZeV5k=",
+    "hostname": "m.kfb.or.kr",
+    "date": "2026-05-31",
+    "tier": 2
+   },
+   {
+    "title": "금융 FAQ(상세) | 금융생활 길라잡이 | 금융소비자보호 |",
+    "url": "https://www.fss.or.kr/fss/bbs/B0000172/view.do?nttId=131763&menuNo=200202&pageIndex=1",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "IV. 기타현황 18. 여.수신 금리 결정체계및 ...",
+    "url": "https://m.kfb.or.kr/include/download.php?enc_para=wPnS2JQTb9K*ynL3oHXYHqk6u3fUYKwDy*FC9cO2XliZxu2NEyKNboe32RU=",
+    "hostname": "m.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "행정지도·감독행정 > 금융위 행정지도 > 시행",
+    "url": "https://better.fsc.go.kr/fsc_new/status/adminMap/OpertnList.do?stNo=11&muNo=145&muGpNo=60",
+    "hostname": "better.fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "ePapyrus PDF Document - 금융웹진 - The Banker - 은행연합회",
+    "url": "https://banker.kfb.or.kr:441/201409/201409_webzinepdf.pdf",
+    "hostname": "banker.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "주택시장 안정화를 위한 대출수요 관리 방안 - 전체 | 카드/한컷 | 멀티미디어 | 대한민국 정책브리핑",
+    "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148951581",
+    "hostname": "korea.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "Vol. 710 2013 05 - 금융웹진 - The Banker - 은행연합회",
+    "url": "https://banker.kfb.or.kr:441/201305/201305_webzinepdf.pdf",
+    "hostname": "banker.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "금융정책 - 정책일반 - 정책마당 - 금융위원회",
+    "url": "https://www.fsc.go.kr/po010101/74161?srchCtgry=&curPage=139&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "금융 FAQ(목록) | 금융생활 길라잡이 | 금융소비자보호 |",
+    "url": "https://fss.or.kr/fss/bbs/B0000172/list.do?menuNo=200202&pageIndex=1",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "[분석] 7월 금통위 기준금리 동결 우세 전망, 8월 인하 가능할까 By 알파경제 alphabiz",
+    "url": "https://kr.investing.com/news/stock-market-news/article-1543393",
+    "hostname": "kr.investing.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "금융감독원",
+    "url": "https://tavily.com/knowledge/company/aY3tIgwh0nP4",
+    "hostname": "tavily.com",
+    "date": null,
+    "tier": 3
+   }
+  ],
+  "requestId": "6fb9dd6e-c66f-4717-b1c9-898d5de5c8d9"
+ },
+ "searches": [
+  {
+   "query": "비거주 1주택자 전세대출 만기연장 증액 변경된 규정 적용 경과조치",
+   "results": [
+    {
+     "title": "[부동산 시장 안정을 위한 금융 종합대책 3] 투기적 목적의 비거주 1주택자 전세 ...",
+     "url": "https://blog.naver.com/blogfsc/224384135084",
+     "hostname": "blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=blog.naver.com&sz=128",
+     "description": "투기적 목적의 비거주 1주택자의 전세대출 신규취급·만기연장이 제한됩니다. ​(2027년 1월 1일 부터). [부동산 시장 안정을 위한 금융 종합대책 3].",
+     "date": "2026-08-20",
+     "tier": 1
+    },
+    {
+     "title": "투기적 목적의 비거주 1주택자의 전세대출 신규취급·만기연장이 제한 ...",
+     "url": "https://www.instagram.com/p/DcPfIbFE6Ex/",
+     "hostname": "instagram.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=instagram.com&sz=128",
+     "description": "투기적 목적의 비거주 1주택자의 전세대출 신규취급·만기연장이 제한됩니다. · 전세대출 규제, 1주택자 전부가 대상은 아닙니다. · 전세자금대출 규제, ...",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "Review of Restrictions on Extension of Jeonse Loans for Single-Home ...",
+     "url": "https://www.youtube.com/watch?v=vY7mQVb7CVk",
+     "hostname": "youtube.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
+     "description": "... 전세대출 #대출규제 #부동산전망 #다주택자 #1주택자 # ... 다주택자 대출 규제 시작 / SBS / 친절한 경제. SBS 뉴스•202K views · 14:28. Go to ...",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "투기적 목적의 비거주 1주택자의 전세대출 신규취급·만기연장이 제한 ...",
+     "url": "https://www.facebook.com/fsckorea/posts/%ED%88%AC%EA%B8%B0%EC%A0%81-%EB%AA%A9%EC%A0%81%EC%9D%98-%EB%B9%84%EA%B1%B0%EC%A3%BC-1%EC%A3%BC%ED%83%9D%EC%9E%90%EC%9D%98-%EC%A0%84%EC%84%B8%EB%8C%80%EC%B6%9C-%EC%8B%A0%EA%B7%9C%EC%B7%A8%EA%B8%89%EB%A7%8C%EA%B8%B0%EC%97%B0%EC%9E%A5%EC%9D%B4-%EC%A0%9C%ED%95%9C%EB%90%A9%EB%8B%88%EB%8B%A4-2027%EB%85%84-1%EC%9B%94-1%EC%9D%BC-%EB%B6%80%ED%84%B0%EB%B6%80%EB%8F%99%EC%82%B0-%EC%8B%9C%EC%9E%A5-%EC%95%88%EC%A0%95%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B8%88%EC%9C%B5-%EC%A2%85%ED%95%A9%EB%8C%80%EC%B1%85-3-13%EB%B2%88/1365159072464735/",
+     "hostname": "facebook.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=facebook.com&sz=128",
+     "description": "투기적 목적의 비거주 1주택자의 전세대출 신규취급·만기연장이 제한됩니다. (2027년 1월 1일 부터) [부동산 시장 안정을 위한 금융 종합대책 3] ...",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "[속보]내년 1월부터 '비거주 1주택자' 전세대출 제한···갭투자 차단 조치[8· ...",
+     "url": "https://www.khan.co.kr/article/202608131200001",
+     "hostname": "khan.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=khan.co.kr&sz=128",
+     "description": "비거주 1주택자의 전세대출 제한은 행정지도와 보증기관 내규 개정을 거쳐 내년 1월 1일부터 시행된다. 신진창 금융위원회 사무처장은 “본인·배우자가 ...",
+     "date": "2026-08-13",
+     "tier": 2
+    },
+    {
+     "title": "집 사고 한 번도 안 살았으면 '사실상 투기'…1주택이라도 전세대출 제한",
+     "url": "https://stock.mk.co.kr/news/view/1141472",
+     "hostname": "stock.mk.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=stock.mk.co.kr&sz=128",
+     "description": "이미 전세대출을 받은 비거주 1주택자는 기존 대출의 만기연장이 제한된다. 다만 불가피한 사정으로 실거주가 어려운 경우에는 예외를 둔다. 임대인의 ...",
+     "date": "2026-08-13",
+     "tier": 2
+    },
+    {
+     "title": "금융위 “전세 거주 1주택자 '전세보증대출' 만기 불허 검토”",
+     "url": "https://www.hani.co.kr/arti/economy/finance/1253847.html",
+     "hostname": "hani.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=hani.co.kr&sz=128",
+     "description": "금융위원회가 비거주 1주택자의 전세보증대출(만기 2년·약 14조원 추산)에 대해 만기 연장을 불허하는 방안을 검토하고 있는 것으로 나타났다.",
+     "date": "2026-04-12",
+     "tier": 2
+    },
+    {
+     "title": "내년부터 '비거주 1주택' 전세대출 막힌다, 증세 이어 추가 규제",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/08/14/4JFITNN4ZFE3JG4BRCB2NJNPHM/",
+     "hostname": "chosun.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=chosun.com&sz=128",
+     "description": "... 전세대출 보증이 제한돼 신규 전세대출을 받을 수 없고 만기 연장도 안 된다. 이 규제 대상에 '투기적 목적'의 수도권 비거주 1주택자를 추가한 것이다.",
+     "date": "2026-08-14",
+     "tier": 2
+    },
+    {
+     "title": "[단독]'1주택자 전세대출 14조' 만기연장 제한 타깃..배수진 친 정부",
+     "url": "https://www.mt.co.kr/finance/2026/04/12/2026040916180227398",
+     "hostname": "mt.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=mt.co.kr&sz=128",
+     "description": "금융당국은 비거주 1주택자의 전세대출 만기를 원칙적으로 연장하는 않는 방안을 검토하고 있다. 아울러 지난해 9월 이후 2억원으로 제한한 1주택자 전세 ...",
+     "date": "2026-04-12",
+     "tier": 2
+    },
+    {
+     "title": "내년부터 투기성 '비거주 1주택자' 전세대출 막힌다 [머니뭐니]",
+     "url": "https://v.daum.net/v/BpTuJxlwHi?f=p",
+     "hostname": "v.daum.net",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=v.daum.net&sz=128",
+     "description": "내년 1월 1일부터 수도권·규제지역에 아파트를 사놓고 한 번도 살지 않은 투기 목적의 1주택자는 전세대출을 새로 받거나 기존 대출의 만기를 연장할 수 ...",
+     "date": "2026-08-13",
+     "tier": 3
+    }
+   ]
+  },
+  {
+   "query": "주택담보대출에 대한 리스크관리 기준 행정지도 전세대출 증액 경과조치",
+   "results": [
+    {
+     "title": "주택담보대출에 대한 리스크 관리 기준",
+     "url": "https://better.fsc.go.kr/fsc_new/file/displayFile.do?filePath=/2026/08/28&orgFileName=260813_%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%A6%AC%EC%8A%A4%ED%81%AC%20%EA%B4%80%EB%A6%AC%20%EA%B8%B0%EC%A4%80%20%ED%96%89%EC%A0%95%EC%A7%80%EB%8F%84.pdf&sysFileName=9150b4d6f5564462ab5cf218254697e9.pdf",
+     "hostname": "better.fsc.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=better.fsc.go.kr&sz=128",
+     "description": "➁ 1주택자 전세자금대출의 DSR 적용은 '25.10.29일부터 시행. □ (경과조치) 행정지도 시행일 이후 신규대출 신청분부터 적용. ㅇ 다만, 시행일 전일까지. ①. 주택매매 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "규제지역 내 주택담보대출의 대환대출시 해당 주택 ...",
+     "url": "https://m.blog.naver.com/blogfsc/224056254132",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "주택담보대출에 대한 리스크 관리 기준｣ 행정지도('25.9.7일) 등에 따라 해당 지역 주택담보대출의 대환대출에 대해 강화된 LTV 규제비율(40%)을 적용 ...",
+     "date": "2025-10-28",
+     "tier": 1
+    },
+    {
+     "title": "주택관련 담보대출 등에 대한 리스크관리 세부기준",
+     "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=128006477&flNm=%5B%EB%B3%84%ED%91%9C+10%5D+%EC%A3%BC%ED%83%9D%EA%B4%80%EB%A0%A8+%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C+%EB%93%B1%EC%97%90+%EB%8C%80%ED%95%9C+%EB%A6%AC%EC%8A%A4%ED%81%AC%EA%B4%80%EB%A6%AC+%EC%84%B8%EB%B6%80%EA%B8%B0%EC%A4%80",
+     "hostname": "law.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=law.go.kr&sz=128",
+     "description": "1. (담보인정비율의 산정) 주택담보대출 및 비주택담보대출의 담보인정비율은 대출계좌. 별로 다음의 방식으로 산출한다. <개정 2022.9.1.> 담보대출금액+선순위채권+임차 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "가계부채 관리 강화방안",
+     "url": "https://mofe.go.kr/com/cmm/fms/FileDown.do;jsessionid=h3LKFESZ0xIsXhE2UmBCy6i7.node30?atchFileId=ATCH_000000000018884&fileSn=4",
+     "hostname": "mofe.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=mofe.go.kr&sz=128",
+     "description": "전세 갱신 동일주택 시 증액범위내 대출 ・ 전세보증금담보대출 금지 주택자 비대면 대출 제한 ・ 4 향후 증가세 ‧ 13 전세대출 총량관리",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "조정대상지역 주택담보대출 규제 강화 관련 행정지도 실시 및 FAQ 배포",
+     "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=198084",
+     "hostname": "eiec.kdi.re.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=eiec.kdi.re.kr&sz=128",
+     "description": "금융위원회는 최근 수도권 지역의 국지적 과열에 대하여 투기수요를 차단함으로써 주택시장을 안정적으로 관리하기 위한 방안을 2.28.(금) 발표하였다.",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "문서뷰어",
+     "url": "https://www.korea.kr/common/docViewer.do?fileId=189282671&tblKey=GMN",
+     "hostname": "korea.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=korea.kr&sz=128",
+     "description": "｢주택시장 안정화 방안｣ 금융부문 조치 중 12.23일 행정지도 시행 사항. 1 ... <별첨 2> (행정지도) 주택담보대출에 대한 리스크 관리 기준. ☞ 본 자료를 인용 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "주택시장 안정을 위한 관리방안(6.17일)의 주택담보대출 관련 후속조치 시행",
+     "url": "https://m.blog.naver.com/blogfsc/222016926254",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "주택담보대출 … 행정지도를 실시하여 7.1일부터 시행할 예정입니다. 시행일 및 경과조치 □ 신규 행정지도 시행일('20.7.1.)",
+     "date": "2020-06-30",
+     "tier": 1
+    },
+    {
+     "title": "2억원 ​✅ 수도권·규제지역 내 주담대에 한해 스트레스 금리 3%로 상향 조정 ( ...",
+     "url": "https://www.instagram.com/p/DP0jfEdkgmQ/",
+     "hostname": "instagram.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=instagram.com&sz=128",
+     "description": "주택시장 안정화를 위한 대출수요 관리 방안을 정리해드립니다. ​✓ 주택가격 수준에 따라 주택담보대출 한도 차등화 (10월 16일 시행)",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "2억원 ​✅ 수도권·규제지역 내 주담대에 한해 스트레스 금리 3%로 상향 조정 ( ...",
+     "url": "https://www.facebook.com/fsckorea/posts/%EC%A3%BC%ED%83%9D%EC%8B%9C%EC%9E%A5-%EC%95%88%EC%A0%95%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%8C%80%EC%B6%9C%EC%88%98%EC%9A%94-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EC%95%88%EC%9D%84-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4-%EC%A3%BC%ED%83%9D%EA%B0%80%EA%B2%A9-%EC%88%98%EC%A4%80%EC%97%90-%EB%94%B0%EB%9D%BC-%EC%A3%BC%ED%83%9D%EB%8B%B4%EB%B3%B4%EB%8C%80%EC%B6%9C-%ED%95%9C%EB%8F%84-%EC%B0%A8%EB%93%B1%ED%99%94-10%EC%9B%94-16%EC%9D%BC-%EC%8B%9C%ED%96%89-%EC%A3%BC%ED%83%9D%EA%B0%80%EA%B2%A9%EC%8B%9C%EA%B0%80-15%EC%96%B5/1115681897412455/",
+     "hostname": "facebook.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=facebook.com&sz=128",
+     "description": "주택시장 안정화를 위한 대출수요 관리 방안을 정리해드립니다. ✓ 주택가격 수준에 따라 주택담보대출 한도 차등화 (10월 16일 시행) ▷ 주택가격(시가) ...",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "(보도자료) 가계부채 관리 강화 방안",
+     "url": "https://www.fsc.go.kr/no010101/84824?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+     "hostname": "fsc.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=fsc.go.kr&sz=128",
+     "description": "둘째, 수도권 · 규제지역 내 보유주택을 담보로 하여 생활비 등 조달목적으로 대출받는 생활안정자금 목적 주담대 한도를 최대 1억원으로 제한한다.",
+     "date": "2025-06-27",
+     "tier": 1
+    }
+   ]
+  }
+ ]
+}

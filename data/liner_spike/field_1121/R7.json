@@ -1,0 +1,510 @@
+{
+ "id": "R7",
+ "question": "HUG 전세자금대출보증을 연장할 때 임차보증금이 줄면 줄어든 금액만큼 대출을 상환해야 하나요? 상환액은 어떻게 계산하나요(보증한도·보증금의 80% 등)? HF·SGI도 알려주세요. 금융위원회·금융감독원·은행연합회·HUG(주택도시보증공사)·HF(한국주택금융공사)·SGI서울보증 등 공식 자료(보도자료, FAQ, 행정지도, 상품설명서, 보증규정, 질의회신, 금융규제·법령해석포털 회신사례)에서 근거 문장을 찾아 문서명·날짜와 함께 인용해 주세요. 보증기관별로 다르면 기관별로 나눠 주세요. 공식 근거가 없으면 '공식 근거 없음'이라고 분명히 답하고 추측하지 마세요.",
+ "agent": {
+  "text": "### HUG 전세자금대출보증 연장 시 임차보증금 감액에 따른 대출 상환 규정 및 계산 방식\n\nHUG의 공식 안내에는 보증금액이 변동되지 않거나 감액되는 경우의 갱신 제출서류가 제시되어 있지만, 임차보증금 감액분만큼 전세대출 원금을 반드시 상환해야 한다는 규정이나 상환액 산식은 제시되어 있지 않습니다. 따라서 **임차보증금이 줄었다는 이유만으로 줄어든 금액 전부를 상환해야 하는지에 관한 HUG의 공식 근거는 없음**입니다. HUG 「자주하는 질문, 전세안심보증」, 게시일 미확인 ((24)).\n\nHUG 안내는 보증금액이 변동되지 않거나 감액되는 경우 주민등록등본, 신분증, 등기부등본, 금융기관 전세자금대출 및 담보제공확인서, 갱신 전세계약서 등을 제출하도록 안내할 뿐, 감액분과 대출상환액의 일대일 관계를 규정하지 않습니다. HUG 「자주하는 질문, 전세안심보증」, 게시일 미확인 ((24)).\n\n또한 HUG는 2025년 6월 19일 이후 신규보증이 이후 대출금 증액 없이 갱신되는 경우 갱신보증 발급 시 임차인의 상환능력을 재심사하지 않는다고 안내하고 있습니다. 다만 대출금이 증액되거나 새로운 주택으로 이사하거나 대출은행을 변경하는 경우에는 별도 심사 대상이라고 안내합니다. HUG 「자주하는 질문, 전세안심보증」, 게시일 미확인 ((24)).\n\n따라서 제공된 HUG 공식 자료만으로는 다음의 계산식을 확정할 수 없습니다.\n\n- 상환액 = 기존 임차보증금 − 갱신 임차보증금\n- 상환액 = 기존 대출금 − 갱신 보증한도\n- 상환액 = 기존 대출금 − 갱신 임차보증금의 80%\n\n위 세 가지 중 어느 산식을 HUG 전세자금대출보증 갱신에 적용한다는 공식 근거는 **공식 근거 없음**입니다. HUG의 전세금안심대출보증 상품 안내에는 전세자금대출특약보증과 전세보증금반환보증이 결합된 상품이라는 설명은 있으나, 임차보증금 감액 시 대출 원금 상환액 산식은 확인되지 않습니다. HUG 「전세금안심대출보증」, 게시일 미확인 ((39)).\n\n금융위원회 자료는 2024년 7월 31일까지 적용되는 임대인의 임차보증금 반환 목적 주택담보대출 요건과 후속 임차인의 보증금으로 해당 대출을 상환하는 요건을 다루고 있어, 임차인의 HUG 전세자금대출보증 갱신 시 상환액을 정하는 근거로 사용할 수 없습니다. 금융위원회 「은행업감독규정 일부개정고시안」, 게시일 미확인 ((7)).\n\n금융감독원 자료는 주택담보대출의 담보인정비율 산정방식을 설명하는 금융 FAQ로, HUG 전세자금대출보증 갱신 시 임차보증금 감액분의 대출상환액을 규정하지 않습니다. 금융감독원 「금융 FAQ, 주택담보대출시 적용되는 담보인정비율」, 게시일 미확인 ((22)).\n\n은행연합회 자료로 확인되는 내용은 2026년 3월 코픽스 금리 자료뿐이며, HUG 전세자금대출보증 갱신 시 임차보증금 감액에 따른 원금 상환 산식은 확인되지 않습니다. 은행연합회 「COFIX Rates for Mar 2026」, 2026년 게시자료 ((8)).\n\n### HF 전세자금대출보증 연장 시 임차보증금 감액에 따른 대출 상환 규정 및 계산 방식\n\nHF의 일반전세자금보증 공식 상품 안내는 보증한도를 다음 세 기준 중 가장 적은 금액으로 정한다고 설명합니다. 보증과목별 한도는 4억원에서 기 이용 전세자금보증잔액을 차감하고, 소요자금별 한도는 `임차보증금 × 80% − 기 이용 전세자금보증잔액`과 보증신청금액 중 적은 금액으로 산정하며, 상환능력별 한도도 별도로 적용합니다. HF 「일반전세자금보증」, 게시일 미확인 ((4)).\n\n그러나 이 `임차보증금 × 80%` 산식은 신규 또는 갱신 보증의 **보증한도 산정 기준**이지, 임차보증금이 감소할 때 기존 전세대출에서 얼마를 의무적으로 상환해야 하는지를 직접 정한 산식으로 제시된 것은 아닙니다. HF 「일반전세자금보증」, 게시일 미확인 ((4)).\n\nHF 공식 자료에는 임차보증금 감액 시 다음 중 어느 금액을 상환해야 한다는 명시적 규정이 확인되지 않습니다.\n\n- 감액된 임차보증금 전액\n- 기존 대출금과 갱신 보증한도의 차액\n- 기존 대출금과 갱신 임차보증금의 80%의 차액\n\n따라서 **HF 전세자금보증 갱신에서 임차보증금 감액에 따른 의무 상환액의 확정 산식은 공식 근거 없음**입니다. 다만 갱신 시 적용 가능한 보증한도는 HF가 안내한 한도 산식과 기 이용 보증잔액, 보증신청금액, 상환능력 등을 함께 확인해야 합니다. HF 「일반전세자금보증」, 게시일 미확인 ((4)).\n\nHF는 일반전세자금보증의 보증비율을 대출금액의 90%로 안내하고, 수도권·규제지역은 80%라고 설명합니다. 이 비율은 대출금 중 HF가 보증하는 비율이며, 임차보증금 감액 시 대출자가 상환해야 할 금액을 의미하지 않습니다. HF 「일반전세자금보증」, 게시일 미확인 ((4)).\n\nHF의 2022년 10월 7일 보도자료도 개인별 이용 가능 보증한도는 임차보증금, 연소득, 부채, 현재 전세자금보증 이용 여부 등에 따라 달라진다고 설명하지만, 갱신 시 임차보증금 감액분에 대한 대출상환액 산식은 제시하지 않습니다. HF 「주택금융공사, 전세자금보증 한도 4억원으로 상향」, 2022년 10월 7일 ((6)).\n\n### SGI서울보증 전세자금대출보증 연장 시 임차보증금 감액에 따른 대출 상환 규정 및 계산 방식\n\n제공된 SGI서울보증 공식 자료에서는 전세자금대출보증 갱신 시 임차보증금이 감액되는 경우의 의무 상환 여부, 상환액 산식, 보증한도와 임차보증금 80%의 관계를 확인할 수 없습니다. 따라서 **SGI서울보증에 관한 해당 항목은 공식 근거 없음**입니다.\n\n제공된 SGI서울보증 자료는 전자입찰·계약시스템의 입찰공고 내용으로, 전세자금대출보증 갱신이나 임차보증금 감액에 따른 대출상환 기준을 포함하지 않습니다. SGI서울보증 「전자입찰/계약시스템」, 게시일 미확인 ((20)).\n\n또한 보증기관별 전세대출 조건이 기관에 따라 달라질 수 있다는 일반적인 설명만으로는 SGI서울보증의 감액 갱신 시 상환액을 산정할 수 없습니다. 「보증기관별 전세대출 금리·한도·규제 조건 한눈에 확인」, 게시일 미확인 ((29)).\n\n따라서 제공된 공식 자료만으로 SGI서울보증의 상환액을 다음과 같이 계산하는 것은 근거가 없습니다.\n\n- 상환액 = 임차보증금 감액분\n- 상환액 = 기존 대출금 − 갱신 보증한도\n- 상환액 = 기존 대출금 − 임차보증금의 80%\n\n**중요 고지:** 위 내용은 일반적인 정보 제공을 위한 것이며 금융기관 또는 보증기관의 개별 심사를 대신하지 않습니다. 개인의 대출계약, 보증서, 갱신 조건에 관한 구체적인 판단은 해당 대출은행과 HUG·HF·SGI서울보증의 담당 부서 또는 자격을 갖춘 금융전문가에게 확인하시기 바랍니다.",
+  "references": [
+   {
+    "title": "일반전세지킴보증 | 전세보증금반환보증",
+    "url": "http://www.hf.go.kr/ko/sub02/sub02_05_01.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "[PDF] 전세피해지원센터 안내 - 주택도시보증공사",
+    "url": "https://www.khug.or.kr/hug/homepage_file_upload/Info_notice_download.pdf.pdf",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "상품개요 < 전세반환보증 < 개인보증 <  주택도시보증공사",
+    "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000001.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "일반전세자금보증 | 전세/월세자금보증 | 주택보증 | 한국주택금융공사",
+    "url": "https://www.hf.go.kr/ko/sub02/sub02_01_02.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "일반전세자금보증",
+    "url": "http://www.hf.go.kr/ko/sub02/sub02_01_02.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주택금융공사, 전세자금보증 한도 4억원으로 상향 | 홍보센터 | 공사소개 | 한국주택금융공사",
+    "url": "http://www.hf.go.kr/ko/sub05/sub05_04_05.do?mode=view&articleNo=542535&title=%EC%A3%BC%ED%83%9D%EA%B8%88%EC%9C%B5%EA%B3%B5%EC%82%AC%2C+%EC%A0%84%EC%84%B8%EC%9E%90%EA%B8%88%EB%B3%B4%EC%A6%9D+%ED%95%9C%EB%8F%84+4%EC%96%B5%EC%9B%90%EC%9C%BC%EB%A1%9C+%EC%83%81%ED%96%A5",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "%EC%9D%80%ED%96%89%EC%97%85%EA%B0%90%EB%8F%85%EA%B7%9C%EC%A0%95%20%EC%9D%BC%EB%B6%80%EA%B0%9C%EC%A0%95%EA%B3%A0%EC%8B%9C%EC%95%88.pdf",
+    "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=82199&fileTy=ATTACH&fileNo=2",
+    "hostname": "fsc.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "KOREA FEDERATION OF BANKS",
+    "url": "https://m.kfb.or.kr/eng/side/news_view.php?idx=953",
+    "hostname": "m.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "주택금융공사, 전세자금보증 한도 4억원으로 상향 | 한국주택금융공사",
+    "url": "http://hf.go.kr/_custom/hf/_common/board/index/21.do?mode=view&articleNo=542535&title=%EC%A3%BC%ED%83%9D%EA%B8%88%EC%9C%B5%EA%B3%B5%EC%82%AC%2C+%EC%A0%84%EC%84%B8%EC%9E%90%EA%B8%88%EB%B3%B4%EC%A6%9D+%ED%95%9C%EB%8F%84+4%EC%96%B5%EC%9B%90%EC%9C%BC%EB%A1%9C+%EC%83%81%ED%96%A5",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "한국주택금융공사",
+    "url": "https://hf.go.kr/",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "전세 및 임대보증 | 공공데이터 | HUG 빅데이터 개방 포털 |  HOUSTA 주택정보포털",
+    "url": "https://khug.or.kr/houstar/web/p03/01/p030105.jsp?mode=S&currentPage=1&articleId=34711",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "일반전세지킴보증 | 전세보증금반환보증 | 주택보증 | 한국주택금융공사",
+    "url": "https://www.hf.go.kr/ko/sub02/sub02_05_01.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "HUG 주택도시보증공사 - 전세금안심대출보증",
+    "url": "https://www.khug.or.kr/khmb/m/hg/gg/relax/relaxsub3.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "࿬ȸ",
+    "url": "https://m.kfb.or.kr",
+    "hostname": "m.kfb.or.kr",
+    "date": null,
+    "tier": 2
+   },
+   {
+    "title": "전세대출 상환 확약서(임차권등기신청에 따른 기한연장 보증대상자용) | 서식자료실 | 국민참여 | 한국주택금융공사",
+    "url": "http://www.hf.go.kr/ko/sub04/sub04_10_02.do?mode=view&articleNo=382208&title=%EC%A0%84%EC%84%B8%EB%8C%80%EC%B6%9C+%EC%83%81%ED%99%98+%ED%99%95%EC%95%BD%EC%84%9C%28%EC%9E%84%EC%B0%A8%EA%B6%8C%EB%93%B1%EA%B8%B0%EC%8B%A0%EC%B2%AD%EC%97%90+%EB%94%B0%EB%A5%B8+%EA%B8%B0%ED%95%9C%EC%97%B0%EC%9E%A5+%EB%B3%B4%EC%A6%9D%EB%8C%80%EC%83%81%EC%9E%90%EC%9A%A9%29",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주택도시기금 버팀목 전세대출 안내",
+    "url": "https://www.myhome.go.kr/hws/portal/cont/selectSupLeaseLoanView.do",
+    "hostname": "myhome.go.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "자주하는 질문 < 전세반환보증 < 개인보증 <  주택도시보증공사",
+    "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000003.jsp",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "(일반) 상품소개 | 보금자리론 | 주택담보대출",
+    "url": "http://www.hf.go.kr/ko/sub01/sub01_01_01.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "(일반) 상품소개 | 보금자리론 | 주택담보대출 | 한국주택금융공사",
+    "url": "https://www.hf.go.kr/ko/sub01/sub01_01_01.do",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "전자입찰/계약시스템",
+    "url": "https://ebid.sgic.co.kr",
+    "hostname": "ebid.sgic.co.kr",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "신(구) 전세대출 상환 확약서(임차권등기 세입자 특례보증 용도) | 한국주택금융공사",
+    "url": "https://www.hf.go.kr/_custom/hf/_common/board/index/172.do?mode=view&articleNo=70628&title=%EC%8B%A0%28%EA%B5%AC%29+%EC%A0%84%EC%84%B8%EB%8C%80%EC%B6%9C+%EC%83%81%ED%99%98+%ED%99%95%EC%95%BD%EC%84%9C%28%EC%9E%84%EC%B0%A8%EA%B6%8C%EB%93%B1%EA%B8%B0+%EC%84%B8%EC%9E%85%EC%9E%90+%ED%8A%B9%EB%A1%80%EB%B3%B4%EC%A6%9D+%EC%9A%A9%EB%8F%84%29",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "금융 FAQ(상세) | 금융생활 길라잡이 | 금융소비자보호 |",
+    "url": "https://www.fss.or.kr/fss/bbs/B0000172/view.do?nttId=49553&menuNo=200202&viewType=&searchCnd=22&searchWrd=LTV&pageIndex=1",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "[은행명] 전월세보증금 대출",
+    "url": "https://www.google.com/goto?url=CAESaQHEIkXX0o_UCYIbWP5VfAPJxTDnQJK_3PSIpf4D9oLC1vPHUMfVWHAbmUfwkbu7dJboA_dNCk5LfUGljKXjiYYvNo_aH2Nygm00yVDG2HKA0s6mTl0i5vly9yDTqXiwivPml9eh8YOH-Q&gsessionid=QxFVocKYRwqgMz_cpaUY6Z7W7qKkx0dl4QrbY3uqTWqyW27aeEqR6Q",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "자주하는 질문 < 전세안심보증 < 개인보증 <  주택도시보증공사",
+    "url": "https://www.khug.or.kr/hug/web/ig/dl/igdl000003.jsp?tabMenu=Y",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "임차보증금 권리제한 유무 확인서 | 서식자료실 | 국민참여 | 한국주택금융공사",
+    "url": "http://www.hf.go.kr/ko/sub04/sub04_10_02.do?mode=view&articleNo=70623&title=%EC%9E%84%EC%B0%A8%EB%B3%B4%EC%A6%9D%EA%B8%88+%EA%B6%8C%EB%A6%AC%EC%A0%9C%ED%95%9C+%EC%9C%A0%EB%AC%B4+%ED%99%95%EC%9D%B8%EC%84%9C",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "상품안내 < 전세보증반환 가입신청 | 모바일HUG",
+    "url": "https://onestop.khug.or.kr/view/biz/apply/goods001",
+    "hostname": "onestop.khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "개인보증시행세칙",
+    "url": "https://www.google.com/goto?url=CAESlwEBxCJF10LZd0xSv_VP8CkC6zXMHkNLmdEHB9kMU0VGE2O3xc5Kv50NKBVe5s8M_RgEUZUJvyOhh9wZM9gfdUazV-_uVHLyeXrXL0pJeaoWDKY2vfoq4Wfn9q3ndCOkJ5tm0nYi5Wdt8xI71mMa0SPJogknCML69DFzLlczLUPhbtv-jaeouVIFCM-WqW_RFWI9xYS0wOmx&gsessionid=nHwvD2fnuAl5K-7uNr27Rv7PmohNbFiNF365dnjDHj8MOiLhixSmgw",
+    "hostname": "google.com",
+    "date": "2023-06-27",
+    "tier": 3
+   },
+   {
+    "title": "INPILL+Gulim",
+    "url": "https://www.hf.go.kr/ko/sub02/sub02_09_01.do?mode=download&articleNo=600015&attachNo=96752",
+    "hostname": "hf.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "전세보증금반환보증",
+    "url": "https://www.khug.or.kr/",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "보증기관별 전세대출 금리·한도·규제 조건 한눈에 확인",
+    "url": "https://www.google.com/goto?url=CAESYwHEIkXXH9CaRuV07CqSEdPAuF_7HnRb_JkKufngvORwMhgWEfokJR2Fs-POp4om9JxipqvPAtI3MkoYN3rCv-lsL1JtgGaJY5uD_lUZ91udWFulwmld8ZDa33Pkw6hlJiCvcw&gsessionid=uUZ5YC0cVog042glB5M31UeaifXKTjqaSUoHXN1A1QCE1CfjBobWog",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "[은행명] 전월세보증금대출",
+    "url": "https://www.google.com/goto?url=CAESdwHEIkXXOG2RM8gsvLv5NbOwwFuci-2R7skPrus6OGwtdLV_V7X8doFC3PpFWac6pSY1gfbD_JxP0LaM0qNfjcXDkwNG1L_crRE80njs5KiMzltEyDbTbpvtikLjzC0XETHpQb6H2jLAUiVadGVh41QNAGaukqZc&gsessionid=QxFVocKYRwqgMz_cpaUY6Z7W7qKkx0dl4QrbY3uqTWqyW27aeEqR6Q",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전세지킴보증 신청가능여부 확인 | 전세보증금반환보증",
+    "url": "https://www.google.com/goto?url=CAESaAHEIkXXLtn_p5v-iXUoYnz2-zordysjnGdY-gWGUIVuQpAUoRP8pLIJUKaClgJ6LKlbgMhSoezIzawnLpwaP_O7Hbndz7wQ6Y_fUSmF9yC070rG57g4eqk1V__bf3fkxDzEbv9XIxCg&gsessionid=uUZ5YC0cVog042glB5M31UeaifXKTjqaSUoHXN1A1QCE1CfjBobWog",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "미소금융 | 자금지원 | 중소기업·자영업자 지원 종합정보센터 | 신고·상담·자문 서비스 | 금융소비자 정보포털 파인",
+    "url": "http://fine.fss.or.kr/fine/main/contents.do?menuNo=900162",
+    "hostname": "fine.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "전자공시 OPENDART 시스템 | 개발가이드 | 상세",
+    "url": "https://opendart.fss.or.kr/guide/detail.do?apiGrpCd=DS002&apiId=2020002",
+    "hostname": "opendart.fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "주택도시기금",
+    "url": "https://nhuf.molit.go.kr/",
+    "hostname": "nhuf.molit.go.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "2025 전세보증보험 완벽 비교: HUG·SGI 가입조건과 꿀팁 정리",
+    "url": "https://www.google.com/goto?url=CAESbgHEIkXXxVFXUruvJopi9iKXfFaJlYhs6IhjiUjfOE_TWaVsjQRzsq3QXXULxrAA3SPHFpVqUvzaQ0PvagRHowvH9T1Sx1ga1-hEWjFT2e5aY_7rsFEibN6QZQLQo7ltyoAvZCc2uWKPNtw0tk9a&gsessionid=uUZ5YC0cVog042glB5M31UeaifXKTjqaSUoHXN1A1QCE1CfjBobWog",
+    "hostname": "google.com",
+    "date": "2025-08-12",
+    "tier": 3
+   },
+   {
+    "title": "공개Q&A 조회 | Q&A | 민원·신고 |",
+    "url": "https://fss.or.kr/fss/cvpl/inquiRecpEc/view.do?menuNo=200094&recpNo=2026Q3544&pubYn=Y",
+    "hostname": "fss.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "버팀목전세자금대출",
+    "url": "https://www.google.com/goto?url=CAESjQEBxCJF107c-HPBJkCrIWSxKROru4qPgkrt7FmaWGHzcIcTtuFjx9iqnE5Y9fxpdyMaU4kShkpMgLgKjt35JwSE1Fos0bXpEqa1Al6uLeR2BTRtFi3PSmCpPezqU4qL-LyvjIJ4ERmvlzaHcHdPTvKUchj9DS31IrNFBZfyUvkKsyXZZ_Gc2yVVGka5Q0E&gsessionid=QxFVocKYRwqgMz_cpaUY6Z7W7qKkx0dl4QrbY3uqTWqyW27aeEqR6Q",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "2026 광주 청년 주택임차보증금 이자 지원",
+    "url": "https://www.google.com/goto?url=CAESYgHEIkXX0krl4_pw1tmGDgK2ui3QbjUYoECwQIEzpisOgpGvb244zsGydRCISLDXavdnsw7G8OmXDwJ2YmbNDZrRIQpvaYJ7A3onUQZTN3XM2ayF3OQhHz5m9iQXAv7md8jk&gsessionid=uUZ5YC0cVog042glB5M31UeaifXKTjqaSUoHXN1A1QCE1CfjBobWog",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "하나 전세금안심대출",
+    "url": "https://www.google.com/goto?url=CAESjAEBxCJF1yIabb-g0EubTpdgdNjV72QYbh4yTek0lMNGumiBGqaipKyqXAg1mADXXdKF7KYMh04GZK-4j0j4BgKdxhKtpJjkmQ2Iek5Yd2jn_7P-YcT4uSCVgJeIONrIzDcrEBRxFOpC0DIB7pOSsZ-pIf89bGdRqiPE79L36VfVIV_motUi9A55l4HknA&gsessionid=QxFVocKYRwqgMz_cpaUY6Z7W7qKkx0dl4QrbY3uqTWqyW27aeEqR6Q",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "사업개요 | 청년임차보증금 | 청년·신혼부부 지원 - 서울주거포털",
+    "url": "https://www.google.com/goto?url=CAESdgHEIkXXk_ynngXGSRIR3LEQeXpicpMp4JR7lUBghRJOIs6OTlNzpe7gQ4ewqbNF-o_s_fcSz7Q7dT8Cr1f9a4YMeNhJoZG6y_kf_fG3N-crgyCUwS8GO2mGvGzQPGKABSIRTdaIkMioQ-1IHnXWOOaL4uFBZsg&gsessionid=uUZ5YC0cVog042glB5M31UeaifXKTjqaSUoHXN1A1QCE1CfjBobWog",
+    "hostname": "google.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "보증금 미반환 조회 < 전세사기 피해 예방 < 전세사기예방센터 < 주택도시보증공사",
+    "url": "https://khug.or.kr/jeonse/web/s01/s010321.jsp?cur_page=9",
+    "hostname": "khug.or.kr",
+    "date": null,
+    "tier": 1
+   },
+   {
+    "title": "Npay biz - NAVER",
+    "url": "https://finsupport.naver.com/",
+    "hostname": "finsupport.naver.com",
+    "date": null,
+    "tier": 3
+   },
+   {
+    "title": "전세 대출 갈아타기 조건과 절차, 갈아타면 안 되는 경우 정리 ...",
+    "url": "https://www.google.com/goto?url=CAESlgEBxCJF1zdsypTKJq402B5062N1pvCTLV_9l4nUDpUfdN7f5z7W6Ky8lz0I3NgK6SC7eYWn_Uzsqxdeo6qYw4LJO-8DcMvW2xRIIINaHcAQilFxwD9P8g0hqoeRLg9Gw5qwb1tsnfrAQBAgHtDfnjNhgznuTJpO1cjhEcKGXGDce9YCIZC8wnmGuTdixyvLiELhlNNJQ2A&gsessionid=uUZ5YC0cVog042glB5M31UeaifXKTjqaSUoHXN1A1QCE1CfjBobWog",
+    "hostname": "google.com",
+    "date": "2026-08-25",
+    "tier": 3
+   }
+  ],
+  "requestId": "97ce6e8a-978d-4737-9ac3-a094eb56fa36"
+ },
+ "searches": [
+  {
+   "query": "전세자금대출 연장 보증금 감액 일부상환 HUG",
+   "results": [
+    {
+     "title": "[후기] 청년 버팀목 전세자금대출(HUG) 연장 후기(보증금관련 바뀐 부분 포함)",
+     "url": "https://m.blog.naver.com/skylerjh/224373254264",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "다행히 최근 제도 개선으로 기존 대출자의 연장 시 시세 하락으로 한도가 초과하더라도 연장을 승인해 준다고 합니다! (저도 3차 계약 때 KB시세가 내려 ...",
+     "date": "2026-08-09",
+     "tier": 3
+    },
+    {
+     "title": "[12편]전세대출 기간 연장(만기 갱신) 시 보증기관 재심사 통과 조건 총정리",
+     "url": "https://m.blog.naver.com/4900hl/224436896211",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "전세대출 만기 연장(기간 갱신)은 단순한 자동 연장이 아니라 보증기관의 재심사를 거쳐야 하는 필수 관문입니다. · 보증금 증액 시에는 추가 보증 심사가, ...",
+     "date": "2026-10-10",
+     "tier": 3
+    },
+    {
+     "title": "HUG 주택도시보증공사 - 전세금안심대출보증",
+     "url": "https://www.khug.or.kr/khmb/m/hg/gg/relax/relaxsub3.jsp",
+     "hostname": "khug.or.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=khug.or.kr&sz=128",
+     "description": "전세보증금 반환보증 가입 시 전세금채권을 통지방식으로 양도하는 경우에는 임대인의 협조가 없어도 보증가입이 가능합니다. ... 다만, 단독, 다중, 다가구주택의 경우에는 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "조건변경 안내 | 전세/월세자금보증",
+     "url": "https://www.hf.go.kr/ko/sub02/sub02_01_08.do",
+     "hostname": "hf.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=hf.go.kr&sz=128",
+     "description": "... 전세보증금 반환보증 취급으로 인한 채권양도의 경우에는 조건변경 가능; 조건변경 시점에 임차보증금이 감액된 경우 보증부대출 감액 필수. 기한연장. 임차보증금 7억원 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "주택도시보증공사(hug) 전세보증금반환보증 갱신(보증금 '감액') 필요서류",
+     "url": "https://lameans.tistory.com/897",
+     "hostname": "lameans.tistory.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=lameans.tistory.com&sz=128",
+     "description": "보증금 변경된 경우 갱신계약서 별도 작성해야. 확정일자는 받을 필요 없고, 갱신계약서만 작성하고 (확정일자 있는)기존 계약서랑 같이 제출. 보증금 ...",
+     "date": "2023-11-13",
+     "tier": 3
+    },
+    {
+     "title": "중기청 100 3회차 연장 후기: HUG 공시지가 126 감액 재계약 서류 및 ...",
+     "url": "https://m.blog.naver.com/heyun1126/224382558555",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "감액 보증금 일부 상환: 담당자 배정 후 집주인에게 돌려받은 차액을 대출 계좌로 입금하여 원금 일부를 상환합니다. 리파인 확인 전화 및 전자약정 ...",
+     "date": "2026-08-18",
+     "tier": 3
+    },
+    {
+     "title": "보증보험 대출 연장시 감액분 반환 문제 해결 방안 | 임대차 상담사례",
+     "url": "https://www.lawtalk.co.kr/qna/397841",
+     "hostname": "lawtalk.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=lawtalk.co.kr&sz=128",
+     "description": "HUG전세보증보험 가입중입니다. ... 대출연장을 진행하려보니 기준시가의 126% 이상이어서 전세보증금을 감액하지않으면 진행이 안된다고 은행에 답변 ...",
+     "date": "2024-04-16",
+     "tier": 3
+    },
+    {
+     "title": "HUG 안심전세대출 연장 갱신 시 일부상환",
+     "url": "https://www.a-ha.io/questions/427bfa5a9d80095893d8e501b4ae85dd",
+     "hostname": "a-ha.io",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=a-ha.io&sz=128",
+     "description": "22년 계약할 때 공시지가 150퍼센트에 딱 맞춰서 전세계약을 했었고, 이걸로 1억 1300만원 허그 안심전세대출을 받았습니다 ...",
+     "date": "2024-02-18",
+     "tier": 3
+    },
+    {
+     "title": "전세자금대출>상세조회",
+     "url": "https://spot.wooribank.com/pot/Dream?withyou=POLON0055&cc=c010528:c010531;c012425:c012399&PRD_CD=P020006646&PRD_YN=Y",
+     "hostname": "spot.wooribank.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=spot.wooribank.com&sz=128",
+     "description": "「주택시장 안정화 방안」에 따라, 전세대출 취급 후 2주택 이상을 보유한 경우(배우자 주택보유수 포함) 연장이 불가 및 대출을 상환하셔야 합니다. •「주택시장 안정 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "HUG 주택도시보증공사 - 주택전세자금대출",
+     "url": "https://www.khug.or.kr/khmb/m/hg/gg/prop/propsub5.jsp",
+     "hostname": "khug.or.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=khug.or.kr&sz=128",
+     "description": "2017년 7월 17일부터 버팀목 대출 이용자는 대출기간 중 원금 일부(10~50%)를 나누어 갚고 잔여원금을 만기에 일시상환하는 혼합 상환 방식을 선택할 수 있으며, 이 경우 ...",
+     "date": null,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "query": "전세대출 보증금 감액 재계약 상환 금액 계산 HF",
+   "results": [
+    {
+     "title": "전세 재계약 완료 2부(feat. 감액계약갱신-대환대출로 고금리 탈출)",
+     "url": "https://m.blog.naver.com/goodlifemy/223392101388",
+     "hostname": "m.blog.naver.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=m.blog.naver.com&sz=128",
+     "description": "전세보증금 감액 ・ 약 2,500만원이 회수 ・ 전세대출 금리는 3%대였다 2억 보증금에 대한 월 상환금은 60만원대 5%넘는 금리보다 감지덕지이지만",
+     "date": "2024-03-22",
+     "tier": 3
+    },
+    {
+     "title": "전세자금대출>상세조회",
+     "url": "https://spot.wooribank.com/pot/Dream?withyou=POLON0055&cc=c010528:c010531;c012425:c012399&PRD_CD=P020006578&PRD_YN=Y",
+     "hostname": "spot.wooribank.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=spot.wooribank.com&sz=128",
+     "description": "중도상환해약금 중도상환시 대출만기까지 남은기간에 따라 다르게 부과 - 중도상환대출금 × 중도상환해약금 요율(주1) × 잔존기간 ÷ 대출기간(주2); (주1) 중도상환 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "전세계약 연장 할때 보증금 감액과 증액 이렇게 준비하세요!",
+     "url": "https://www.youtube.com/watch?v=eCGpHdIoHZY",
+     "hostname": "youtube.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
+     "description": "재계약시 전세 보증금 감액과 증액 안전하게 계약 연장하는 법에 대해 설명드렸습니다. ✅️문의 : 010-****-**** … 보증금 감액과 증액 이렇게 준비하세요! ...",
+     "date": null,
+     "tier": 0
+    },
+    {
+     "title": "월별상환원리금 | 주택담보대출",
+     "url": "https://www.hf.go.kr/ko/sub01/sub01_06_03.do",
+     "hostname": "hf.go.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=hf.go.kr&sz=128",
+     "description": "원리금상환액은 실제 금융기관에 납부하셔야 하는 원리금과 다소 차이가 날 수 있습니다. 대출만기까지 납부하시는 총 금액에는 차이가 없습니다. 대출잔액에 따라 계산되 ...",
+     "date": null,
+     "tier": 1
+    },
+    {
+     "title": "대출 상환금액 계산기",
+     "url": "https://www.kyobo.com/dgt/web/loan/product/guidiance/inancial-calculator",
+     "hostname": "kyobo.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=kyobo.com&sz=128",
+     "description": "대출 신청 전 원하는 대출조건으로 월 상환금, 월 이자, 총 상환금액을 미리 계산해 보세요. 대출금액 만원. 대출금리 %; 대출기간 년; 거치기간",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "전세 대출 후, 보증금 감액하여 전세계약 연장 하는 경우",
+     "url": "https://soorun.tistory.com/entry/%EC%A0%84%EC%84%B8-%EB%8C%80%EC%B6%9C-%ED%9B%84-%EA%B3%84%EC%95%BD-%EC%97%B0%EC%9E%A5-%EC%8B%9C-%EB%B3%B4%EC%A6%9D%EA%B8%88-%EA%B0%90%EC%95%A1%EB%90%A0-%EA%B2%BD%EC%9A%B0",
+     "hostname": "soorun.tistory.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=soorun.tistory.com&sz=128",
+     "description": "은행에서는 보증금 시세를 매일 확인해서 계약 날짜 당일의 시세로 재계약해야만 대출이 연장됩니다. 즉, 시세가 9500만 원으로 떨어져 9500만 원 이하 ...",
+     "date": "2024-12-28",
+     "tier": 3
+    },
+    {
+     "title": "전세계약 연장했는데…전세대출은 어떻게 해야 하지?",
+     "url": "https://www.dailypop.kr/news/articleView.html?idxno=70221",
+     "hostname": "dailypop.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=dailypop.kr&sz=128",
+     "description": "전세보증금 감액으로 재계약을 진행했다면 다시 확정일자를 받을 필요는 없다. 기존에 받은 우선변제권 등의 효력이 계속 유지되기 때문이다.",
+     "date": "2023-07-04",
+     "tier": 3
+    },
+    {
+     "title": "대출 이자 계산",
+     "url": "https://xn--989a00af8jnslv3dba.com/%EB%8C%80%EC%B6%9C%EC%9D%B4%EC%9E%90",
+     "hostname": "xn--989a00af8jnslv3dba.com",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=xn--989a00af8jnslv3dba.com&sz=128",
+     "description": "대출 시 납부해야할 이자를 계산합니다. 상환방법, 대출기간, 이율에 따른 월별 상환 테이블, 총 납부 이자를 확인할 수 있습니다. 원금은 만기에 전액 상환하고 그 전까 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "대출 이자 계산기",
+     "url": "https://www.kinfa.or.kr/financialProduct/learnMorePopup.do",
+     "hostname": "kinfa.or.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=kinfa.or.kr&sz=128",
+     "description": "만기일시상환 ? 대출만기까지 대출원금에 대한 이자만 납부하고, 원금은 만기에 지불하는 방식입니다. 대출원금. 만원. 대출기간. 개월. 거치기간. 개월. 대출금리. %(연 ...",
+     "date": null,
+     "tier": 3
+    },
+    {
+     "title": "원리금균등상환 금융계산기",
+     "url": "https://www.standardchartered.co.kr/np/kr/cm/fc/CalculatorLoan2.jsp",
+     "hostname": "standardchartered.co.kr",
+     "faviconUrl": "https://www.google.com/s2/favicons?domain=standardchartered.co.kr&sz=128",
+     "description": "대출기간동안 원금과 이자를 균등하게 매월 얼마씩 갚아야 할까요? 원리금균등상환 금액 입력표. 대출금액, 대출기간, 대출금리 로 구성된 표 ... 계산결과. 대출 원리금균등 ...",
+     "date": null,
+     "tier": 3
+    }
+   ]
+  }
+ ]
+}

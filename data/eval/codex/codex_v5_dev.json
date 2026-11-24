@@ -1,0 +1,8 @@
+{
+ "source": "Codex CLI 0.169.0 (격리 폴더, v1~v4와 겹치지 않게, 유형 고르게), 2026-11-22 — 전부 검증용",
+ "sha256_raw": "e5a214fc9e3299bbf50b2a57bc13c16538b1ef5d6dcc3b9dabd0ac89f7c01db2",
+ "rule": "개발용 — 실패를 보고 고쳐도 됨(과대평가 가능)",
+ "asOf": "2026-11-21",
+ "split": "dev",
+ "cases": []
+}
